@@ -1,10 +1,3 @@
----
-layout: page
-title: Teaching @ KrishnanLab
-tagline: Courses, Workshops, Modules
-description: Courses taught by members of the Krishnan Lab at MSU
----
-
 ## Bioinformatics and Computational Biology
 This course is an introduction to contemporary topics in bioinformatics and computational biology, dealing with combining large-scale data and modern analytical techniques to answer biological questions. In each topic, centered around a recent paper, we discuss the major biological & biomedical questions, explore the relevant biological/genomics/biomedical datasets, and understand the underlying statistical, probabilistic, & machine-learning approaches.
 
