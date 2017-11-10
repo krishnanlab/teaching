@@ -1,4 +1,4 @@
-## Bioinformatics Workshops
+## Bioinformatics Workshops | Summer 2017
 These bioinformatics workshops provide training in Linux/R/Python programming, Statistical data analysis and visualization, and Analysis of various types of genomic data (e.g. RNA-seq).
 
 ### Three week-long workshops:
