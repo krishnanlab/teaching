@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: Teaching | Krishnan Lab
 description: Courses & workshops that members of the Krishnan Lab at MSU participate in
-show_downloads: false
-github.is_project_page: false
+show_downloads: "false"
+github.is_project_page: "false"
