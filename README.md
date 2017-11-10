@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Bioinformatics and Computational Biology
+This course is an introduction to contemporary topics in bioinformatics and computational biology that deal with combining large-scale data and modern analytical techniques to answer biological questions.
 
-You can use the [editor on GitHub](https://github.com/krishnanlab/teaching/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Using a series of recent papers, we:
+- Discuss major biological & biomedical topics,
+- Explore big genomics & biomedical datasets, and
+- Understand the underlying statistical, probabilistic, & machine-learning approaches.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Spring 2018]
 
-### Markdown
+## Modular Courses in Bioinformatics
+These courses cover similar material to the August workshops, but use the flipped-classroom philosophy of having students watch video lectures online and come to class to apply the tools to real data. Each module is worth 1 credit. Instructor: [Alexis Black-Pyrkosz](https://cmse.msu.edu/directory/faculty/alexis-black-pyrkosz/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Fall 2017
+#### Sections
+- CMSE 890 - Sec 301 (Sept 5 - Sept 28): Programming for Bioinformatics
+- CMSE 890 - Sec 302 (Oct 3 - Oct 26): Statistical Analysis and Visualization
+- CMSE 890 - Sec 303 (Oct 31 - Nov 28): Transcriptomic Data Analysis
 
-```markdown
-Syntax highlighted code block
+#### Schedule
+3:00 - 4:50pm, Tuesdays and Thursdays.
 
-# Header 1
-## Header 2
-### Header 3
+#### Location
+A148A Plant & Soil Sciences Building.
 
-- Bulleted
-- List
+## Bioinformatics Workshops
+These bioinformatics workshops provide training in Linux/R/Python programming, Statistical data analysis and visualization, and Analysis of various types of genomic data (e.g. RNA-seq).
 
-1. Numbered
-2. List
+### 2017
+Three week-long workshops:
+- Week 1 (July 31 - Aug 4): Programming : intro & best practices
+- Week 2 (Aug 7 - Aug 11): Data analysis: handy concepts & skills
+- Week 3 (Aug 14 - Aug 18): Analysis of large-scale gene-expression data
 
-**Bold** and _Italic_ and `Code` text
+#### Schedule
+8:30am - 12:30pm, Monday through Friday.
 
-[Link](url) and ![Image](src)
-```
+#### Location
+1502/1503 Engineering Building.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krishnanlab/teaching/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+\[[MORE](https://cmse.msu.edu/news-events/events/summer-2017-bioinformatics-workshops-at-msu/)]
