@@ -6,7 +6,7 @@ Students will learn how to formulate problems for quantitative inquiry, design c
 \[[Spring 2018](https://github.com/krishnanlab/teaching/blob/master/compbio/spring2018)\]
 
 ## Modular Courses in Bioinformatics
-These courses cover similar material to the August workshops, but use the flipped-classroom philosophy of having students watch video lectures online and come to class to apply the tools to real data. Each module is worth 1 credit. Instructor: [Alexis Black-Pyrkosz](https://cmse.msu.edu/directory/faculty/alexis-black-pyrkosz/)
+These courses cover similar material to the August workshops, but use the flipped-classroom philosophy of having students watch video lectures online and come to class to apply the tools to real data. Each module is worth 1 credit.
 
 \[[Fall 2017](https://github.com/krishnanlab/teaching/blob/master/bioinfomodules/fall2017)\]
 
