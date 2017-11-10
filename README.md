@@ -3,14 +3,14 @@ This course is an introduction to contemporary topics in bioinformatics and comp
 
 Students will learn how to formulate problems for quantitative inquiry, design computational projects, understand and think critically about data & methods, communicate research findings, perform reproducible research, and practice open science. Students will apply all these by carrying out a group project utilizing large-scale datasets to answer biological questions using custom-written software. They will present this project in class and submit a report at the end of the course.
 
-\[[Spring 2018](https://github.com/krishnanlab/teaching/blob/master/compbio/spring2018.md)\]
+\[[Spring 2018](compbio/spring2018.md)\]
 
 ## Modular Courses in Bioinformatics
 These courses cover similar material to the August workshops, but use the flipped-classroom philosophy of having students watch video lectures online and come to class to apply the tools to real data. Each module is worth 1 credit.
 
-\[[Fall 2017](https://github.com/krishnanlab/teaching/blob/master/bioinfomodules/fall2017.md)\]
+\[[Fall 2017](bioinfomodules/fall2017.md)\]
 
 ## Bioinformatics Workshops
 These bioinformatics workshops provide training in Linux/R/Python programming, Statistical data analysis and visualization, and Analysis of various types of genomic data (e.g. RNA-seq).
 
-\[[Summer 2017](https://github.com/krishnanlab/teaching/blob/master/bioinfoworkshops/summer2017.md)\]
+\[[Summer 2017](bioinfoworkshops/summer2017.md)\]
