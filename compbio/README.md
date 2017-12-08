@@ -4,7 +4,17 @@ This course is an introduction to contemporary topics in bioinformatics and comp
 
 Students will learn how to formulate problems for quantitative inquiry, design computational projects, understand and think critically about data & methods, communicate research findings, perform reproducible research, and practice open science. Students will apply all these by carrying out a group project, presenting their project in class, and submit a report at the end of the course.
 
-### Outline of major topics to be covered (**subject to changes**):
+## Instructor
+**Arjun Krishnan**  
+Dept. Computational Mathematics, Science, and Engineering  
+Dept. Biochemistry and Molecular Biology  
+2507H Engineering Building  
+
+Email: arjun@msu.edu  
+Twitter: @compbiologist  
+
+## Course Outline
+Major topics to be covered (**subject to changes**):
 * Genome assembly and annotation
 * Sequence alignment and pattern finding
 * Comparative genomics
@@ -18,18 +28,16 @@ Students will learn how to formulate problems for quantitative inquiry, design c
 * Metabolomics and metabolic flux analysis
 * Large-scale biological networks
 
-### Schedule
-Mon and Wed: 8:30-9:50 am
-
-### Location
+## Schedule and Location
+Mon and Wed: 8:30-9:50 am  
 202 Urban Planning & Land. Arch. Building
 
-### Prerequisites
+## Office Hours
+TBD
+
+## Prerequisites
 CMSE 201 and two semesters of introductory biology (LB 144 and 145 OR BS 161 and 162 OR BS 181H and 182H, or equivalent).
 Statistics at the level of STT 231 is strongly recommended.
 
-### Note
+## Note
 Open to both undergraduate and graduate students. Counts toward the CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu for an override.
-
-### Instructor
-Arjun Krishnan | arjun@msu.edu | @compbiologist
