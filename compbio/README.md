@@ -4,23 +4,32 @@ This course is an introduction to contemporary topics in bioinformatics and comp
 
 Students will learn how to formulate problems for quantitative inquiry, design computational projects, understand and think critically about data & methods, communicate research findings, perform reproducible research, and practice open science. Students will apply all these by carrying out a group project, presenting their project in class, and submit a report at the end of the course.
 
-**Note:** Open to both undergraduate and graduate students. Counts toward the CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu for an override.
+**Note**  
+Open to both undergraduate and graduate students. Counts toward the CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu for an override.
 
-#### Prerequisites
+**Prerequisites**  
 CMSE 201 and two semesters of introductory biology (LB 144 and 145 OR BS 161 and 162 OR BS 181H and 182H, or equivalent).
 Statistics at the level of STT 231 is strongly recommended.
 
-## Instructor
-**Arjun Krishnan**  
-Dept. Computational Mathematics, Science, and Engineering  
-Dept. Biochemistry and Molecular Biology  
-2507H Engineering Building  
+## Contents
+* [Instructor Contact Information](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#instructor-contact-information)
+* [Course Outline and Materials](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#course-outline-and-materials)
+* [Schedule, Location, Calendar, and Office Hours](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#schedule-location-calendar-and-office-hours)
+* [Website and Communication](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#website-and-communication)
+* [Course Activities](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#course-activities)
+* [Grading Information](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#grading-information)
+* [Attendance, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#attendance-conduct-honesty-accomodations)
 
-Email: arjun@msu.edu  
-Twitter: [@compbiologist](https://twitter.com/compbiologist)  
-Website: https://cmse.msu.edu/directory/faculty/arjun-krishnan/
+## Instructor Contact Information
+Arjun Krishnan | _i_
+:------------ | :------------
+Affiliation | Dept. Computational Mathematics, Science, and Engineering</br>Dept. Biochemistry and Molecular Biology
+Office | 2507H Engineering Building
+Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com/compbiologist)</br>Website: https://cmse.msu.edu/directory/faculty/arjun-krishnan/
 
-## Course Outline
+[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
+
+## Course Outline and Materials
 Major topics to be covered (**subject to changes**):
 * Genome assembly and annotation
 * Sequence alignment and pattern finding
@@ -35,8 +44,12 @@ Major topics to be covered (**subject to changes**):
 * Metabolomics and metabolic flux analysis
 * Large-scale biological networks
 
-## Recommended Materials
+[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
+
+### Recommended Materials
 TBD
+
+[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
 
 ## Schedule, Location, Calendar, and Office Hours
 S/L | Info
@@ -53,6 +66,8 @@ TBD
 ### Office Hours
 TBD
 
+[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
+
 ## Website and Communication
 
 ### Course website
@@ -62,6 +77,8 @@ TBD
 The major mode of communication in this course including msjor announcements, will be carried out via the course Slack account https://cmse491bioinfocompbio.slack.com. All of you should have invitations to join this account in your MSU email.  
 
 **Emails:** Although the bulk of the communication will take place via Slack, at times (rarely), we will send out important course information via email. This email is sent to your MSU email address (the one that ends in “@msu.edu”).  You are responsible for all information sent out to your University email account, and for checking this account on a regular basis.
+
+[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
 
 ## Course Activities
 
@@ -77,11 +94,15 @@ TBD
 ### Semester Projects and Presentation
 TBD
 
+[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
+
 ## Grading Information
 [Notes on the grading scheme for the course and how grades will be adjudicated.]
 
 ### Grading Scale
 TBD
+
+[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
 
 ## Attendance, Conduct, Honesty, and Accommodations
 
@@ -100,3 +121,5 @@ More broadly, we ask that students adhere to the Spartan Code of Honor academic 
 
 ### Accomodations
 If you have a university-documented learning difficulty or require other accommodations, please provide me with your VISA as soon as possible and speak with me about how I can assist you in your learning.  If you do not have a VISA but have been documented with a learning difficulty or other problems for which you may still require accommodation, please contact MSU’s Resource Center for People with Disabilities (355-9642) in order to acquire current documentation.
+
+[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
