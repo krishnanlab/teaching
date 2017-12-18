@@ -27,7 +27,7 @@ Affiliation | Dept. Computational Mathematics, Science, and Engineering</br>Dept
 Office | 2507H Engineering Building
 Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com/compbiologist)</br>Website: https://cmse.msu.edu/directory/faculty/arjun-krishnan/
 
-[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)\ ]
 
 ## Course Outline and Materials
 Major topics to be covered (**subject to changes**):
@@ -44,12 +44,10 @@ Major topics to be covered (**subject to changes**):
 * Metabolomics and metabolic flux analysis
 * Large-scale biological networks
 
-[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
-
 ### Recommended Materials
 TBD
 
-[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology) ]
 
 ## Schedule, Location, Calendar, and Office Hours
 S/L | Info
@@ -66,7 +64,7 @@ TBD
 ### Office Hours
 TBD
 
-[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology) ]
 
 ## Website and Communication
 
@@ -78,7 +76,7 @@ The major mode of communication in this course including msjor announcements, wi
 
 **Emails:** Although the bulk of the communication will take place via Slack, at times (rarely), we will send out important course information via email. This email is sent to your MSU email address (the one that ends in “@msu.edu”).  You are responsible for all information sent out to your University email account, and for checking this account on a regular basis.
 
-[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology) ]
 
 ## Course Activities
 
@@ -94,7 +92,7 @@ TBD
 ### Semester Projects and Presentation
 TBD
 
-[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology) ]
 
 ## Grading Information
 [Notes on the grading scheme for the course and how grades will be adjudicated.]
@@ -102,15 +100,15 @@ TBD
 ### Grading Scale
 TBD
 
-[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology) ]
 
 ## Attendance, Conduct, Honesty, and Accommodations
 
 ### Class Attendance
-[Policy regarding class attendance.]
+[TBD: Policy regarding class attendance.]
 
 ### Code of Conduct
-[Code of conduct.]
+[TBD: Code of conduct.]
 
 ### Academic honesty
 Intellectual integrity is the foundation of the scientific enterprise. In all instances, you must do your own work and give proper credit to all sources that you use in your papers and oral presentations – any instance of submitting another person's work, ideas, or wording as your own counts as plagiarism. This includes failing to cite any direct quotations in your essays, research paper, class debate, or written presentation. The MSU College of Natural Science adheres to the policies of academic honesty as specified in the General Student Regulations 1.0, Protection of Scholarship and Grades, and in the all-University statement on Integrity of Scholarship and Grades, which are included in Spartan Life: Student Handbook and Resource Guide. Students who plagiarize will receive a 0.0 in the course. In addition, University policy requires that any cheating offense, regardless of the magnitude of the infraction or punishment decided upon by the professor, be reported immediately to the dean of the student's college.
@@ -122,4 +120,4 @@ More broadly, we ask that students adhere to the Spartan Code of Honor academic 
 ### Accomodations
 If you have a university-documented learning difficulty or require other accommodations, please provide me with your VISA as soon as possible and speak with me about how I can assist you in your learning.  If you do not have a VISA but have been documented with a learning difficulty or other problems for which you may still require accommodation, please contact MSU’s Resource Center for People with Disabilities (355-9642) in order to acquire current documentation.
 
-[Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology)
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology) ]
