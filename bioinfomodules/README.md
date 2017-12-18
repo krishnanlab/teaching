@@ -4,8 +4,8 @@ These courses cover similar material to the August workshops, but use the flippe
 ## Sections
 ID | Dates | Name
 :------- | :------- | :-------
-CMSE 890 - Sec 301 | Sept 5 - Sept 28 | Programming for Bioinformatics
-CMSE 890 - Sec 302 | Oct 3 - Oct 26) | Statistical Analysis and Visualization
+CMSE 890 - Sec 301 | Sep 05 - Sep 28 | Programming for Bioinformatics
+CMSE 890 - Sec 302 | Oct 03 - Oct 26 | Statistical Analysis and Visualization
 CMSE 890 - Sec 303 | Oct 31 - Nov 28 | Transcriptomic Data Analysis
 
 ## Schedule
