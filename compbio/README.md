@@ -56,11 +56,56 @@ S/L | Info
 Schedule | Mon and Wed</br>8:30-9:50 am
 Location | 202 Urban Planning & Land. Arch. Building
 
-### Calendar
-TBD
-
 ### Key Dates
-TBD
+Week | Date | Item
+:----- | ----------: | :--
+Week 1 | Mon, Jan 08 | Class begins
+Week 2 | Mon, Jan 15 | No class (Martin Luther King Day)
+Week 5 | Mon, Feb 05 | Project proposals due
+Week 8 | Wed, Feb 28 | Project updates due
+Week 8 | Mon, Mar 05 | No class (Spring break)
+Week 9 | Wed, Mar 07 | No class (Spring break)
+Week 15 | Wed, Apr 18 | Final projects due
+Week 15 | Mon, Apr 23 | Project presentations 1
+Week 16 | Wed, Apr 25 | Project presentations 2
+Week 16 | Mon, Apr 30 | Final exam
+
+### Calendar
+Week | Date | Topic | Lecturer | Learning Materials
+:----- | ----------: | :-- | :------------- | :--
+Week 1 | Mon, Jan 08 | **Welcome** to class; Overview and expectations | Arjun Krishnan | TBD
+Week 1 | Wed, Jan 10 | TBD | Arjun Krishnan | TBD
+Week 2 | Mon, Jan 15 | No class (Martin Luther King Day) | Arjun Krishnan | TBD
+Week 2 | Wed, Jan 17 | TBD | Arjun Krishnan | TBD
+Week 3 | Mon, Jan 22 | TBD | Arjun Krishnan | TBD
+Week 3 | Wed, Jan 24 | TBD | Arjun Krishnan | TBD
+Week 4 | Mon, Jan 29 | TBD | Arjun Krishnan | TBD
+Week 4 | Wed, Jan 31 | TBD | Arjun Krishnan | TBD
+Week 5 | Mon, Feb 05 | TBD; **Project proposals due** | Arjun Krishnan | TBD
+Week 5 | Wed, Feb 07 | TBD | Arjun Krishnan | TBD
+Week 6 | Mon, Feb 12 | TBD | Arjun Krishnan | TBD
+Week 6 | Wed, Feb 14 | TBD | Arjun Krishnan | TBD
+Week 7 | Mon, Feb 19 | TBD | Arjun Krishnan | TBD
+Week 7 | Wed, Feb 21 | TBD | Arjun Krishnan | TBD
+Week 7 | Mon, Feb 26 | TBD | Arjun Krishnan | TBD
+Week 8 | Wed, Feb 28 | Middle of semester; **Project updates due** | Arjun Krishnan | TBD
+Week 8 | Mon, Mar 05 | No class (Spring break) | Arjun Krishnan | TBD
+Week 9 | Wed, Mar 07 | No class (Spring break) | Arjun Krishnan | TBD
+Week 9 | Mon, Mar 12 | TBD | Arjun Krishnan | TBD
+Week 10 | Wed, Mar 14 | TBD | Arjun Krishnan | TBD
+Week 10 | Mon, Mar 19 | TBD | Arjun Krishnan | TBD
+Week 11 | Wed, Mar 21 | TBD | Arjun Krishnan | TBD
+Week 11 | Mon, Mar 26 | TBD | Arjun Krishnan | TBD
+Week 12 | Wed, Mar 28 | TBD | Arjun Krishnan | TBD
+Week 12 | Mon, Apr 02 | TBD | Arjun Krishnan | TBD
+Week 13 | Wed, Apr 04 | TBD | Arjun Krishnan | TBD
+Week 13 | Mon, Apr 09 | TBD | Arjun Krishnan | TBD
+Week 14 | Wed, Apr 11 | TBD | Arjun Krishnan | TBD
+Week 14 | Mon, Apr 16 | TBD | Arjun Krishnan | TBD
+Week 15 | Wed, Apr 18 | TBD; **Final projects due** | Arjun Krishnan | TBD
+Week 15 | Mon, Apr 23 | Project presentations 1 | Arjun Krishnan | TBD
+Week 16 | Wed, Apr 25 | Project presentations 2 | Arjun Krishnan | TBD
+Week 16 | Mon, Apr 30 | Final exam | Arjun Krishnan | TBD
 
 ### Office Hours
 TBD
