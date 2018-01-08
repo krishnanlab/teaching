@@ -141,7 +141,7 @@ For each topic, you will be assigned a paper after the topic's "lecture" class t
 **Page 1** of your report should contain the following three sections:
 1. _Background_
     - What problem/task is the paper trying to address? What is the biological problem and/or the computational challenge?
-    - How was the problem/task addressed up to that point and what were the limits of the _then_ current practice?
+    - How was the problem/task addressed up to that point and what were the limitations of the _then_ current practice?
 2. _Summary of contributions_
     - What is the contribution of this paper in terms of approach, algorithmic techniques, computational ideas?
     - Summarize the conclusion(s) your draw from each main figure in the paper. Based on your conclusions, are the major claims of the paper justified?
@@ -164,20 +164,64 @@ For each topic, you will be assigned a paper after the topic's "lecture" class t
     - Are the conclusions you draw from the figure in agreement with those drawn by the authors?
 
 ### Class Participation
-- Do the pre-class assignments and additional readings
-- Show up to class
-- Work in groups during in-class discussion sessions
-- No one will have the perfect background: **Ask questions** about computational or biological concepts
-- Correct me when I am wrong
+In general:
+- Do the pre-class assignments and additional readings.
+- Show up to class.
+- Work in groups during in-class discussion sessions.
+- No one will have the perfect background: **Ask questions** about computational or biological concepts.
+- Correct me when I am wrong.
+
+#### Paper discussion
+You will also take turns to present the assigned paper during each topic's "Paper discussion" class. Make sure you sign-up.
+- Two students together present each paper.
+- The presentation should focus on the computational/analytical parts, not necessarily on detailed biological background & conclusions.
+    1. What is the problem the authors are trying to solve? [description of the problem along with why it is important]
+    2. What are their claims about the _then_ current practices and their limitations? [existing approaches to solve the problem & their pros-and-cons]
+    3. What’s their approach? What’s new in it and what is their rationale for it being potentially successful? [description of the *new ideas*, their *merits* in comparison to existing ones, and *rationale*]
+    4. What are the major contributions and limitations of this paper?
+    5. What are some open questions and next steps (for addressing the limitations)?
+- The two students will also make a note of all the points discussed in the class during the presentation, write-up them up by working with me, and post the discussion on [PubPeer](https://pubpeer.com/).
 
 ### Scribing
-- Each lecture will have two dedicated scribes who will take notes on the lecture.
-- Individually complete draft of scribe notes due in 3 days after lecture.
-    - I will read and give comments/suggestions.
-- The two scribes will then work together to combine their drafts+comments into a single final scribe notes due in 6 days after lecture.
+- Each topic's "Lecture" class will have two dedicated scribes who will take notes on the lecture.
+- The scribes should submit their _individually completed_ drafts of their scribe notes within 3 days after lecture. I will read those notes and give comments/suggestions.
+- The two scribes should then work together to combine their drafts+comments into a single final scribe notes and submit within 6 days after lecture.
 
 ### Semester Project and Presentation
-After you have formed teams, I will create private channels for each team on Slack so that you can communicate effectively with each other.
+A major goal of this course is to prepare you for performing original research in computational biology, and for effectively presenting your ideas and research. The semester project will serve as the most practical way to do exactly that.
+
+Students are encouraged to form teams of two and work on this project by leveraging their complementary skills. Projects can take any one of the following flavors:
+- Design and implement a new computational method for a task in biology
+- Improve an existing method
+- Perform an evaluation of several existing methods
+- Develop a fully-reproducible documentation and codebase for an existing analysis in a paper
+
+The outcomes of this semester-long project should include:
+1. Well-documented code to:
+    - download and process the data
+    - perform the computational analysis and generate all the results
+    - visualize the results as various plots
+2. Detailed final report containing the following sections:
+    - Abstract
+    - Introduction
+    - Data and Methods
+    - Results and Discussion
+    - Limitations and Future Directions
+    - References
+3. A presentation (slides) that describes your project - motivation, exact problem, approach, results, discussion & conclusions, limitations & future direcrtions, acknowledgements.
+
+There are several [project deadlines](https://github.com/krishnanlab/teaching/tree/master/compbio#project-deadlines) throughout the course that will help you stay on track, allowing you to complete a substantial project.
+1. Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you and find potential partners. **Project profile due Mon, Jan 29.**
+2. Discuss with Arjun (and any other PI), read recent papers, talk to potential partners. Describe project ideas and form groups. **Project topic/team due Wed, Feb 07.**
+3. Prepare a two-page pre-proposal (Page1: text; Page2: figures & references). **Project pre-proposal due Wed, Feb 14.**
+4. Write 4-page proposal describing project goals, division of work, milestones, datasets, and challenges. **Project proposal due Mon, Feb 26.**
+5. Review and discuss proposals (NIH review format). **Reviews due Mon, Mar 05.**
+6. Address peer evaluations, revise aims, scope, list of final goals & deliverables. **Response due Mon, Mar 14** (note: due after presentation, not Mar 12).
+7. Continue making substantial progress on proposed milestones. Write outline/first-draft of final report. Meet Arjun to discuss all results and get feedback on the draft. **Mid-course project report due Wed, Apr 04.**
+8. Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience. **Final project report due Wed, Apr 25.**
+9. Final project presentations will take place on the **Wed, Apr 25** and **Mon, Apr 30**.
+
+After you have formed teams, I will create private channels for each team on Slack so that you can effectively communicate with each other.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology) ]
 
