@@ -112,7 +112,8 @@ Mid-term project proposal presentations | Mon, Mar 12
 Review response | Mon, Mar 14
 Mid-course project report | Wed, Apr 04
 Final project report | Wed, Apr 25
-Final project presentations | Wed, Apr 25 and Mon, Apr 30
+Final project presentations 1 | Wed, Apr 25
+Final project presentations 2 | Mon, Apr 30
 
 ### Office Hours
 TBD
@@ -163,11 +164,17 @@ For each topic, you will be assigned a paper after the topic's "lecture" class t
     - Are the conclusions you draw from the figure in agreement with those drawn by the authors?
 
 ### Class Participation
-Ask questions
-Correct me if I am wrong
+- Do the pre-class assignments and additional readings
+- Show up to class
+- Work in groups during in-class discussion sessions
+- No one will have the perfect background: **Ask questions** about computational or biological concepts
+- Correct me when I am wrong
 
 ### Scribing
-TBD
+- Each lecture will have two dedicated scribes who will take notes on the lecture.
+- Individually complete draft of scribe notes due in 3 days after lecture.
+    - I will read and give comments/suggestions.
+- The two scribes will then work together to combine their drafts+comments into a single final scribe notes due in 6 days after lecture.
 
 ### Semester Project and Presentation
 After you have formed teams, I will create private channels for each team on Slack so that you can communicate effectively with each other.
