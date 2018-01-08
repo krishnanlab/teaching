@@ -66,7 +66,7 @@ This calendar contains the class schedule and the links to the lecture slides an
 
 Week | Date | Topic | Content | Learning Materials
 :----- | ----------: | :-- | :------------- | :--
-Week 1 | Mon, Jan 08 | Introduction and Overview | Course overview | [In-coming survey](https://goo.gl/forms/Vt0tFiakqVB42Mmo2)
+Week 1 | Mon, Jan 08 | Introduction and Overview | Course overview | [In-coming survey](https://goo.gl/forms/Vt0tFiakqVB42Mmo2)</br>Lecture1 [PDF](https://github.com/krishnanlab/teaching/blob/master/compbio/Lectures/Lecture1.pdf)</br>Required reading:</br>- All biology is computational biology [Journal](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002050) [PDF](https://github.com/krishnanlab/teaching/blob/master/compbio/Papers/Markowetz2017_all-bio-is-compbio.pdf)</br>- Computational biologists: moving to the driver's seat [Journal](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1357-1) [PDF](https://github.com/krishnanlab/teaching/blob/master/compbio/Papers/Yanai2017_compbiologist-drivers-seat.pdf)
 Week 1 | Wed, Jan 10 | Introduction and Overview | Getting started | TBD
 Week 2 | Mon, Jan 15 | No class (MLK Day) | |
 Week 2 | Wed, Jan 17 | Genome assembly and annotation | Lecture | TBD
@@ -82,8 +82,8 @@ Week 7 | Mon, Feb 19 | Regulatory genomics | Paper discussion | TBD
 Week 7 | Wed, Feb 21 | Functional genomics | Lecture | TBD
 Week 7 | Mon, Feb 26 | Functional genomics | Paper discussion | TBD
 Week 8 | Wed, Feb 28 | Mini Primers | TBD | TBD
-Week 8 | Mon, Mar 05 | No class (Spring break) | TBD | TBD
-Week 9 | Wed, Mar 07 | No class (Spring break) | TBD | TBD
+Week 8 | Mon, Mar 05 | No class (Spring break) | | 
+Week 9 | Wed, Mar 07 | No class (Spring break) | | 
 Week 9 | Mon, Mar 12 | Mid-term project proposal presentations | |
 Week 10 | Wed, Mar 14 | Molecular and digital evolution | Lecture | TBD
 Week 10 | Mon, Mar 19 | Molecular and digital evolution | Paper discussion | TBD
@@ -128,7 +128,7 @@ This [GitHub repo](https://github.com/krishnanlab/teaching/tree/master/compbio) 
 ### Communication
 The primary mode of communication in this course (including major announcements), will be the course Slack account https://cmse491bioinfocompbio.slack.com. All of you should have invitations to join this account in your MSU email.  
 
-**Emails**
+**Emails**  
 Although the bulk of the communication will take place via Slack, at times (rarely), we will send out important course information via email. This email is sent to your MSU email address (the one that ends in “@msu.edu”). You are responsible for all information sent out to your University email account, and for checking this account on a regular basis.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology) ]
@@ -136,9 +136,12 @@ Although the bulk of the communication will take place via Slack, at times (rare
 ## Course Activities
 
 ### Pre-class Assignments
-For each topic, you will be assigned a paper after the topic's "lecture" class that you are required to read. The link to the PDF of the paper will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/compbio#calendar) along with instructions on a specific analysis in the paper you should pay special attention to. You are required to turn-in a two-page report containing a summary and critique of the paper. This report is due _before_ the topic's "paper discussion" class. Points will be deducted for reports shorter or longer than two-pages. Wrong papers will be graded as zero.
+For each topic, you will be assigned a paper after the topic's "lecture" class that you are required to read. The link to the PDF of the paper will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/compbio#calendar) along with instructions on a specific analysis in the paper you should pay special attention to.
 
-**Page 1** of your report should contain the following three sections:
+You are required to turn-in a two-page report containing the following:
+
+**Part 1** (page 1) of your report: Analysis and summary of the paper as a whole.
+It should contain the following three sections:
 1. _Background_
     - What problem/task is the paper trying to address? What is the biological problem and/or the computational challenge?
     - How was the problem/task addressed up to that point and what were the limitations of the _then_ current practice?
@@ -149,7 +152,8 @@ For each topic, you will be assigned a paper after the topic's "lecture" class t
     - What are the limitations of this paper or open questions that arise from this paper?
     - What are your suggestions for addressing these limitations?
 
-**Page 2** of your report (_Critique of specific figure_) should contain the following four sections:
+**Part 2** (page 2) of your report: Critical and thorough analysis of a specific section/figure.
+It should contain the following four sections:
 1. _Data_
     - What data did they use to perform the analysis presented in the figure?
     - Where did each piece of data come from?
@@ -162,6 +166,8 @@ For each topic, you will be assigned a paper after the topic's "lecture" class t
     - How is the success of each analysis evaluated?
 4. _Conclusions_
     - Are the conclusions you draw from the figure in agreement with those drawn by the authors?
+
+This report is due _before_ the topic's "Paper discussion" class. Points will be deducted for reports shorter or longer than two-pages. Wrong papers will be graded as zero.
 
 ### Class Participation
 In general:
@@ -183,7 +189,7 @@ You will also take turns to present the assigned paper during each topic's "Pape
 - The two students will also make a note of all the points discussed in the class during the presentation, write-up them up by working with me, and post the discussion on [PubPeer](https://pubpeer.com/).
 
 ### Scribing
-- Each topic's "Lecture" class will have two dedicated scribes who will take notes on the lecture.
+Each topic's "Lecture" class will have two dedicated scribes who will take notes on the lecture, work with Arjun to refine the notes, and circulate a final version to the rest of the class.
 - The scribes should submit their _individually completed_ drafts of their scribe notes within 3 days after lecture. I will read those notes and give comments/suggestions.
 - The two scribes should then work together to combine their drafts+comments into a single final scribe notes and submit within 6 days after lecture.
 
