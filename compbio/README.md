@@ -116,7 +116,13 @@ Final project presentations 1 | Wed, Apr 25
 Final project presentations 2 | Mon, Apr 30
 
 ### Office Hours
-TBD
+Wednesday 5-7pm
+
+I will block this time from my schedule and be present in my office.
+
+Couple of things to note:
+1. While I'm happy to chat with you in person, many times, just sending me a message on Slack with your questions/concerns might work as well. So, if you have specific Qs in mind, just shoot me a message and let's see if we can resolve it then and there.
+2. If you would indeed like to meet in person, please try to meet me during this time. But, don't worry if you can't make it during this window for some reason. Again, just send me a message on Slack and we'll find a time that works for both of us.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology) ]
 
