@@ -5,7 +5,7 @@
 [Functional annotation](https://github.com/krishnanlab/teaching/blob/master/compbio/Resources/public-data-repositories.md#functional-annotation)  
 [Epigenomics](https://github.com/krishnanlab/teaching/blob/master/compbio/Resources/public-data-repositories.md#epigenomics)  
 [Phenotypes and disease](https://github.com/krishnanlab/teaching/blob/master/compbio/Resources/public-data-repositories.md#phenotypes-and-disease)  
-[Data integration](https://github.com/krishnanlab/teaching/blob/master/compbio/Resources/public-data-repositories.md#data-integration)  
+[Genomes and related data](https://github.com/krishnanlab/teaching/blob/master/compbio/Resources/public-data-repositories.md#genomes-and-related-data)  
 [Model organisms](https://github.com/krishnanlab/teaching/blob/master/compbio/Resources/public-data-repositories.md#model-organisms)  
 
 ## Sequence variation
@@ -53,9 +53,10 @@
 - [Catalogue of somatic mutation in cancer](http://cancer.sanger.ac.uk/cosmic): (COSMIC) Somatic mutation information and related
 details and contains information relating to human cancers based on expert manual curation and systematic screens
 
-## Data integration
-- [UCSC Genome Browser](http://genome.ucsc.edu/): Conservation, expression, functional annotation, and genetic variation across multiple species
+## Genomes and related data
 - [Ensembl](http://www.ensembl.org/index.html): Genomic databases across multiple species
+- [UCSC Genome Browser](http://genome.ucsc.edu/): Conservation, expression, functional annotation, and genetic variation across multiple species
+- [GENCODE](https://www.gencodegenes.org/): Reference gene annotations
 - [Genomes Online Database](http://www.genomesonline.org/cgi-bin/GOLD/index.cgi): Metadata for genome and metagenome sequencing projects
 
 ## Model organisms
