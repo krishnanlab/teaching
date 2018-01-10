@@ -1,12 +1,12 @@
 # Public data resources
 
-Sequence variation  
-Functional genomics  
-Functional annotation  
-Epigenomics  
-Phenotypes and disease  
-Data integration  
-Model organisms  
+[Sequence variation](https://github.com/krishnanlab/teaching/blob/master/compbio/Resources/public-data-repositories.md#sequence-variation)  
+[Functional genomics](https://github.com/krishnanlab/teaching/blob/master/compbio/Resources/public-data-repositories.md#functional-genomics)  
+[Functional annotation](https://github.com/krishnanlab/teaching/blob/master/compbio/Resources/public-data-repositories.md#functional-annotation)  
+[Epigenomics](https://github.com/krishnanlab/teaching/blob/master/compbio/Resources/public-data-repositories.md#epigenomics)  
+[Phenotypes and disease](https://github.com/krishnanlab/teaching/blob/master/compbio/Resources/public-data-repositories.md#phenotypes-and-disease)  
+[Data integration](https://github.com/krishnanlab/teaching/blob/master/compbio/Resources/public-data-repositories.md#data-integration)  
+[Model organisms](https://github.com/krishnanlab/teaching/blob/master/compbio/Resources/public-data-repositories.md#model-organisms)  
 
 ## Sequence variation
 - [1000 Genomes Project](http://www.1000genomes.org/): Comprehensive catalogue of human variation
@@ -28,7 +28,7 @@ Model organisms
 - [InterPro](http://www.ebi.ac.uk/interpro/): Protein classification, functional domains, and annotation
 - [Gene Ontology](http://geneontology.org/): Gene annotations in terms of biological processes, molecular functions, & cellular components
 - [Reactome](http://www.reactome.org/): Reactions, proteins, and pathways
-- [MSigDB]: (Molecular Signatures) Coherent gene sets defined based on high-throughput approaches
+- [MSigDB](http://software.broadinstitute.org/gsea/msigdb): (Molecular Signatures) Coherent gene sets defined based on high-throughput approaches
 - [KEGG](http://www.genome.jp/kegg/): (Kyoto Encyclopedia of Genes and Genomes) Database of pathways, diseases, drugs
 - [GREAT](http://bejerano.stanford.edu/great/public/html/): Web service for annotation of regulatory regions by target genes
 
@@ -54,8 +54,8 @@ Model organisms
 details and contains information relating to human cancers based on expert manual curation and systematic screens
 
 ## Data integration
-- [UCSC Genome Browser:](http://genome.ucsc.edu/) Conservation, expression, functional annotation, and genetic variation across multiple species
-- [Ensembl](http://www.ensembl.org/index.html) Genomic databases across multiple species
+- [UCSC Genome Browser](http://genome.ucsc.edu/): Conservation, expression, functional annotation, and genetic variation across multiple species
+- [Ensembl](http://www.ensembl.org/index.html): Genomic databases across multiple species
 - [Genomes Online Database](http://www.genomesonline.org/cgi-bin/GOLD/index.cgi): Metadata for genome and metagenome sequencing projects
 
 ## Model organisms
@@ -64,5 +64,5 @@ details and contains information relating to human cancers based on expert manua
 - [FlyBase](http://flybase.org/): Drosophila genes and genomes
 - [WormBase](http://www.wormbase.org/) The genetics, genomics and biology of C. elegans
 - [The Zebrafish Model Organism Database](http://zfin.org/): Integrated zebrafish genetic, genomic and developmental information
-- [XenBase](http://www.xenbase.org/) Xenopus laevis and Xenopus tropicalis biology and genomics resource
+- [XenBase](http://www.xenbase.org/): Xenopus laevis and Xenopus tropicalis biology and genomics resource
 - [Saccharomyces Genome Database](http://www.yeastgenome.org/): Integrated biological information for budding yeast, along with search and analysis tools
