@@ -1,5 +1,16 @@
 # CMSE 491: Bioinformatics and Computational Biology
 
+* [Description](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#description)
+* [Instructor Contact Information](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#instructor-contact-information)
+* [Course Outline and Materials](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#course-outline-and-materials)
+* [Schedule, Location, Calendar, and Office Hours](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#schedule-location-calendar-and-office-hours)
+* [Website and Communication](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#website-and-communication)
+* [Course Activities](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#course-activities)
+* [Grading Information](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#grading-information)
+* [Attendance, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#attendance-conduct-honesty-accomodations)
+
+
+## Description
 This course is an introduction to contemporary topics in bioinformatics and computational biology, dealing with combining large-scale data and modern analytical techniques to gain biological/biomedical insights. In each topic, centered around a recent paper, we will discuss the major biological & biomedical questions, explore the relevant molecular/genomics/biomedical datasets, and understand the underlying statistical, probabilistic, & machine-learning approaches.
 
 Students will learn how to formulate problems for quantitative inquiry, design computational projects, understand and think critically about data & methods, communicate research findings, perform reproducible research, and practice open science. Students will apply all these by carrying out a group project, presenting their project in class, and submit a report at the end of the course.
@@ -13,15 +24,6 @@ Statistics at the level of STT 231 is strongly recommended. Basically, it would 
 - know how to code in one of the mainstream languages like Python and R,
 - have an understanding of basic statistics and probability, and
 - have studied basic genetics, molecular biology, and cellular biology.
-
-## Contents
-* [Instructor Contact Information](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#instructor-contact-information)
-* [Course Outline and Materials](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#course-outline-and-materials)
-* [Schedule, Location, Calendar, and Office Hours](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#schedule-location-calendar-and-office-hours)
-* [Website and Communication](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#website-and-communication)
-* [Course Activities](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#course-activities)
-* [Grading Information](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#grading-information)
-* [Attendance, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#attendance-conduct-honesty-accomodations)
 
 ## Instructor Contact Information
 Arjun Krishnan | ...
