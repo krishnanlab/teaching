@@ -73,7 +73,7 @@ Week 1 | Wed, Jan 10 | Introduction and Overview | Getting started | **Lecture2*
 Week 2 | Mon, Jan 15 | No class (MLK Day) | |
 Week 2 | Wed, Jan 17 | Genome assembly and annotation | Lecture | **Lecture3** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/compbio/Lectures/Lecture3.pdf)]
 Week 3 | Mon, Jan 22 | Genome assembly and annotation | Paper discussion | Velvet: Algorithms for de novo short read assembly using de Bruijn graphs \[[Journal](http://genome.cshlp.org/content/18/5/821)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/compbio/Papers/Zerbino2008_velvet-assembler.pdf)]
-Week 3 | Wed, Jan 24 | Sequence alignment and pattern finding | Lecture | TBD
+Week 3 | Wed, Jan 24 | Sequence alignment and pattern finding | Lecture | **Lecture4** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/compbio/Lectures/Lecture4.pdf)]
 Week 4 | Mon, Jan 29 | Sequence alignment and pattern finding | Paper discussion | TBD
 Week 4 | Wed, Jan 31 | Comparative genomics | Lecture | TBD
 Week 5 | Mon, Feb 05 | Comparative genomics | Paper discussion | TBD
