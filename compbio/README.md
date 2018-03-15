@@ -87,7 +87,7 @@ Week 8 | Wed, Feb 28 | Mini Primers | TBD | TBD
 Week 8 | Mon, Mar 05 | No class (Spring break) | | 
 Week 9 | Wed, Mar 07 | No class (Spring break) | | 
 Week 9 | Mon, Mar 12 | Mid-term project proposal presentations | |
-Week 10 | Wed, Mar 14 | Molecular and digital evolution | Lecture | TBD
+Week 10 | Wed, Mar 14 | Molecular and digital evolution | Lecture | **Lecture9** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/compbio/Lectures/Lecture9.pdf)]
 Week 10 | Mon, Mar 19 | Molecular and digital evolution | Paper discussion | TBD
 Week 11 | Wed, Mar 21 | Molecular docking and dynamics | Lecture | TBD
 Week 11 | Mon, Mar 26 | Molecular docking and dynamics | Paper discussion | TBD
