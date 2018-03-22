@@ -89,8 +89,8 @@ Week 9 | Wed, Mar 07 | No class (Spring break) | |
 Week 9 | Mon, Mar 12 | Mid-term project proposal presentations | |
 Week 10 | Wed, Mar 14 | Molecular and digital evolution | Lecture | **Lecture9** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/compbio/Lectures/Lecture9.pdf)]
 Week 10 | Mon, Mar 19 | Molecular and digital evolution | Paper discussion | TBD
-Week 11 | Wed, Mar 21 | Molecular docking and dynamics | Lecture | TBD
-Week 11 | Mon, Mar 26 | Molecular docking and dynamics | Paper discussion | TBD
+Week 11 | Wed, Mar 21 | Molecular docking and dynamics | Lecture | **Lecture10** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/compbio/Lectures/Lecture10.pdf)]
+Week 11 | Mon, Mar 26 | Molecular docking and dynamics | Paper discussion | - Predicting protein structures with a multiplayer online game \[[Journal](https://www.nature.com/articles/nature09304)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/compbio/Papers/Cooper2010_Foldit.pdf)]</br>- [GROMACS tutorial](http://md.chem.rug.nl/~mdcourse/index.html)
 Week 12 | Wed, Mar 28 | Protein structure prediction | Lecture | TBD
 Week 12 | Mon, Apr 02 | Protein structure prediction | Paper discussion | TBD
 Week 13 | Wed, Apr 04 | Modeling cellular pathways | Lecture | TBD
