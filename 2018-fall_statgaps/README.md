@@ -49,8 +49,31 @@ _(subject to changes)_
 
 Each topic is covered in one class.
 
-### Recommended Materials
-*Comping Soon*
+### Recommended Preparatory Materials
+*I'm recommending the open & free versions of all the materials below.*
+
+#### Python
+* [Learning Python the Hard Way](https://learnpythonthehardway.org/book/)
+    - If you are new to programming and want to learn Python...
+* MIT OpenCourseWare (video lectures + notes + assignments)
+    - If you already know programming in some other language and want to learn Python, computational and data science ...
+    * [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+    * [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+* [Data Visualization with Python](https://www.kaggle.com/learn/data-visualisation)
+
+#### R
+* [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/)
+    - If you are new to programming and want to learn R...
+* [R for Data Science](http://r4ds.had.co.nz/)
+    - An awesome book on using R for data analysis and visualization!
+* [R Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+    - Great set of visually-appealing cheatsheet.
+
+#### Probability and statistics
+* [Khan Academy – Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
+* [Great Short Videos on Probability and Statistics](https://www.youtube.com/user/jbstatistics/playlists)
+* [Think Stats](https://greenteapress.com/wp/think-stats-2e/) (book + code + solutions)
+    - Introduction to Probability and Statistics (designed for Python programmers but can very much be used with other languages).
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
