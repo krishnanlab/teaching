@@ -19,12 +19,11 @@ This is an advanced short (1-credit) course designed to:
 Classes will involve lectures, discussions, hands-on exercises, and homework about concepts critical to the day-to-day use and consumption of quantitative/computational techniques.
 
 ### Prerequisites
-This is *not* an introductory course in statistics or programming. We will assume: 1) Familiarity with basic statistics & probability. 2) Ability to do basic data wrangling, analyses, & visualization using R or Python.
-• Strongly recommended MSU courses: CMSE 201 and CMSE 890 Sec 301-or-304 and Sec 302.
-• Contact Arjun for pointers to free online preparatory resources.
+This is *not* an introductory course in statistics or programming. We will assume: 1) Familiarity with basic statistics & probability. 2) Ability to do basic data wrangling, analyses, & visualization using R or Python. Strongly recommended MSU courses: CMSE 201 and CMSE 890 Sec 301-or-304 and Sec 302.
 
 ### Registration
 If you are not a declared Biochemistry graduate student, please contact Arjun (arjun@msu.edu) and then submit the online override request form found here: https://bmb.natsci.msu.edu/undergraduate/override-request-form/. For more specific information, please visit this page: https://bmb.natsci.msu.edu/undergraduate/undergrad-grad-course-descriptions/.
+
 
 ## Instructor Contact Information
 Arjun Krishnan | ...
@@ -35,7 +34,9 @@ Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
+
 ## Course Outline and Materials
+
 ### Major Topics
 _(subject to changes)_
 * Underpowered statistics
@@ -47,7 +48,7 @@ _(subject to changes)_
 * Descriptive statistics & spurious correlations
 * Estimation of error and uncertainty
 
-Each topic is covered in one class.
+Each topic will be covered in one class.
 
 ### Recommended Preparatory Materials
 *I'm recommending the open & free versions of all the materials below.*
@@ -77,6 +78,7 @@ Each topic is covered in one class.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
+
 ## Schedule, Location, Calendar, and Office Hours
 Nov 5 – Dec 5, 2018
 
@@ -105,6 +107,7 @@ Couple of things to note:
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
+
 ## Website and Communication
 
 ### Course website
@@ -118,6 +121,7 @@ Although the bulk of the communication will take place via Slack, at times (rare
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
+
 ## Course Activities
 *Coming Soon*
 
@@ -127,6 +131,7 @@ Although the bulk of the communication will take place via Slack, at times (rare
 *Coming Soon*
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+
 
 ## Attendance, Conduct, Honesty, and Accommodations
 
@@ -154,4 +159,4 @@ More broadly, we ask that students adhere to the Spartan Code of Honor academic 
 ### Accomodations
 If you have a university-documented learning difficulty or require other accommodations, please provide me with your VISA as soon as possible and speak with me about how I can assist you in your learning.  If you do not have a VISA but have been documented with a learning difficulty or other problems for which you may still require accommodation, please contact MSU’s Resource Center for People with Disabilities (355-9642) in order to acquire current documentation.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#cmse-491-bioinformatics-and-computational-biology) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
