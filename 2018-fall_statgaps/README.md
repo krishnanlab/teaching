@@ -1,14 +1,14 @@
 # BMB 961-301: Gaps, Missteps, and Errors in Statistical Data Analysis
 
-* [Description](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#description)
-* [Prerequisites](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#prerequisites)
-* [Instructor Contact Information](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#instructor-contact-information)
-* [Course Outline and Materials](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#course-outline-and-materials)
-* [Schedule, Location, Calendar, and Office Hours](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#schedule-location-calendar-and-office-hours)
-* [Website and Communication](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#website-and-communication)
-* [Course Activities](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#course-activities)
-* [Grading Information](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#grading-information)
-* [Attendance, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#attendance-conduct-honesty-accomodations)
+* [Description](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#description)
+* [Prerequisites](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#prerequisites)
+* [Instructor Contact Information](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#instructor-contact-information)
+* [Course Outline and Materials](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#course-outline-and-materials)
+* [Schedule, Location, Calendar, and Office Hours](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#schedule-location-calendar-and-office-hours)
+* [Website and Communication](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#website-and-communication)
+* [Course Activities](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#course-activities)
+* [Grading Information](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#grading-information)
+* [Attendance, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#attendance-conduct-honesty-accomodations)
 
 
 ## Description
@@ -19,7 +19,9 @@ This is an advanced short (1-credit) course designed to:
 Classes will involve lectures, discussions, hands-on exercises, and homework about concepts critical to the day-to-day use and consumption of quantitative/computational techniques.
 
 ### Prerequisites
-This is *not* an introductory course in statistics or programming. We will assume: 1) Familiarity with basic statistics & probability. 2) Ability to do basic data wrangling, analyses, & visualization using R or Python. Strongly recommended MSU courses: CMSE 201 and CMSE 890 Sec 301-or-304 and Sec 302.
+This is *not* an introductory course in statistics or programming. We will assume: 1) Familiarity with basic statistics & probability. 2) Ability to do basic data wrangling, analyses, & visualization using R or Python.
+- Strongly recommended MSU courses: CMSE 201 and CMSE 890 Sec 301-or-304 and Sec 302.
+- Check out some [recommended online preparatory materials](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#recommended-preparatory-materials) listed below that you can use to refresh all these concetps.
 
 ### Registration
 If you are not a declared Biochemistry graduate student, please contact Arjun (arjun@msu.edu) and then submit the online override request form found here: https://bmb.natsci.msu.edu/undergraduate/override-request-form/. For more specific information, please visit this page: https://bmb.natsci.msu.edu/undergraduate/undergrad-grad-course-descriptions/.
