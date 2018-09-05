@@ -3,7 +3,7 @@ This course is an introduction to contemporary topics in bioinformatics and comp
 
 Students will learn how to formulate problems for quantitative inquiry, design computational projects, understand and think critically about data & methods, communicate research findings, perform reproducible research, and practice open science. Students will apply all these by carrying out a group project, presenting their project in class, and submit a report at the end of the course.
 
-\[[Spring 2018](compbio/)\]
+\[[Spring 2018](2018-spring_compbio/)\]
 
 ## Modular Courses in Bioinformatics
 These courses cover similar material to the August workshops, but use the flipped-classroom philosophy of having students watch video lectures online and come to class to apply the tools to real data. Each module is worth 1 credit.
