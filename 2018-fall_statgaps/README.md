@@ -24,7 +24,9 @@ This is *not* an introductory course in statistics or programming. We will assum
 - Check out some [recommended online preparatory materials](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#recommended-preparatory-materials) listed below that you can use to refresh all these concetps.
 
 ### Registration
-If you are not a declared Biochemistry graduate student, please contact Arjun (arjun@msu.edu) and then submit the online override request form found here: https://bmb.natsci.msu.edu/undergraduate/override-request-form/. For more specific information, please visit this page: https://bmb.natsci.msu.edu/undergraduate/undergrad-grad-course-descriptions/.
+If you are not a declared Biochemistry graduate student, please contact Arjun (arjun@msu.edu) and then submit the online override request form found [here](https://bmb.natsci.msu.edu/undergraduate/override-request-form/). For more specific information, please visit this [page](https://bmb.natsci.msu.edu/undergraduate/undergrad-grad-course-descriptions/).
+
+While you are considering this course, please fill-out the [course survey](https://docs.google.com/forms/d/e/1FAIpQLSdZLf7RtVsQACe4XIO_a3AhGSXIJzJ9JfL9EFWXvcN2eB9fFA/viewform) to help me know better about your background, motivation, etc.
 
 
 ## Instructor Contact Information
