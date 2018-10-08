@@ -16,7 +16,7 @@ This is an advanced short (1-credit) course designed to:
 1. Discuss common misunderstandings & typical errors in the practice of statistical data analysis.
 2. Provide a mental toolkit for critical thinking and enquiry of analytical methods and results.
 
-Classes will involve lectures, discussions, hands-on exercises, and homework about concepts critical to the day-to-day use and consumption of quantitative/computational techniques.
+Classes will involve lectures, discussions, hands-on exercises, and homework about concepts critical to the day-to-day use and consumption of quantitative/computational techniques. Please use this [course flyer](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/BMB961-301_Nov18_Flyer.pdf) to help spread the word.
 
 ### Prerequisites
 This is *not* an introductory course in statistics or programming. We will assume: 1) Familiarity with basic statistics & probability. 2) Ability to do basic data wrangling, analyses, & visualization using R or Python.
