@@ -26,7 +26,8 @@ This is *not* an introductory course in statistics or programming. We will assum
 ### Registration
 If you are not a declared Biochemistry graduate student, please contact Arjun (arjun@msu.edu) and then submit the online override request form found [here](https://bmb.natsci.msu.edu/undergraduate/override-request-form/). For more specific information, please visit this [page](https://bmb.natsci.msu.edu/undergraduate/undergrad-grad-course-descriptions/).
 
-While you are considering this course, please fill-out the [course survey](https://docs.google.com/forms/d/e/1FAIpQLSdZLf7RtVsQACe4XIO_a3AhGSXIJzJ9JfL9EFWXvcN2eB9fFA/viewform) to help me know better about your background, motivation, etc.
+### Courve Survey
+Please fill-out the [course survey](https://docs.google.com/forms/d/e/1FAIpQLSdZLf7RtVsQACe4XIO_a3AhGSXIJzJ9JfL9EFWXvcN2eB9fFA/viewform) to help me know better about your background, motivation, etc.
 
 
 ## Instructor Contact Information
