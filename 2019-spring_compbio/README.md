@@ -69,6 +69,7 @@ Location | 351 Natural Sciences Bldg
 This calendar contains the class schedule and the links to the lecture slides and reading materials. Download the PDF file [TBD].
 
 Details TBD
+
 Topic | Content
 :---- | :------
 Introduction and Overview | Course overview, Getting started
