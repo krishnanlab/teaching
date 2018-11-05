@@ -37,23 +37,30 @@ Affiliation | Dept. Computational Mathematics, Science, and Engineering</br>Dept
 Office | 2507H Engineering Building
 Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com/compbiologist)</br>Website: https://cmse.msu.edu/directory/faculty/arjun-krishnan/
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 
 ## Course Outline and Materials
 
 ### Major Topics
 _(subject to changes)_
-* Underpowered statistics
+* P-value & P-hacking
+* Multiple hypothesis correction
+* Estimation of error & uncertainty
+* Statistical power / Underpowered statistics / Sample size calculation
 * Pseudoreplication
-* P-hacking & multiple hypothesis correction
+* Confounding variables & batch effects
+* Circular analysis
+* Regression to the mean & stopping rules
+* Confirmation & survivorship bias
+* Base rates & Permutation test
+* Describing different distributions
+* Continuity errors & model abuse
+* Visualization challenges
+* Researcher degrees of freedom
+* Data sharing / Hiding data
+* Reproducible research
 * Difference in significance & significant differences
-* Base rates & permutation tests
-* Regression to the mean
-* Descriptive statistics & spurious correlations
-* Estimation of error and uncertainty
-
-Each topic will be covered in one class.
 
 ### Recommended Preparatory Materials
 *I'm recommending the open & free versions of all the materials below.*
@@ -81,7 +88,7 @@ Each topic will be covered in one class.
 * [Think Stats](https://greenteapress.com/wp/think-stats-2e/) (book + code + solutions)
     - Introduction to Probability and Statistics (designed for Python programmers but can very much be used with other languages).
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 
 ## Schedule, Location, Calendar, and Office Hours
@@ -93,24 +100,31 @@ Schedule | Mon and Wed</br>12:40-2:00 pm
 Location | 202 Biochemistry Building
 
 ### Calendar
-*Coming Soon*
+Date | Topic | Content
+:------------------------: | :------------------------------- | :-----------------------------
+Nov 05 (M) | Introduction & Overview | Course overview
+Nov 07 (W), Nov 12 (M) | Topic 1: Statistical hypothesis testing | P-value & P-hacking; Multiple hypothesis correction; Estimation of error & uncertainty
+Nov 14 (W), Nov 19 (M) | Topic 2: Experimental design | Statistical power / underpowered statistics; Sample size calculation; Pseudoreplication; Confounding variables & batch effects
+Nov 21 (W), Nov 26 (M) | Topic 3: Unknown variables, Cognitive biases, & Base rate | Circular analysis; Regression to the mean & stopping rules; Confirmation & survivorship bias; Permutation test
+Nov 28 (W), Dec 03 (M) | Topic 4: Descriptive statistics, Modeling, Visualization | Describing different distributions; Continuity errors & model abuse; Visualization challenges
+Dec 05 (W), Dec 10 (M) | Topic 5: Reproducibility | Researcher degrees of freedom; Data sharing / Hiding data; Reproducible research
+Dec 12 (W) | Roundup | Recap; Difference in significance & Significant differences
 
 #### Project deadlines
 Item | Due date
 :--- | -------:
-Final student presentations - Part 1 | Mon, Dec 10
-Final project presentations - Part 2 | Wed, Dec 12
+Final exams | Mon, Dec 10
 
 ### Office Hours
 *Coming Soon*
 
-I will block this time from my schedule and be present in my office.
+I will block this time from my schedule and be present in my office (2507H Engineering).
 
 Couple of things to note:
 1. While I'm happy to chat with you in person, many times, just sending me a message on Slack with your questions/concerns might work as well. So, if you have specific Qs in mind, just shoot me a message and let's see if we can resolve it then and there.
 2. If you would indeed like to meet in person, please try to meet me during this time. But, don't worry if you can't make it during this window for some reason. Again, just send me a message on Slack and we'll find a time that works for both of us.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 
 ## Website and Communication
@@ -119,33 +133,55 @@ Couple of things to note:
 This [GitHub repo](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps) will serve as the course website.  
 
 ### Communication
-The primary mode of communication in this course (including major announcements), will be the course Slack account *[coming soon]*. All of you should have invitations to join this account in your MSU email.  
+The primary mode of communication in this course (including major announcements), will be the course Slack account https://bmb961-statgaps-nov18.slack.com. All of you should have invitations to join this account in your MSU email.  
 
 **Emails**  
 Although the bulk of the communication will take place via Slack, at times (rarely), we will send out important course information via email. This email is sent to your MSU email address (the one that ends in “@msu.edu”). You are responsible for all information sent out to your University email account, and for checking this account on a regular basis.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 
 ## Course Activities
-*Coming Soon*
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+### Assignments
+For each topic, you will be assigned reading materials after the topic's first class that you are required to read. The links to these materials will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#calendar) along with instructions on a specific analysis in the paper you should pay special attention to.
+
+For each topic, you will be assigned a reading material after the topic's 1st class (Wed) that you are required to read. Along with this, you might be given a data analysis assignment that you have to complete. Links to these materials will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#calendar).
+
+Each completed assignment is due _before_ the topic's second class (following Wed).
+
+### Class Participation
+In general:
+- Do the assignments and additional readings.
+- Show up to class.
+- Work in groups during in-class discussion sessions.
+- No one will have the perfect background: **Ask questions** about computational or biological concepts.
+- Correct me when I am wrong.
+
+### Final Exam
+A major goal of this course is to prepare you for performing statisitcal data analysis with care, and for presenting your ideas and findings effectively. The final exam will serve as a practical way to do exactly that.
+
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 ## Grading Information
-*Coming Soon*
+Activity | Percentage
+:----- | ---------:
+Assignments | ~50%
+Class participation | ~25%
+Final Exam/Project | ~25%
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 
 ## Attendance, Conduct, Honesty, and Accommodations
 
 ### Class Attendance
-This class is heavily based on material presented and worked on in class, and it is critical that you attend and participate fully every week! Therefore, class attendance is absolutely required. An unexcused absence will result in zero points for the day. Arriving late or leaving early without prior arrangement with the instructor of your session counts as an unexcused absence. Note that if you have a legitimate reason to miss class (such as job, graduate school, or medical school interviews), you must arrange this ahead of time to be excused from class. Three unexcused absences will result in the reduction of your grade by one step (e.g., from 4.0 to 3.5), with additional absences reducing your grade further at the discretion of the course instructor.
+This class is heavily based on material presented and worked on in class, and it is critical that you attend and participate fully every week! Therefore, class attendance is absolutely required. Arriving late, leaving early, or not showing-up for a whole class without prior arrangement with the instructor counts as an unexcused absence. Note that if you have a legitimate reason to miss class (such as job, graduate school, or medical school interviews), you must arrange this ahead of time to be excused from class. More than two unexcused absences will impact your grade at the discretion of the course instructor.
 
 ### Code of Conduct
 All conduct should serve the singular goal of sustain a friendly, supportive, and fun environment where we can do our best work and have a great time doing it.
-* Do work that you’re proud of, from the smallest piece of code to the entire project.
+* Do work that you’re proud of, from the smallest piece of writing/code to the final exams.
 * Be supportive of your classmates; respect each others' strengths, weaknesses, differences, and beliefs.
 * Communicate openly & respectfully with everyone in the class.
 * Ask for help; at the same time, respect and appreciate others' time and effort.
@@ -164,4 +200,4 @@ More broadly, we ask that students adhere to the Spartan Code of Honor academic 
 ### Accomodations
 If you have a university-documented learning difficulty or require other accommodations, please provide me with your VISA as soon as possible and speak with me about how I can assist you in your learning.  If you do not have a VISA but have been documented with a learning difficulty or other problems for which you may still require accommodation, please contact MSU’s Resource Center for People with Disabilities (355-9642) in order to acquire current documentation.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/compbio/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
