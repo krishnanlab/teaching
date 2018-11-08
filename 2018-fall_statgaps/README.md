@@ -100,25 +100,26 @@ Schedule | Mon and Wed</br>12:40-2:00 pm
 Location | 202 Biochemistry Building
 
 ### Calendar
-Date | Topic | Content
-:------------------------: | :------------------------------- | :-----------------------------
-Nov 05 (M) | Introduction & Overview | Course overview
-Nov 07 (W), Nov 12 (M) | Topic 1: Statistical hypothesis testing | P-value & P-hacking; Multiple hypothesis correction; Estimation of error & uncertainty
+Date | Topic | Content | Learning Materials
+:------------------------: | :------------------------------- | :----------------------------- | :------------------------
+Nov 05 (M) | Introduction & Overview | Course overview | **Lecture 1** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/Lectures/Lecture1.pdf)]
+Nov 07 (W), Nov 12 (M) | Topic 1: Statistical hypothesis testing | P-value & P-hacking; Multiple hypothesis correction; Estimation of error & uncertainty | **Lecture 2 and 3** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/Lectures/Lecture2and3.pdf)]
 Nov 14 (W), Nov 19 (M) | Topic 2: Experimental design | Statistical power / underpowered statistics; Sample size calculation; Pseudoreplication; Confounding variables & batch effects
 Nov 21 (W), Nov 26 (M) | Topic 3: Unknown variables, Cognitive biases, & Base rate | Circular analysis; Regression to the mean & stopping rules; Confirmation & survivorship bias; Permutation test
 Nov 28 (W), Dec 03 (M) | Topic 4: Descriptive statistics, Modeling, Visualization | Describing different distributions; Continuity errors & model abuse; Visualization challenges
 Dec 05 (W), Dec 10 (M) | Topic 5: Reproducibility | Researcher degrees of freedom; Data sharing / Hiding data; Reproducible research
 Dec 12 (W) | Roundup | Recap; Difference in significance & Significant differences
 
-#### Project deadlines
+#### Final exam
 Item | Due date
 :--- | -------:
 Final exams | Mon, Dec 10
 
 ### Office Hours
-*Coming Soon*
+Wednesday 8–9am
+Thursday 5–6pm
 
-I will block this time from my schedule and be present in my office (2507H Engineering).
+I will block these times from my schedule and be present in my office (2507H Engineering).
 
 Couple of things to note:
 1. While I'm happy to chat with you in person, many times, just sending me a message on Slack with your questions/concerns might work as well. So, if you have specific Qs in mind, just shoot me a message and let's see if we can resolve it then and there.
