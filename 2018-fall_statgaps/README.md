@@ -107,8 +107,7 @@ Nov 07 (W), Nov 12 (M) | Topic 1: Statistical hypothesis testing | P-value & P-h
 Nov 14 (W), Nov 19 (M) | Topic 2: Experimental design | Statistical power / underpowered statistics; Sample size calculation; Pseudoreplication; Confounding variables & batch effects |  **Lecture 4 and 5** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/Lectures/Lectures4and5.pdf)]
 Nov 21 (W), Nov 26 (M) | Topic 3: Unknown variables, Cognitive biases, & Base rate | Circular analysis; Regression to the mean & stopping rules; Confirmation & survivorship bias; Permutation test | **Lecture 6 and 7** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/Lectures/Lectures6and7.pdf)]
 Nov 28 (W), Dec 03 (M) | Topic 4: Descriptive statistics, Modeling, Visualization | Describing different distributions; Continuity errors & model abuse; Visualization challenges | **Lecture 8 and 9** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/Lectures/Lectures8and9.pdf)]
-Dec 05 (W), Dec 10 (M) | Topic 5: Reproducibility | Researcher degrees of freedom; Data sharing / Hiding data; Reproducible research | 
-Dec 12 (W) | Roundup | Recap; Difference in significance & Significant differences | 
+Dec 05 (W) | Topic 5: Reproducibility | Researcher degrees of freedom; Data sharing / Hiding data; Reproducible research; Roundup
 
 #### Final exam
 Item | Due date
