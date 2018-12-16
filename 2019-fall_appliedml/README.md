@@ -18,19 +18,20 @@ Students will learn how to formulate their scientific problems for solving them 
 Open to both undergraduate and graduate students. Counts toward the CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu for an override.
 
 **Prerequisites**  
-CMSE 201 or CMSE 301-304 or equivalent with programming experience.
-Statistics at the level of STT 231 is strongly recommended.
+* CMSE 201 or CMSE 301-304 or equivalent with Python programming experience.  
+* Introductory statistics at the level of STT 231 is strongly recommended.  
+* Advanced courses in a science discipline.
 
 Basically, it would be assumed that you:
 - know how to code in Python,
 - have an understanding of basic statistics and probability, and
 - are engaged in research in the physical or life sciences.
 
-## Instructor Contact Information
+## Instructor Information
 Name | Details
 :------------ | :------------
-Arjun Krishnan | Dept. Computational Mathematics, Science, and Engineering</br>Dept. Biochemistry and Molecular Biology</br>Office: 2507H Engineering Building</br>Contact: Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com/compbiologist)</br>Website: https://thekrishnanlab.org
-Michael Murillo | Dept. Computational Mathematics, Science, and Engineering</br>Dept. Chemical Engineering and Materials Science</br>Office: 1508C Engineering Building</br>Contact: Email: murillom@msu.edu</br>Website: https://murillogroupmsu.com/
+**Michael Murillo** | Dept. Computational Mathematics, Science, and Engineering</br>Dept. Chemical Engineering and Materials Science</br></br>Office: 1508C Engineering Building</br>Email: murillom@msu.edu</br>Website: https://murillogroupmsu.com/
+**Arjun Krishnan** | Dept. Computational Mathematics, Science, and Engineering</br>Dept. Biochemistry and Molecular Biology</br></br>Office: 2507H Engineering Building</br>Email: arjun@msu.edu</br>Website: https://thekrishnanlab.org
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_appliedml/README.md#cmse-xxx-applied-machine-learning-for-physical-and-life-sciences) ]
 
@@ -45,7 +46,7 @@ _(subject to changes)_
 * Unsupervised learning: Clustering, Non-negative matrix factorization, Anomaly detection
 
 ### Recommended Materials
-TBD
+Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow – Raschka, Mirjalili
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_appliedml/README.md#cmse-xxx-applied-machine-learning-for-physical-and-life-sciences) ]
 
@@ -81,8 +82,7 @@ Mid-term project proposal presentations | TBD
 Review response | TBD
 Mid-course project report | TBD
 Final project report | TBD
-Final project presentations 1 | TBD
-Final project presentations 2 | TBD
+Final project poster presentations | TBD
 
 ### Office Hours
 TBD
@@ -90,8 +90,8 @@ TBD
 We will block this time from our schedules and be present in our offices.
 
 Couple of things to note:
-1. While I'm happy to chat with you in person, many times, just sending me a message on Slack with your questions/concerns might work as well. So, if you have specific Qs in mind, just shoot me a message and let's see if we can resolve it then and there.
-2. If you would indeed like to meet in person, please try to meet me during this time. But, don't worry if you can't make it during this window for some reason. Again, just send me a message on Slack and we'll find a time that works for both of us.
+1. While we are happy to chat with you in person, many times, just sending one of us a message on Slack with your questions/concerns might work as well. So, if you have specific Qs in mind, just shoot one of us a message and let's see if we can resolve it then and there.
+2. If you would indeed like to meet in person, please try to meet one of us during this time. But, don't worry if you can't make it during this window for some reason. Again, just send us a message on Slack and we'll find a time that works for both of us.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_appliedml/README.md#cmse-xxx-applied-machine-learning-for-physical-and-life-sciences) ]
 
@@ -118,8 +118,8 @@ In general:
 - Do the pre-class assignments and additional readings.
 - Show up to class.
 - Work in groups during in-class discussion sessions.
-- No one will have the perfect background: **Ask questions** about computational or biological concepts.
-- Correct me when I am wrong.
+- No one will have the perfect background: **Ask questions** about computational, programming, or scientific concepts.
+- Correct us when we are wrong or when you have a better suggestion about anything.
 
 #### Paper discussion
 TBD
@@ -130,7 +130,7 @@ Each class will have two dedicated scribes who will take notes on the lecture, w
 - The two scribes should then work together to combine their drafts+comments into a single final scribe notes and submit within 6 days after lecture.
 
 ### Semester Project and Presentation
-A major goal of this course is to prepare you for performing original research in applied machine learning, and for effectively presenting your ideas and research. The semester project will serve as the most practical way to do exactly that.
+A major goal of this course is to prepare you for performing original scientific research using machine learning, and for effectively presenting your ideas and results. The semester project will serve as the most practical way to do exactly that.
 
 Projects can take any one of the following flavors:
 - Design and implement a new ML approach for a scientific question of interest
@@ -150,25 +150,25 @@ The outcomes of this semester-long project should include:
     - Results and Discussion
     - Limitations and Future Directions
     - References
-3. A presentation (slides) that describes your project - motivation, exact problem, approach, results, discussion & conclusions, limitations & future direcrtions, acknowledgements.
+3. A poster that describes your project - motivation, exact problem, approach, results, discussion & conclusions, limitations & future directions, and acknowledgements/references.
 
 There are several [project deadlines](https://github.com/krishnanlab/teaching/tree/master/2019-fall_appliedml#project-deadlines) throughout the course that will help you stay on track, allowing you to complete a substantial project.
-1. Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you. **TBD**
-2. Discuss with Arjun (and any other PI) and read recent papers. Describe project ideas. **TBD**
+1. Describe your previous research, areas of research interest in machine learning, and the type of project that best fits your interests. Post this description in a profile that lets your classmates know you. **TBD**
+2. Discuss with Michael/Arjun (and any other PI) and read recent papers. Describe project ideas. **TBD**
 3. Prepare a two-page pre-proposal (Page1: text; Page2: figures & references). **TBD**
 4. Write 4-page proposal describing project goals, division of work, milestones, datasets, and challenges. **TBD**
 5. Review and discuss proposals (NIH review format). **TBD**
 6. Address peer evaluations, revise aims, scope, list of final goals & deliverables. **TBD** (note: due after presentation).
 7. Continue making substantial progress on proposed milestones. Write outline/first-draft of final report. Meet Arjun to discuss all results and get feedback on the draft. **TBD**
 8. Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience. **TBD**
-9. Final project presentations will take place on the **TBD** and **TBD**.
+9. Final project presentations will take place on **TBD**.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_appliedml/README.md#cmse-xxx-applied-machine-learning-for-physical-and-life-sciences) ]
 
 ## Grading Information
 Activity | Percentage
 :----- | ---------:
-Pre-class assignments | ~35%
+Assignments | ~35%
 Class participation | ~15%
 Scribing | ~10%
 Project | ~40%
