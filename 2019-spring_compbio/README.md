@@ -23,7 +23,7 @@ CMSE 201 or CMSE 301-304 or equivalent with programming experience and two semes
 Statistics at the level of STT 231 is strongly recommended.
 
 Basically, it would be assumed that you:
-- know how to code in one of the mainstream languages like Python and R,
+- know how to code in one of the mainstream languages like Python or R,
 - have an understanding of basic statistics and probability, and
 - have studied basic genetics, molecular biology, and cellular biology.
 
@@ -39,20 +39,25 @@ Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com
 ## Course Outline and Materials
 ### Major Topics
 _(subject to changes)_
-* Genome assembly & annotation
+* Genome assembly, alignment, & annotation
 * Sequence alignment & pattern finding
 * Comparative genomics
-* Genetic variation & quantitative genetics
+* Phylogenomics
+* Genetic variation
+* Quantitative genetics
 * Regulatory genomics
 * Functional genomics
-* Molecular & digital evolution
+* Single-cell genomics
 * Molecular dynamics
-* Protein residue coupling & structure prediction
+* Protein structure prediction
 * Modeling cellular pathways
-* Metabolomics & modeling metabolic flux
-* Large-scale biological networks
+* Digital evolution
+* Biological networks
+* Cancer genomics
+* Genome engineering
+* Personal genomics
 
-Each topic is covered over two classes, a "Lecture" and a "Paper discussion".
+Each topic is covered over "Lecture" and "Paper discussion" classes.
 
 ### Recommended Materials
 TBD
@@ -70,41 +75,73 @@ This calendar contains the class schedule and the links to the lecture slides an
 
 Details TBD
 
-Topic | Content
-:---- | :------
-Introduction and Overview | Course overview, Getting started
-Genome assembly & annotation | de Bruijn graphs, Hidden Markov Models
-Sequence alignment & pattern finding | Dynamic programming
-Comparative genomics | Tree construction, Suffix trees
-Genetic variation & quantitative genetics | Statistical inference, Multiple testing
-Regulatory genomics | Expectation Maximization, Gibbs sampling
-Functional genomics | Dimensionality reduction, Machine learning
-Molecular & digital evolution | Artificial life simulation
-Molecular dynamics | Molecular simulation
-Protein residue coupling & structure prediction | Maximum entropy modeling
-Modeling cellular pathways | Dynamical simulation, State space, Bifurcations
-Metabolomics & modeling metabolic flux | Linear programming
-Large-scale biological networks | Graph theory, Label propagation
-
-Additional classes for:
-- Mini primers
-- Mid-term proposal prensentaions
-- Final project presentations
+| Week | Date | Module | Topic | Learning Materials |
+|:---------|-------------:|:-------------------------|:------------------------|:------------------------|
+| Week 01 | Mon, Jan 07 | Introduction & Overview | Course overview |  |
+| Week 01 | Wed, Jan 09 | Introduction & Overview | Getting started in computational biology |  |
+| Week 01 | Fri, Jan 11 | Introduction & Overview | Brush up: Probability, Statistics, etc. |  |
+| Week 02 | Mon, Jan 14 | Genome assembly, alignment, & annotation | de Bruijin graphs; Suffix trees |  |
+| Week 02 | Wed, Jan 16 | Genome assembly, alignment, & annotation | Hidden Markov models |  |
+| Week 02 | Fri, Jan 18 | Genome assembly, alignment, & annotation | Paper discussion |  |
+| Week 03 | Mon, Jan 21 | No Class; Need an extra class to compensate |  |  |
+| Week 03 | Wed, Jan 23 | Sequence alignment & pattern finding | Dynamic programming |  |
+| Week 03 | Fri, Jan 25 | Sequence alignment & pattern finding | Substitution matrices; BLAST; Paper discussion |  |
+| Week 04 | Mon, Jan 28 | Comparative genomics; Phylogenomics | Molecular evolution |  |
+| Week 04 | Wed, Jan 30 | Comparative genomics; Phylogenomics | Tree construction |  |
+| Week 04 | Fri, Feb 01 | Comparative genomics; Phylogenomics | Paper discussion |  |
+| Week 05 | Mon, Feb 04 | Genetic variation & quantitative genetics | LD, GWAS, Regularized linear regression |  |
+| Week 05 | Wed, Feb 06 | Genetic variation & quantitative genetics | Statistical inference, Multiple hypothesis testing |  |
+| Week 05 | Fri, Feb 08 | Genetic variation & quantitative genetics | Paper discussion |  |
+| Week 06 | Mon, Feb 11 | Regulatory genomics | Gibbs sampling |  |
+| Week 06 | Wed, Feb 13 | Regulatory genomics | Expectation-Maximization |  |
+| Week 06 | Fri, Feb 15 | Regulatory genomics | Paper discussion |  |
+| Week 07 | Mon, Feb 18 | Functional genomics | Differential expression; Functional enrichment analysis |  |
+| Week 07 | Wed, Feb 20 | Functional genomics | Clustering; Intro to machine learning |  |
+| Week 07 | Fri, Feb 22 | Functional genomics | Paper discussion |  |
+| Week 08 | Mon, Feb 25 | Primers – Part 1 | Data wrangling & visualization in R/Python – Part 1 |  |
+| Week 08 | Wed, Feb 27 | Primers – Part 1 | Data wrangling & visualization in R/Python – Part 2 |  |
+| Week 08 | Fri, Mar 01 | Primers – Part 1 | Exploratory data analysis |  |
+| Week 09 | Mon, Mar 04 | No class (Spring break) |  |  |
+| Week 09 | Wed, Mar 06 | No class (Spring break) |  |  |
+| Week 09 | Fri, Mar 08 | No class (Spring break) |  |  |
+| Week 10 | Mon, Mar 11 | Mid-course project presentations | Lightning talks |  |
+| Week 10 | Wed, Mar 13 | Mid-course project presentations |  |  |
+| Week 10 | Fri, Mar 15 | Mid-course project presentations |  |  |
+| Week 11 | Mon, Mar 18 | Primers – Part 2 | Machine learning |  |
+| Week 11 | Wed, Mar 20 | Primers – Part 2 | Deep learning |  |
+| Week 11 | Fri, Mar 22 | Primers – Part 2 | ML/DL Applications |  |
+| Week 12 | Mon, Mar 25 | Single-cell genomics | Missing value imputaion; Dimensionality reduction |  |
+| Week 12 | Wed, Mar 27 | Single-cell genomics | Trajectory inference; Spatial reconstruction |  |
+| Week 12 | Fri, Mar 29 | Single-cell genomics | Paper discussion |  |
+| Week 13 | Mon, Apr 01 | Molecular dynamics; Protein structure prediction | Molecular simulation |  |
+| Week 13 | Wed, Apr 03 | Molecular dynamics; Protein structure prediction | Maximum entropy modeling |  |
+| Week 13 | Fri, Apr 05 | Molecular dynamics; Protein structure prediction | Paper discussion |  |
+| Week 14 | Mon, Apr 08 | Modeling cellular pathways; Digital evolution | Dynamical simulation, State Space, Bifurcation |  |
+| Week 14 | Wed, Apr 10 | Modeling cellular pathways; Digital evolution | Linear programming; Artificial life |  |
+| Week 14 | Fri, Apr 12 | Modeling cellular pathways; Digital evolution | Paper discussion |  |
+| Week 15 | Mon, Apr 15 | Biological networks | Measuring associations; Network inference |  |
+| Week 15 | Wed, Apr 17 | Biological networks | Graph theory, Label propagation |  |
+| Week 15 | Fri, Apr 19 | Biological networks | Paper discussion |  |
+| Week 16 | Mon, Apr 22 | Cancer genomics | Overview |  |
+| Week 16 | Wed, Apr 24 | Genome engineering | Overview |  |
+| Week 16 | Fri, Apr 26 | Personal genomics | Overview |  |
+| Week 17 | Mon, Apr 29 | Final project presentations | One of these days: Poster presentations |  |
+| Week 17 | Wed, May 01 | Final project presentations | One of these days: Poster presentations |  |
+| Week 17 | Fri, May 03 | Final project presentations | One of these days: Poster presentations |  |
 
 #### Project deadlines
 Item | Due date
 :--- | -------:
-Project profile | TBD
-Project topic | TBD
-Project pre-proposal | TBD
-Project proposal | TBD
-Proposal reviews | TBD
-Mid-term project proposal presentations | TBD
-Review response | TBD
-Mid-course project report | TBD
-Final project report | TBD
-Final project presentations 1 | TBD
-Final project presentations 2 | TBD
+Project profile | Wed, Jan 16
+Project topic | Fri, Feb 01
+Project pre-proposal | Wed, Fri 08
+Project proposal | Wed, Feb 20
+Proposal reviews | Fri, Mar 01
+Mid-term project proposal presentations | Mon, Mar 11</br>Wed, Mar 13</br>Fri, Mar 15
+Review response | Thr, Mar 14</br>Sat, Mar 16</br>Mon, Mar 18
+Mid-course project report | Fri, Mar 29
+Final project report | Fri, Apr 26
+Final project presentations | Mon, Apr 29
 
 ### Office Hours
 TBD
@@ -202,15 +239,16 @@ The outcomes of this semester-long project should include:
 3. A presentation (slides) that describes your project - motivation, exact problem, approach, results, discussion & conclusions, limitations & future direcrtions, acknowledgements.
 
 There are several [project deadlines](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio#project-deadlines) throughout the course that will help you stay on track, allowing you to complete a substantial project.
-1. Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you. **TBD**
-2. Discuss with Arjun (and any other PI) and read recent papers. Describe project ideas. **TBD**
-3. Prepare a two-page pre-proposal (Page1: text; Page2: figures & references). **TBD**
-4. Write 4-page proposal describing project goals, division of work, milestones, datasets, and challenges. **TBD**
-5. Review and discuss proposals (NIH review format). **TBD**
-6. Address peer evaluations, revise aims, scope, list of final goals & deliverables. **TBD** (note: due after presentation).
-7. Continue making substantial progress on proposed milestones. Write outline/first-draft of final report. Meet Arjun to discuss all results and get feedback on the draft. **TBD**
-8. Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience. **TBD**
-9. Final project presentations will take place on the **TBD** and **TBD**.
+1. Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you. Project profile due **Wed, Jan 16**.
+2. Discuss with Arjun (and any other PI) and read recent papers. Briefly describe project ideas. Project topic due **Fri, Feb 01**.
+3. Prepare a two-page pre-proposal (Page1: text; Page2: figures & references). Project pre-proposal due **Wed, Fri 08**.
+4. Write 5-page proposal describing project goals, division of work, milestones, datasets, and challenges. Project proposal due **Wed, Feb 20**.
+5. Review proposals. Discuss proposal with Arjun. Reviews due **Fri, Mar 01**.
+6. Mid-course project presentations on **Mon, Mar 11**, **Wed, Mar 13**, and **Fri, Mar 15**.
+7. Address peer evaluations, revise aims, scope, list of final goals & deliverables. Meet with Arjun. Response is due 3 days after mid-course presentation: **Thr, Mar 14**, **Sat, Mar 16**, or **Mon, Mar 18**.
+8. Continue making substantial progress on proposed milestones. Write the first-draft of final report. Meet Arjun to discuss all results and get feedback on the draft. Mid-course project report due **Fri, Mar 29**.
+9. Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience. Final project report due **Fri, Apr 26**.
+10. Final project presentations will take place on **Mon, Apr 29**.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/README.md#cmse-491-bioinformatics-and-computational-biology) ]
 
