@@ -39,22 +39,37 @@ Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com
 ## Course Outline and Materials
 ### Major Topics
 _(subject to changes)_
-* Genome assembly, alignment, & annotation
-* Sequence alignment & pattern finding
-* Comparative genomics, Phylogenomics
-* Genetic variation, Quantitative genetics
-* Regulatory genomics
-* Functional genomics
-* Single-cell genomics
-* Molecular dynamics, Protein structure prediction
-* Modeling cellular pathways, Digital evolution
-* Biological networks
-* Special topics: Cancer genomics, Genome engineering, Personal genomics
+1. Genome assembly, alignment, & annotation
+    * de Bruijin graphs; Suffix trees; Hidden Markov models
+2. Sequence alignment; Pattern finding
+    * Dynamic programming; Substitution matrices; BLAST
+3. Comparative genomics; Phylogenomics
+    * Molecular evolution; Tree construction
+4. Genetic variation; Quantitative genetics
+    * LD, GWAS, Regularized linear regression; Statistical inference, Multiple testing
+5. Regulatory genomics
+    * Gibbs sampling; Expectation-Maximization
+6. Functional genomics
+    * Differential expression; Functional enrichment analysis; Clustering; Intro to ML
+7. Single-cell genomics
+    * Missing value imputaion; Dimensionality reduction; Trajectory inference; Spatial reconstruction
+8. Molecular dynamics; Protein structure prediction
+    * Molecular simulation; Maximum entropy modeling
+9. Modeling cellular pathways; Digital evolution
+    * Dynamical simulation, State Space, Bifurcation; Linear programming; Artificial life
+10. Biological networks
+    * Measuring associations; Network inference; Graph theory, Label propagation
 
 Each topic is covered over "Lecture" and "Paper discussion" classes.
 
+Along with these, we are going to cover the following *special topics* as 1-class lecures: **Cancer genomics**, **Genome engineering**, and **Personal genomics**.
+
+And, we will also have practical and conceptual primers:
+* **DataSci Primers**: Data wrangling & visualization in R/Python; Exploratory data analysis
+* **ML Primers**: Machine learning; Deep learning; Applications
+
 ### Recommended Materials
-TBD
+[This document](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Additional-learning-resources.md) contains links to a bunch of excellent resources for brushing-up your Unix, Python/R, Statistics, and Biology.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/README.md#cmse-491-890-bioinformatics-and-computational-biology) ]
 
@@ -65,11 +80,11 @@ Schedule | Mon, Wed, and Fri</br>11:00 am - 12:10 pm
 Location | 351 Natural Sciences Bldg
 
 ### Calendar
-This calendar contains the class schedule and the links to the lecture slides and reading materials. Download the PDF file [TBD].
+This calendar contains the class schedule and the links to the lecture slides and reading materials. Download the detailed schedule as a [PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/CMSE-491-890_Spring-2019_Schedule.pdf).
 
 | ID | Date | Module | Topic | Learning Materials |
 |:---------|-------------:|:-------------------------|:------------------------|:------------------------|
-| W01M | Jan 07 | Introduction & Overview | Course overview |  |
+| W01M | Jan 07 | Introduction & Overview | Course overview | [Incoming survey](https://bit.ly/ss19-compbio_incoming-survey)</br> |
 | W01W | Jan 09 | Introduction & Overview | Getting started in computational biology |  |
 | W01F | Jan 11 | Introduction & Overview | Brush up: Probability, Statistics, etc. |  |
 | W02M | Jan 14 | Genome assembly, alignment, & annotation | de Bruijin graphs; Suffix trees |  |
@@ -152,7 +167,7 @@ Couple of things to note:
 This [GitHub repo](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio) will serve as the course website.  
 
 ### Communication
-The primary mode of communication in this course (including major announcements), will be the course Slack account [TBD]. All of you should have invitations to join this account in your MSU email.  
+The primary mode of communication in this course (including major announcements), will be the [course Slack account](https://cmse-compbio-ss19.slack.com). All of you should have invitations to join this account in your MSU email.  
 
 **Emails**  
 Although the bulk of the communication will take place via Slack, at times (rarely), we will send out important course information via email. This email is sent to your MSU email address (the one that ends in “@msu.edu”). You are responsible for all information sent out to your University email account, and for checking this account on a regular basis.
@@ -161,13 +176,10 @@ Although the bulk of the communication will take place via Slack, at times (rare
 
 ## Course Activities
 
-### Pre-class Assignments
-For each topic, you will be assigned a paper after the topic's "lecture" class that you are required to read. The link to the PDF of the paper will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio#calendar) along with instructions on a specific analysis in the paper you should pay special attention to.
+### Assignments
+For each topic, you will be given an assignment after the topic's "lecture" class that you are required to work on. Links to the assignment will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio#calendar) and specific instructions will be posted on Slack.
 
-You are required to turn-in a 1-page report containing the following:
-
-Critical and thorough analysis of a specific section/figure.
-It should contain the following four sections:
+Along with the assignment, you are required to turn-in a 1-page report of that week's paper containing a critical and thorough analysis of a specific section/figure with thefollowing four sections:
 1. _Data_
     - What data did they use to perform the analysis presented in the figure?
     - Where did each piece of data come from?
@@ -181,7 +193,7 @@ It should contain the following four sections:
 4. _Conclusions_
     - Are the conclusions you draw from the figure in agreement with those drawn by the authors?
 
-This report is due _before_ the topic's "Paper discussion" class. Points will be deducted for reports shorter or longer than two-pages. Wrong papers will be graded as zero.
+This report is due _before_ the topic's "Paper discussion" class. Points will be deducted for reports shorter or longer than 1-page. Wrong papers will be graded as zero.
 
 ### Class Participation
 In general:
@@ -203,10 +215,10 @@ You will also take turns to present the assigned paper during each topic's "Pape
 - The two students will also make a note of all the points discussed in the class during the presentation, write-up them up by working with me, and post the discussion on [PubPeer](https://pubpeer.com/).
 
 ### Scribing
-Each topic's "Lecture" class will have two dedicated scribes who will take notes on the lecture, work with Arjun to refine the notes, and circulate a final version to the rest of the class.
+Each topic's "Lecture" class will have a dedicated scribe who will take notes on the lecture, work with Arjun to refine the notes, and circulate a final version to the rest of the class.
 - We will use [stackedit](https://stackedit.io) + Google Drive to create notes and then publish them on GitHub.
-- Scribes should submit their _individually completed_ drafts of their notes within 3 days after lecture. I will read those notes and give comments/suggestions.
-- The two scribes should then work together to combine their drafts+comments into a single final scribe notes and submit within 6 days after lecture.
+- Scribe should submit their draft of their notes within 3 days after lecture. I will read those notes and give comments/suggestions.
+- The final scribe notes that incorporates all the comments should be submitted within 6 days after lecture.
 
 ### Semester Project and Presentation
 A major goal of this course is to prepare you for performing original research in computational biology, and for effectively presenting your ideas and research. The semester project will serve as the most practical way to do exactly that.
