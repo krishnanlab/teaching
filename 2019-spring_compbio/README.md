@@ -41,21 +41,15 @@ Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com
 _(subject to changes)_
 * Genome assembly, alignment, & annotation
 * Sequence alignment & pattern finding
-* Comparative genomics
-* Phylogenomics
-* Genetic variation
-* Quantitative genetics
+* Comparative genomics, Phylogenomics
+* Genetic variation, Quantitative genetics
 * Regulatory genomics
 * Functional genomics
 * Single-cell genomics
-* Molecular dynamics
-* Protein structure prediction
-* Modeling cellular pathways
-* Digital evolution
+* Molecular dynamics, Protein structure prediction
+* Modeling cellular pathways, Digital evolution
 * Biological networks
-* Cancer genomics
-* Genome engineering
-* Personal genomics
+* Special topics: Cancer genomics, Genome engineering, Personal genomics
 
 Each topic is covered over "Lecture" and "Paper discussion" classes.
 
@@ -73,59 +67,59 @@ Location | 351 Natural Sciences Bldg
 ### Calendar
 This calendar contains the class schedule and the links to the lecture slides and reading materials. Download the PDF file [TBD].
 
-| Week | Date | Module | Topic | Learning Materials |
+| ID | Date | Module | Topic | Learning Materials |
 |:---------|-------------:|:-------------------------|:------------------------|:------------------------|
-| W01 | M Jan 07 | Introduction & Overview | Course overview |  |
-| W01 | W Jan 09 | Introduction & Overview | Getting started in computational biology |  |
-| W01 | F Jan 11 | Introduction & Overview | Brush up: Probability, Statistics, etc. |  |
-| W02 | M Jan 14 | Genome assembly, alignment, & annotation | de Bruijin graphs; Suffix trees |  |
-| W02 | W Jan 16 | Genome assembly, alignment, & annotation | Hidden Markov models |  |
-| W02 | F Jan 18 | Genome assembly, alignment, & annotation | Paper discussion |  |
-| W03 | M Jan 21 | No Class; Need an extra class to compensate |  |  |
-| W03 | W Jan 23 | Sequence alignment & pattern finding | Dynamic programming |  |
-| W03 | F Jan 25 | Sequence alignment & pattern finding | Substitution matrices; BLAST; Paper discussion |  |
-| W04 | M Jan 28 | Comparative genomics; Phylogenomics | Molecular evolution |  |
-| W04 | W Jan 30 | Comparative genomics; Phylogenomics | Tree construction |  |
-| W04 | F Feb 01 | Comparative genomics; Phylogenomics | Paper discussion |  |
-| W05 | M Feb 04 | Genetic variation & quantitative genetics | LD, GWAS, Regularized linear regression |  |
-| W05 | W Feb 06 | Genetic variation & quantitative genetics | Statistical inference, Multiple hypothesis testing |  |
-| W05 | F Feb 08 | Genetic variation & quantitative genetics | Paper discussion |  |
-| W06 | M Feb 11 | Regulatory genomics | Gibbs sampling |  |
-| W06 | W Feb 13 | Regulatory genomics | Expectation-Maximization |  |
-| W06 | F Feb 15 | Regulatory genomics | Paper discussion |  |
-| W07 | M Feb 18 | Functional genomics | Differential expression; Functional enrichment analysis |  |
-| W07 | W Feb 20 | Functional genomics | Clustering; Intro to machine learning |  |
-| W07 | F Feb 22 | Functional genomics | Paper discussion |  |
-| W08 | M Feb 25 | Primers – Part 1 | Data wrangling & visualization in R/Python – Part 1 |  |
-| W08 | W Feb 27 | Primers – Part 1 | Data wrangling & visualization in R/Python – Part 2 |  |
-| W08 | F Mar 01 | Primers – Part 1 | Exploratory data analysis |  |
-| W09 | M Mar 04 | No class (Spring break) |  |  |
-| W09 | W Mar 06 | No class (Spring break) |  |  |
-| W09 | F Mar 08 | No class (Spring break) |  |  |
-| W10 | M Mar 11 | Mid-course project presentations | Lightning talks |  |
-| W10 | W Mar 13 | Mid-course project presentations |  |  |
-| W10 | F Mar 15 | Mid-course project presentations |  |  |
-| W11 | M Mar 18 | Primers – Part 2 | Machine learning |  |
-| W11 | W Mar 20 | Primers – Part 2 | Deep learning |  |
-| W11 | F Mar 22 | Primers – Part 2 | ML/DL Applications |  |
-| W12 | M Mar 25 | Single-cell genomics | Missing value imputaion; Dimensionality reduction |  |
-| W12 | W Mar 27 | Single-cell genomics | Trajectory inference; Spatial reconstruction |  |
-| W12 | F Mar 29 | Single-cell genomics | Paper discussion |  |
-| W13 | M Apr 01 | Molecular dynamics; Protein structure prediction | Molecular simulation |  |
-| W13 | W Apr 03 | Molecular dynamics; Protein structure prediction | Maximum entropy modeling |  |
-| W13 | F Apr 05 | Molecular dynamics; Protein structure prediction | Paper discussion |  |
-| W14 | M Apr 08 | Modeling cellular pathways; Digital evolution | Dynamical simulation, State Space, Bifurcation |  |
-| W14 | W Apr 10 | Modeling cellular pathways; Digital evolution | Linear programming; Artificial life |  |
-| W14 | F Apr 12 | Modeling cellular pathways; Digital evolution | Paper discussion |  |
-| W15 | M Apr 15 | Biological networks | Measuring associations; Network inference |  |
-| W15 | W Apr 17 | Biological networks | Graph theory, Label propagation |  |
-| W15 | F Apr 19 | Biological networks | Paper discussion |  |
-| W16 | M Apr 22 | Cancer genomics | Overview |  |
-| W16 | W Apr 24 | Genome engineering | Overview |  |
-| W16 | F Apr 26 | Personal genomics | Overview |  |
-| W17 | M Apr 29 | Final project presentations | One of these days: Poster presentations |  |
-| W17 | W May 01 | Final project presentations | One of these days: Poster presentations |  |
-| W17 | F May 03 | Final project presentations | One of these days: Poster presentations |  |
+| W01M | Jan 07 | Introduction & Overview | Course overview |  |
+| W01W | Jan 09 | Introduction & Overview | Getting started in computational biology |  |
+| W01F | Jan 11 | Introduction & Overview | Brush up: Probability, Statistics, etc. |  |
+| W02M | Jan 14 | Genome assembly, alignment, & annotation | de Bruijin graphs; Suffix trees |  |
+| W02W | Jan 16 | Genome assembly, alignment, & annotation | Hidden Markov models |  |
+| W02F | Jan 18 | Genome assembly, alignment, & annotation | Paper discussion |  |
+| W03M | Jan 21 | No Class; Need an extra class to compensate |  |  |
+| W03W | Jan 23 | Sequence alignment & pattern finding | Dynamic programming |  |
+| W03F | Jan 25 | Sequence alignment & pattern finding | Substitution matrices; BLAST; Paper discussion |  |
+| W04M | Jan 28 | Comparative genomics; Phylogenomics | Molecular evolution |  |
+| W04W | Jan 30 | Comparative genomics; Phylogenomics | Tree construction |  |
+| W04F | Feb 01 | Comparative genomics; Phylogenomics | Paper discussion |  |
+| W05M | Feb 04 | Genetic variation & quantitative genetics | LD, GWAS, Regularized linear regression |  |
+| W05W | Feb 06 | Genetic variation & quantitative genetics | Statistical inference, Multiple hypothesis testing |  |
+| W05F | Feb 08 | Genetic variation & quantitative genetics | Paper discussion |  |
+| W06M | Feb 11 | Regulatory genomics | Gibbs sampling |  |
+| W06W | Feb 13 | Regulatory genomics | Expectation-Maximization |  |
+| W06F | Feb 15 | Regulatory genomics | Paper discussion |  |
+| W07M | Feb 18 | Functional genomics | Differential expression; Functional enrichment analysis |  |
+| W07W | Feb 20 | Functional genomics | Clustering; Intro to machine learning |  |
+| W07F | Feb 22 | Functional genomics | Paper discussion |  |
+| W08M | Feb 25 | DataSci Primers | Data wrangling & visualization in R/Python – Part 1 |  |
+| W08W | Feb 27 | DataSci Primers | Data wrangling & visualization in R/Python – Part 2 |  |
+| W08F | Mar 01 | DataSci Primers | Exploratory data analysis |  |
+| W09M | Mar 04 | No class (Spring break) |  |  |
+| W09W | Mar 06 | No class (Spring break) |  |  |
+| W09F | Mar 08 | No class (Spring break) |  |  |
+| W10M | Mar 11 | Mid-course project presentations | Lightning talks |  |
+| W10W | Mar 13 | Mid-course project presentations |  |  |
+| W10F | Mar 15 | Mid-course project presentations |  |  |
+| W11M | Mar 18 | ML Primers | Machine learning |  |
+| W11W | Mar 20 | ML Primers | Deep learning |  |
+| W11F | Mar 22 | ML Primers | ML/DL Applications |  |
+| W12M | Mar 25 | Single-cell genomics | Missing value imputaion; Dimensionality reduction |  |
+| W12W | Mar 27 | Single-cell genomics | Trajectory inference; Spatial reconstruction |  |
+| W12F | Mar 29 | Single-cell genomics | Paper discussion |  |
+| W13M | Apr 01 | Molecular dynamics; Protein structure prediction | Molecular simulation |  |
+| W13W | Apr 03 | Molecular dynamics; Protein structure prediction | Maximum entropy modeling |  |
+| W13F | Apr 05 | Molecular dynamics; Protein structure prediction | Paper discussion |  |
+| W14M | Apr 08 | Modeling cellular pathways; Digital evolution | Dynamical simulation, State Space, Bifurcation |  |
+| W14W | Apr 10 | Modeling cellular pathways; Digital evolution | Linear programming; Artificial life |  |
+| W14F | Apr 12 | Modeling cellular pathways; Digital evolution | Paper discussion |  |
+| W15M | Apr 15 | Biological networks | Measuring associations; Network inference |  |
+| W15W | Apr 17 | Biological networks | Graph theory, Label propagation |  |
+| W15F | Apr 19 | Biological networks | Paper discussion |  |
+| W16M | Apr 22 | Cancer genomics | Overview |  |
+| W16W | Apr 24 | Genome engineering | Overview |  |
+| W16F | Apr 26 | Personal genomics | Overview |  |
+| W17M | Apr 29 | Final project presentations | One of these days: Poster presentations |  |
+| W17W | May 01 | Final project presentations | One of these days: Poster presentations |  |
+| W17F | May 03 | Final project presentations | One of these days: Poster presentations |  |
 
 #### Project deadlines
 Item | Due date
