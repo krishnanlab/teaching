@@ -85,8 +85,8 @@ This calendar contains the class schedule and the links to the lecture slides an
 | ID | Date | Module | Topic | Learning Materials |
 |:---------|-------------:|:-------------------------|:------------------------|:------------------------|
 | W01M | Jan 07 | Introduction & Overview | Course overview | Lecture 1 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture1.pdf)]</br>[Incoming survey](https://bit.ly/ss19-compbio_incoming-survey) |
-| W01W | Jan 09 | Introduction & Overview | Getting started in computational biology – Part 1 |  |
-| W01F | Jan 11 | Introduction & Overview | Getting started in computational biology – Part 2 |  |
+| W01W | Jan 09 | Introduction & Overview | Getting started in bioinformatics & computational biology – Part 1 | Lecture 2 & 3 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture2-3.pdf)] |
+| W01F | Jan 11 | Introduction & Overview | Getting started in bioinformatics & computational biology – Part 2 |  |
 | W02M | Jan 14 | Genome assembly, alignment, & annotation | de Bruijin graphs; Suffix trees |  |
 | W02W | Jan 16 | Genome assembly, alignment, & annotation | Hidden Markov models |  |
 | W02F | Jan 18 | Genome assembly, alignment, & annotation | Paper discussion |  |
@@ -151,7 +151,7 @@ Final project report | F Apr 26
 Final project presentations | M Apr 29
 
 ### Office Hours
-TBD
+Tuesdays 5–7pm
 
 I will block this time from my schedule and be present in my office.
 
@@ -241,6 +241,7 @@ The outcomes of this semester-long project should include:
     - Results and Discussion
     - Limitations and Future Directions
     - References
+    - Glossary
 3. A poster that describes your project - motivation, exact problem, approach, results, discussion & conclusions, limitations & future direcrtions, acknowledgements.
 
 There are several [project deadlines](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio#project-deadlines) throughout the course that will help you stay on track, allowing you to complete a substantial project.
