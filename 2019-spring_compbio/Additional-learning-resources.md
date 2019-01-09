@@ -46,3 +46,4 @@
 ## Biology
 * [Learn genetics](https://learn.genetics.utah.edu/)
 * [IBiology](https://www.ibiology.org/biology-videos/)
+* [DNA seen through the eyes of a coder](https://ds9a.nl/amazing-dna/) - If you have a computational/quantitaive background, you'll esp. love this!
