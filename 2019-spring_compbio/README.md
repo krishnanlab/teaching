@@ -84,7 +84,7 @@ This calendar contains the class schedule and the links to the lecture slides an
 
 | ID | Date | Module | Topic | Learning Materials |
 |:---------|-------------:|:-------------------------|:------------------------|:------------------------|
-| W01M | Jan 07 | Introduction & Overview | Course overview | Lecture 1 [\[PDF]](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture1.pdf)</br>[Incoming survey](https://bit.ly/ss19-compbio_incoming-survey) |
+| W01M | Jan 07 | Introduction & Overview | Course overview | Lecture 1 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture1.pdf)]</br>[Incoming survey](https://bit.ly/ss19-compbio_incoming-survey) |
 | W01W | Jan 09 | Introduction & Overview | Getting started in computational biology – Part 1 |  |
 | W01F | Jan 11 | Introduction & Overview | Getting started in computational biology – Part 2 |  |
 | W02M | Jan 14 | Genome assembly, alignment, & annotation | de Bruijin graphs; Suffix trees |  |
