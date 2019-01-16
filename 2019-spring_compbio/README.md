@@ -88,7 +88,7 @@ This calendar contains the class schedule and the links to the lecture slides an
 | W01W | Jan 09 | Introduction & Overview | Getting started in bioinformatics & computational biology – Part 1 | Lecture 2 & 3 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture2-3.pdf)] |
 | W01F | Jan 11 | Introduction & Overview | Getting started in bioinformatics & computational biology – Part 2 |  |
 | W02M | Jan 14 | Genome assembly, alignment, & annotation | de Bruijin graphs; Suffix trees | Lecture 4 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture4.pdf)] |
-| W02W | Jan 16 | Genome assembly, alignment, & annotation | Hidden Markov models |  | 
+| W02W | Jan 16 | Genome assembly, alignment, & annotation | Hidden Markov models | Lecture 5 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture5.pdf)]  | 
 | W02F | Jan 18 | Genome assembly, alignment, & annotation | Paper discussion | Velvet: Algorithms for de novo short read assembly using de Bruijn graphs \[[Journal](http://genome.cshlp.org/content/18/5/821)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Zerbino2008_velvet-assembler.pdf)] |
 | W03M | Jan 21 | No Class; Need an extra class to compensate |  |  |
 | W03W | Jan 23 | Sequence alignment & pattern finding | Dynamic programming |  |
