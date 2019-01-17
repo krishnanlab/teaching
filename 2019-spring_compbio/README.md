@@ -39,12 +39,12 @@ Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com
 ## Course Outline and Materials
 ### Major Topics
 _(subject to changes)_
-1. Genome assembly, alignment, & annotation
-    * de Bruijin graphs; Suffix trees; Hidden Markov models
+1. Genome assembly & annotation
+    * Assembly with de Bruijin graphs; Gene prediction with Hidden Markov models
 2. Sequence alignment; Pattern finding
     * Dynamic programming; Substitution matrices; BLAST
 3. Comparative genomics; Phylogenomics
-    * Molecular evolution; Tree construction
+    * Whole genome alignment; Suffix trees; Molecular evolution; Tree construction
 4. Genetic variation; Quantitative genetics
     * LD, GWAS, Regularized linear regression; Statistical inference, Multiple testing
 5. Regulatory genomics
@@ -87,14 +87,14 @@ This calendar contains the class schedule and the links to the lecture slides an
 | W01M | Jan 07 | Introduction & Overview | Course overview | Lecture 1 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture1.pdf)]</br>[Incoming survey](https://bit.ly/ss19-compbio_incoming-survey) |
 | W01W | Jan 09 | Introduction & Overview | Getting started in bioinformatics & computational biology – Part 1 | Lecture 2 & 3 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture2-3.pdf)] |
 | W01F | Jan 11 | Introduction & Overview | Getting started in bioinformatics & computational biology – Part 2 |  |
-| W02M | Jan 14 | Genome assembly, alignment, & annotation | de Bruijin graphs; Suffix trees | Lecture 4 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture4.pdf)] |
-| W02W | Jan 16 | Genome assembly, alignment, & annotation | Hidden Markov models | Lecture 5 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture5.pdf)]  | 
-| W02F | Jan 18 | Genome assembly, alignment, & annotation | Paper discussion | Velvet: Algorithms for de novo short read assembly using de Bruijn graphs \[[Journal](http://genome.cshlp.org/content/18/5/821)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Zerbino2008_velvet-assembler.pdf)] |
+| W02M | Jan 14 | Genome assembly & annotation | de Bruijin graphs; Suffix trees | Lecture 4 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture4.pdf)] |
+| W02W | Jan 16 | Genome assembly & annotation | Hidden Markov models | Lecture 5 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture5.pdf)]  | 
+| W02F | Jan 18 | Genome assembly & annotation | Paper discussion | Velvet: Algorithms for de novo short read assembly using de Bruijn graphs \[[Journal](http://genome.cshlp.org/content/18/5/821)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Zerbino2008_velvet-assembler.pdf)]</br>HMM |
 | W03M | Jan 21 | No Class; Need an extra class to compensate |  |  |
 | W03W | Jan 23 | Sequence alignment & pattern finding | Dynamic programming |  |
 | W03F | Jan 25 | Sequence alignment & pattern finding | Substitution matrices; BLAST; Paper discussion |  |
-| W04M | Jan 28 | Comparative genomics; Phylogenomics | Molecular evolution |  |
-| W04W | Jan 30 | Comparative genomics; Phylogenomics | Tree construction |  |
+| W04M | Jan 28 | Comparative genomics; Phylogenomics | Whole-genome alignment; Suffix trees |  |
+| W04W | Jan 30 | Comparative genomics; Phylogenomics | Molecular evolution; Tree construction |  |
 | W04F | Feb 01 | Comparative genomics; Phylogenomics | Paper discussion |  |
 | W05M | Feb 04 | Genetic variation & quantitative genetics | LD, GWAS, Regularized linear regression |  |
 | W05W | Feb 06 | Genetic variation & quantitative genetics | Statistical inference, Multiple hypothesis testing |  |
