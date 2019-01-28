@@ -91,7 +91,7 @@ This calendar contains the class schedule and the links to the lecture slides an
 | W02W | Jan 16 | Genome assembly & annotation | Hidden Markov models | Lecture 5 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture5.pdf)]  | 
 | W02F | Jan 18 | Genome assembly & annotation | Paper discussion | Velvet: Algorithms for de novo short read assembly using de Bruijn graphs \[[Journal](http://genome.cshlp.org/content/18/5/821)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Zerbino2008_velvet-assembler.pdf)] |
 | W03M | Jan 21 | No Class; Need an extra class to compensate |  |  |
-| W03W | Jan 23 | Sequence alignment & pattern finding | Dynamic programming | Lecture 6 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture6.pdf)] |
+| W03W | Jan 23 | Sequence alignment & pattern finding | Dynamic programming | Lecture 6-7 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture6-7.pdf)] |
 | W03F | Jan 25 | Sequence alignment & pattern finding | Substitution matrices; BLAST; Paper discussion | Basic local alignment search tool \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Altschul1990_BLAST.pdf)]</br>Steps used by the BLAST algorithm \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Mount2007_steps-used-by-blast.pdf)] |
 | W04M | Jan 28 | Comparative genomics; Phylogenomics | Whole-genome alignment; Suffix trees |  |
 | W04W | Jan 30 | Comparative genomics; Phylogenomics | Molecular evolution; Tree construction |  |
