@@ -91,13 +91,13 @@ This calendar contains the class schedule and the links to the lecture slides an
 | W02W | Jan 16 | Genome assembly & annotation | Hidden Markov models | Lecture 5 \[[PDF](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio/Lectures/Lecture5.pdf)]  | 
 | W02F | Jan 18 | Genome assembly & annotation | Paper discussion | Velvet: Algorithms for de novo short read assembly using de Bruijn graphs \[[Journal](http://genome.cshlp.org/content/18/5/821)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Zerbino2008_velvet-assembler.pdf)]</br>Student presentation \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Presentations/Velvet_Justin.pdf)] |
 | W03M | Jan 21 | No Class |  |  |
-| W03W | Jan 23 | Sequence alignment & pattern finding | Dynamic programming | Lecture 6-7 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture6-7.pdf)] |
+| W03W | Jan 23 | Sequence alignment & pattern finding | Dynamic programming | Lectures 6-7 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture6-7.pdf)] |
 | W03F | Jan 25 | Sequence alignment & pattern finding | Substitution matrices; BLAST; Paper discussion | Basic local alignment search tool \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Altschul1990_BLAST.pdf)]</br>Steps used by the BLAST algorithm \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Mount2007_steps-used-by-blast.pdf)]</br>Student presentation \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Presentations/BLAST_Zoe-Hakim.pdf)] |
 | W04M | Jan 28 | Comparative genomics; Phylogenomics | Whole-genome alignment; Suffix trees | Lectures 8-9 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture8-9.pdf)] |
 | W04W | Jan 30 | Comparative genomics; Phylogenomics | Molecular evolution; Tree construction | See link above |
 | W04F | Feb 01 | Comparative genomics; Phylogenomics | Paper discussion | Whole-genome alignment:</br>- MUMmer1: Alignment of whole genomes \[[Journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC148804/)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Delcher1999_MUMmer1.pdf)]</br>- MUMmer2: Fast algorithms for large-scale genome alignment and comparison \[[Journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC117189/)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Delcher2002_MUMmer2.pdf)]</br>- MUMmer3: Versatile and open software for comparing large genomes \[[Journal](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-2-r12)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Kurtz2004_MUMmer3.pdf)]</br>- MUMmer4: A fast and versatile genome alignment system \[[Journal](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005944)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Marc%CC%A7ais2018_MUMmer4.pdf)] |
-| W05M | Feb 04 | Genetic variation & quantitative genetics | GWAS, Statistical inference, Multiple testing | Lecture 10 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture10-11.pdf)] |
-| W05W | Feb 06 | Genetic variation & quantitative genetics | LD, Regularized linear regression |  |
+| W05M | Feb 04 | Genetic variation & quantitative genetics | GWAS, Statistical inference, Multiple testing | Lectures 10-11 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture10-11.pdf)] |
+| W05W | Feb 06 | Genetic variation & quantitative genetics | Regularized linear regression | See link above |
 | W05F | Feb 08 | Genetic variation & quantitative genetics | Paper discussion |  Genome-wide association studies and multiple hypothesis correction:</br>- Mining Genome-Wide Genetic Markers \[[Journal](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002828)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Zhang2012_mining-genomewide-genetic-markers.PDF)]</br>- Genome-Wide Association Studies \[[Journal](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002822)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Bush-Moore2012_GWAS.PDF)]</br>- How does multiple testing correction work? \[[Journal](https://www.nature.com/articles/nbt1209-1135)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Noble2009_primer-multiple-testing-correction.pdf)]</br>- Statistical significance for genomewide studies \[[Journal](http://www.pnas.org/content/100/16/9440.full)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Storey-Tibshirani2003_statistical-significance-genomewide-studies.pdf)] |
 | W06M | Feb 11 | Regulatory genomics | Gibbs sampling |  |
 | W06W | Feb 13 | Regulatory genomics | Expectation-Maximization |  |
@@ -141,7 +141,7 @@ Item | Due date
 :--- | -------:
 Project profile | W Jan 16
 Project topic | F Feb 01
-Project pre-proposal | W Fri 08
+Project pre-proposal | M Fri 11
 Project proposal | W Feb 20
 Proposal reviews | F Mar 01
 Mid-term project proposal presentations | M Mar 11</br>W Mar 13</br>F Mar 15
@@ -247,7 +247,7 @@ The outcomes of this semester-long project should include:
 There are several [project deadlines](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio#project-deadlines) throughout the course that will help you stay on track, allowing you to complete a substantial project.
 1. Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you. Project profile due **W Jan 16**.
 2. Discuss with Arjun (and any other PI) and read recent papers. Briefly describe project ideas. Project topic due **F Feb 01**.
-3. Prepare a two-page pre-proposal (Page1: text; Page2: figures & references). Project pre-proposal due **W Fri 08**.
+3. Prepare a two-page pre-proposal (Page1: text; Page2: figures & references). Project pre-proposal due **M Fri 11**.
 4. Write 5-page proposal describing project goals, division of work, milestones, datasets, and challenges. Project proposal due **W Feb 20**.
 5. Review proposals. Discuss proposal with Arjun. Reviews due **F Mar 01**.
 6. Mid-course project presentations on **M Mar 11**, **W Mar 13**, and **F Mar 15**.
