@@ -42,11 +42,11 @@ _(subject to changes)_
 1. Genome assembly & annotation
     * Assembly with de Bruijin graphs; Gene prediction with Hidden Markov models
 2. Sequence alignment; Pattern finding
-    * Dynamic programming; Substitution matrices; BLAST
+    * Local/global alignment with dynamic programming; Substitution matrices; BLAST
 3. Comparative genomics; Phylogenomics
     * Whole genome alignment; Suffix trees; Molecular evolution; Tree construction
 4. Genetic variation; Quantitative genetics
-    * LD, GWAS, Regularized linear regression; Statistical inference, Multiple testing
+    * GWAS, Regularized linear regression; Statistical inference, Multiple testing
 5. Regulatory genomics
     * Gibbs sampling; Expectation-Maximization
 6. Functional genomics
@@ -60,13 +60,16 @@ _(subject to changes)_
 10. Biological networks
     * Measuring associations; Network inference; Graph theory, Label propagation
 
-Each topic is covered over "Lecture" and "Paper discussion" classes.
+Each topic is covered over two "Lecture" classes and a "Paper discussion" class.
 
-Along with these, we are going to cover the following *special topics* as 1-class lecures: **Cancer genomics**, **Genome engineering**, and **Personal genomics**.
+Along with these, we are going to cover the following *special topics* as 1-class lecures:
+* Cancer genomics
+* Genome engineering
+* Personal genomics
 
 And, we will also have practical and conceptual primers:
-* **DataSci Primers**: Data wrangling & visualization in R/Python; Exploratory data analysis
-* **ML Primers**: Machine learning; Deep learning; Applications
+* DataSci Primers: Data wrangling, exploratory data analysis, & visualization in R/Python; R/Jupyter notebooks; Version control w/ Git.
+* ML Primers: Machine learning; Deep learning; Applications in biology & medicine.
 
 ### Recommended Materials
 [This document](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Additional-learning-resources.md) contains links to a bunch of excellent resources for brushing-up your Unix, Python/R, Statistics, and Biology.
