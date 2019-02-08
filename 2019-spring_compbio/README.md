@@ -38,7 +38,6 @@ Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com
 
 ## Course Outline and Materials
 ### Major Topics
-_(subject to changes)_
 1. Genome assembly & annotation
     * Assembly with de Bruijin graphs; Gene prediction with Hidden Markov models
 2. Sequence alignment; Pattern finding
@@ -62,11 +61,13 @@ _(subject to changes)_
 
 Each topic is covered over two "Lecture" classes and a "Paper discussion" class.
 
+### Special Topics
 Along with these, we are going to cover the following *special topics* as 1-class lecures:
 * Cancer genomics
 * Genome engineering
 * Personal genomics
 
+### Primers
 And, we will also have practical and conceptual primers:
 * DataSci Primers: Data wrangling, exploratory data analysis, & visualization in R/Python; R/Jupyter notebooks; Version control w/ Git.
 * ML Primers: Machine learning; Deep learning; Applications in biology & medicine.
