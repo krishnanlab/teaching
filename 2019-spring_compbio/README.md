@@ -103,8 +103,8 @@ This calendar contains the class schedule and the links to the lecture slides an
 | W05M | Feb 04 | Genetic variation & quantitative genetics | GWAS, Statistical inference, Multiple testing | Lectures 10-11 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture10-11.pdf)] |
 | W05W | Feb 06 | Genetic variation & quantitative genetics | Regularized linear regression | See link above |
 | W05F | Feb 08 | Genetic variation & quantitative genetics | Paper discussion |  Genome-wide association studies and multiple hypothesis correction:</br>- Mining Genome-Wide Genetic Markers \[[Journal](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002828)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Zhang2012_mining-genomewide-genetic-markers.PDF)]</br>- Genome-Wide Association Studies \[[Journal](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002822)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Bush-Moore2012_GWAS.PDF)]</br>- How does multiple testing correction work? \[[Journal](https://www.nature.com/articles/nbt1209-1135)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Noble2009_primer-multiple-testing-correction.pdf)]</br>- Statistical significance for genomewide studies \[[Journal](http://www.pnas.org/content/100/16/9440.full)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Storey-Tibshirani2003_statistical-significance-genomewide-studies.pdf)] |
-| W06M | Feb 11 | Regulatory genomics | Gibbs sampling |  |
-| W06W | Feb 13 | Regulatory genomics | Expectation-Maximization |  |
+| W06M | Feb 11 | Regulatory genomics | Finding regulatory motifs; Expectation-Maximization |  |
+| W06W | Feb 13 | Regulatory genomics | Gibbs sampling |  |
 | W06F | Feb 15 | Regulatory genomics | Paper discussion |  |
 | W07M | Feb 18 | Functional genomics | Differential expression; Functional enrichment analysis |  |
 | W07W | Feb 20 | Functional genomics | Clustering; Intro to machine learning |  |
