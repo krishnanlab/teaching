@@ -249,15 +249,38 @@ The outcomes of this semester-long project should include:
 3. A poster that describes your project - motivation, exact problem, approach, results, discussion & conclusions, limitations & future direcrtions, acknowledgements.
 
 There are several [project deadlines](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio#project-deadlines) throughout the course that will help you stay on track, allowing you to complete a substantial project.
+
 1. Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you. Project profile due **W Jan 16**.
+
 2. Discuss with Arjun (and any other PI) and read recent papers. Briefly describe project ideas. Project topic due **F Feb 01**.
+
 3. Prepare a two-page pre-proposal (Page1: text; Page2: figures & references). Project pre-proposal due **M Fri 11**.
-4. Write 5-page proposal describing project goals, division of work, milestones, datasets, and challenges. Project proposal due **W Feb 20**.
+
+4. Write full proposal. Project proposal due **M Feb 25**.
+    - Length: 5-pages (incl. figures & ref; sections listed below)
+    - Sections:
+        - *Background, goals, & significance* (what is the problem you are hoping to address; what is the current approach & its limitations; what will you do & why is it likely to succeed; if successful, what is the broader impact)
+        - *Datasets* (what datasets will you use; where are they from; what exactly do they contain; how are they formatted)
+        - *Computational methods/approach* (what are the analytical methods; what are the specific software implementations you'll use; include your flowchart here)
+        - *Evaluations* (how will you evaluate the results that you get; think in terms of how to test if a) your approach is working correctly without errors and b) your results make quantitative/biological sense and are meaningful)
+        - *Potential challenges & alternative approaches* (what are some assumptions you are making that can fail; what are some potential limitations of your dataset or approach that might prevent you from achieving your aforementioned goals; what will you do as alternatives if you hit those limitations)
+        - *Specific milestones* (what is the list of specific results/outcomes you will work on getting)
+
 5. Review proposals. Discuss proposal with Arjun. Reviews due **F Mar 01**.
+
 6. Mid-course project presentations on **M Mar 11**, **W Mar 13**, and **F Mar 15**.
+    - In addition to the usual things – background, problem, approach, etc. – I would like you to also present the following:
+        - Clear flowchart of approach.
+        - Thorough exploration of data (tables & plots to showcase your datasets)
+        - Method/software usage & I/O format.
+        - Preliminary analysis with simple baselines, samples datasets, and toy examples (discuss with me to determine what this means for your project; doing this over slack is fine).
+
 7. Address peer evaluations, revise aims, scope, list of final goals & deliverables. Meet with Arjun. Response is due 3 days after mid-course presentation: **Th Mar 14**, **Sa Mar 16**, or **M Mar 18**.
+
 8. Continue making substantial progress on proposed milestones. Write the first-draft of final report. Meet Arjun to discuss all results and get feedback on the draft. Mid-course project report due **F Mar 29**.
+
 9. Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience. Final project report due **F Apr 26**.
+
 10. Final project presentations will take place on **M Apr 29**.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/README.md#cmse-491-bioinformatics-and-computational-biology) ]
