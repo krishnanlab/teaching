@@ -118,12 +118,12 @@ This calendar contains the class schedule and the links to the lecture slides an
 | W10M | Mar 11 | Mid-course project presentations | Lightning talks |  |
 | W10W | Mar 13 | Mid-course project presentations |  |  |
 | W10F | Mar 15 | Mid-course project presentations |  |  |
-| W11M | Mar 18 | ML Primers | Machine learning |  |
-| W11W | Mar 20 | ML Primers | Deep learning |  |
-| W11F | Mar 22 | ML Primers | ML/DL Applications |  |
-| W12M | Mar 25 | Single-cell genomics | Missing value imputaion; Dimensionality reduction |  |
-| W12W | Mar 27 | Single-cell genomics | Trajectory inference; Spatial reconstruction |  |
-| W12F | Mar 29 | Single-cell genomics | Paper discussion |  |
+| W11M | Mar 18 | ML Primers | Machine learning – Supervised/Unsupervised learning; Model validation & selection |  |
+| W11W | Mar 20 | ML Primers | Machine learning – Evaluation metrics; ML algorithms | |
+| W11F | Mar 22 | ML Primers | ML/DL Applications | Lectures 18 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture16-18.pdf)] |
+| W12M | Mar 25 | Single-cell genomics | Missing value imputaion; Dimensionality reduction | Lectures 19-20 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture19-20.pdf)] |
+| W12W | Mar 27 | Single-cell genomics | Trajectory inference; Spatial reconstruction | See above. |
+| W12F | Mar 29 | Single-cell genomics | Paper discussion | The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells \[[Journal](https://www.nature.com/articles/nbt.2859)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Trapnell2014_scrnaseq-pseudotime-monocle.pdf)] |
 | W13M | Apr 01 | Molecular dynamics; Protein structure prediction | Molecular simulation |  |
 | W13W | Apr 03 | Molecular dynamics; Protein structure prediction | Maximum entropy modeling |  |
 | W13F | Apr 05 | Molecular dynamics; Protein structure prediction | Paper discussion |  |
