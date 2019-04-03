@@ -124,8 +124,8 @@ This calendar contains the class schedule and the links to the lecture slides an
 | W12M | Mar 25 | Single-cell genomics | Missing value imputaion; Dimensionality reduction | Lectures 19-20 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture19-20.pdf)] |
 | W12W | Mar 27 | Single-cell genomics | Trajectory inference; Spatial reconstruction | See above. |
 | W12F | Mar 29 | Single-cell genomics | Paper discussion | The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells \[[Journal](https://www.nature.com/articles/nbt.2859)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Trapnell2014_scrnaseq-pseudotime-monocle.pdf)] |
-| W13M | Apr 01 | Molecular dynamics; Protein structure prediction | Molecular simulation | Lectures 21-22 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture19-20.pdf)] |
-| W13W | Apr 03 | Molecular dynamics; Protein structure prediction | Maximum entropy modeling |  |
+| W13M | Apr 01 | Molecular dynamics; Protein structure prediction | Molecular simulation | Lectures 21-22 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture21-22.pdf)] |
+| W13W | Apr 03 | Molecular dynamics; Protein structure prediction | Maximum entropy modeling | See above. |
 | W13F | Apr 05 | Molecular dynamics; Protein structure prediction | Paper discussion | - Predicting protein structures with a multiplayer online game \[[Journal](https://www.nature.com/articles/nature09304)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Cooper2010_Foldit.pdf)]</br>- [GROMACS tutorial](http://md.chem.rug.nl/~mdcourse/index.html) |
 | W14M | Apr 08 | Modeling cellular pathways; Digital evolution | Dynamical simulation, State Space, Bifurcation |  |
 | W14W | Apr 10 | Modeling cellular pathways; Digital evolution | Linear programming; Artificial life |  |
