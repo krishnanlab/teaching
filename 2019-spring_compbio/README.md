@@ -128,7 +128,7 @@ This calendar contains the class schedule and the links to the lecture slides an
 | W13W | Apr 03 | Molecular dynamics; Protein structure prediction | Maximum entropy modeling | See above. |
 | W13F | Apr 05 | Molecular dynamics; Protein structure prediction | Paper discussion | - Predicting protein structures with a multiplayer online game \[[Journal](https://www.nature.com/articles/nature09304)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Cooper2010_Foldit.pdf)]</br>- [GROMACS tutorial](http://md.chem.rug.nl/~mdcourse/index.html) |
 | W14M | Apr 08 | Modeling cellular pathways; Digital evolution | Dynamical simulation, State Space, Bifurcation | Lecture 23 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture23.pdf)] |
-| W14W | Apr 10 | Modeling cellular pathways; Digital evolution | Linear programming; Artificial life |  |
+| W14W | Apr 10 | Modeling cellular pathways; Digital evolution | Metabolic reconstruction; Contraint-based modeling | Lecture 24 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture24.pdf) |
 | W14F | Apr 12 | Modeling cellular pathways; Digital evolution | Paper discussion | - Construction of a genetic toggle switch in E. coli \[[Journal](https://www.nature.com/articles/35002131)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Gardner2000-Ecoli-genetic-toggle-switch.pdf)] |
 | W15M | Apr 15 | Biological networks | Measuring associations; Network inference |  |
 | W15W | Apr 17 | Biological networks | Graph theory, Label propagation |  |
@@ -151,8 +151,8 @@ Proposal reviews | F Mar 01
 Mid-term project proposal presentations | M Mar 11</br>W Mar 13</br>F Mar 15
 Review response | Th Mar 14</br>Sa Mar 16</br>M Mar 18
 Mid-course project report | F Mar 29
-Final project report | F Apr 26
-Final project presentations | M Apr 29
+Final project report | M Apr 29
+Final project presentations | W May 1 or F May 3
 
 ### Office Hours
 Tuesdays 5–7pm
