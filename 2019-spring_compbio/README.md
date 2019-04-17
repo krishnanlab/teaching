@@ -130,9 +130,9 @@ This calendar contains the class schedule and the links to the lecture slides an
 | W14M | Apr 08 | Modeling cellular pathways; Digital evolution | Dynamical simulation, State Space, Bifurcation | Lecture 23 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture23.pdf)] |
 | W14W | Apr 10 | Modeling cellular pathways; Digital evolution | Metabolic reconstruction; Contraint-based modeling | Lecture 24 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture24.pdf) |
 | W14F | Apr 12 | Modeling cellular pathways; Digital evolution | Paper discussion | - Construction of a genetic toggle switch in E. coli \[[Journal](https://www.nature.com/articles/35002131)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Gardner2000-Ecoli-genetic-toggle-switch.pdf)] |
-| W15M | Apr 15 | Biological networks | Measuring associations; Network inference |  |
-| W15W | Apr 17 | Biological networks | Graph theory, Label propagation |  |
-| W15F | Apr 19 | Biological networks | Paper discussion |  |
+| W15M | Apr 15 | Biological networks | Measuring associations; Network inference | Lectures 25-26 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture25-26.pdf)] |
+| W15W | Apr 17 | Biological networks | Graph theory, Label propagation | See above. |
+| W15F | Apr 19 | Biological networks | Paper discussion | Genomic analysis of regulatory network dynamics reveals large topological changes \[[Journal](https://www.nature.com/articles/nature02782)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Luscombe2004_topological-network-dynamics.pdf) |
 | W16M | Apr 22 | Cancer genomics | Overview |  |
 | W16W | Apr 24 | Genome engineering | Overview |  |
 | W16F | Apr 26 | Personal genomics | Overview |  |
@@ -152,7 +152,7 @@ Mid-term project proposal presentations | M Mar 11</br>W Mar 13</br>F Mar 15
 Review response | Th Mar 14</br>Sa Mar 16</br>M Mar 18
 Mid-course project report | F Mar 29
 Final project report | M Apr 29
-Final project presentations | W May 1 or F May 3
+Final project presentations | Th May 2
 
 ### Office Hours
 Tuesdays 5–7pm
@@ -279,9 +279,9 @@ There are several [project deadlines](https://github.com/krishnanlab/teaching/tr
 
 8. Continue making substantial progress on proposed milestones. Write the first-draft of final report. Meet Arjun to discuss all results and get feedback on the draft. Mid-course project report due **F Mar 29**.
 
-9. Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience. Final project report due **F Apr 26**.
+9. Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience. Final project report due **F Apr 29**.
 
-10. Final project presentations will take place on **M Apr 29**.
+10. Final project presentations will take place on **Th May 02** 12:45pm – 2:45pm in 351 Natural Sciences Bldg.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/README.md#cmse-491-bioinformatics-and-computational-biology) ]
 
