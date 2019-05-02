@@ -133,12 +133,10 @@ This calendar contains the class schedule and the links to the lecture slides an
 | W15M | Apr 15 | Biological networks | Measuring associations; Network inference | Lectures 25-26 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture25-26.pdf)] |
 | W15W | Apr 17 | Biological networks | Graph theory, Label propagation | See above. |
 | W15F | Apr 19 | Biological networks | Paper discussion | Genomic analysis of regulatory network dynamics reveals large topological changes \[[Journal](https://www.nature.com/articles/nature02782)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Luscombe2004_topological-network-dynamics.pdf) |
-| W16M | Apr 22 | Cancer genomics | Overview |  |
-| W16W | Apr 24 | Genome engineering | Overview |  |
-| W16F | Apr 26 | Personal genomics | Overview |  |
-| W17M | Apr 29 | Final project presentations | One of these days: Poster presentations |  |
-| W17W | May 01 | Final project presentations | One of these days: Poster presentations |  |
-| W17F | May 03 | Final project presentations | One of these days: Poster presentations |  |
+| W16M | Apr 22 | Cancer genomics | Overview | Lectures 27 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture27.pdf)] |
+| W16W | Apr 24 | Genome engineering | Overview | Lectures 28 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture28.pdf)] |
+| W16F | Apr 26 | Personal genomics | Overview | Lectures 29 \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Lectures/Lecture29.pdf)] |
+| W17T | May 02 | Final project presentations | Poster presentations (12:45 – 2:45 pm) |  |
 
 #### Project deadlines
 Item | Due date
@@ -248,7 +246,7 @@ The outcomes of this semester-long project should include:
     - Glossary
 3. A poster that describes your project - motivation, exact problem, approach, results, discussion & conclusions, limitations & future direcrtions, acknowledgements.
 
-There are several [project deadlines](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio#project-deadlines) throughout the course that will help you stay on track, allowing you to complete a substantial project.
+There are several [project deadlines](https://github.com/krishnanlab/teaching/tree/master/2019-spring_compbio#project-deadlines) throughout the course that will help you stay on track, enabling you to complete a substantial project.
 
 1. Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you. Project profile due **W Jan 16**.
 
