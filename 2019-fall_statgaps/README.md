@@ -1,14 +1,14 @@
-# BMB 961-301: Gaps, Missteps, and Errors in Statistical Data Analysis
+# CMSE 890-310: Gaps, Missteps, and Errors in Statistical Data Analysis
 
-* [Description](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#description)
-* [Prerequisites](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#prerequisites)
-* [Instructor Contact Information](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#instructor-contact-information)
-* [Course Outline and Materials](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#course-outline-and-materials)
-* [Schedule, Location, Calendar, and Office Hours](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#schedule-location-calendar-and-office-hours)
-* [Website and Communication](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#website-and-communication)
-* [Course Activities](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#course-activities)
-* [Grading Information](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#grading-information)
-* [Attendance, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#attendance-conduct-honesty-accomodations)
+* [Description](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#description)
+* [Prerequisites](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#prerequisites)
+* [Instructor Contact Information](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#instructor-contact-information)
+* [Course Outline and Materials](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#course-outline-and-materials)
+* [Schedule, Location, Calendar, and Office Hours](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#schedule-location-calendar-and-office-hours)
+* [Website and Communication](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#website-and-communication)
+* [Course Activities](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#course-activities)
+* [Grading Information](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#grading-information)
+* [Attendance, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#attendance-conduct-honesty-accomodations)
 
 
 ## Description
@@ -16,18 +16,25 @@ This is an advanced short (1-credit) course designed to:
 1. Discuss common misunderstandings & typical errors in the practice of statistical data analysis.
 2. Provide a mental toolkit for critical thinking and enquiry of analytical methods and results.
 
-Classes will involve lectures, discussions, hands-on exercises, and homework about concepts critical to the day-to-day use and consumption of quantitative/computational techniques. Please use this [course flyer](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/BMB961-301_Nov18_Flyer.pdf) to help spread the word.
+Classes will involve lectures, discussions, hands-on exercises, and homework about concepts critical to the day-to-day use and consumption of quantitative/computational techniques. Please use this [course flyer](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/CMSE890-310_Nov06_Flyer.pdf) to help spread the word.
 
-### Prerequisites
+**Note**
+Open to both undergraduate and graduate students. Counts toward the CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu for an override.
+
+**Prerequisites**
 This is *not* an introductory course in statistics or programming. We will assume: 1) Familiarity with basic statistics & probability. 2) Ability to do basic data wrangling, analyses, & visualization using R or Python.
 - Strongly recommended MSU courses: CMSE 201 and CMSE 890 Sec 301-or-304 and Sec 302.
-- Check out some [recommended online preparatory materials](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#recommended-preparatory-materials) listed below that you can use to refresh all these concetps.
+- Check out some [recommended online preparatory materials](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#recommended-preparatory-materials) listed below that you can use to refresh all these concetps.
 
-### Registration
-If you are not a declared Biochemistry graduate student, please contact Arjun (arjun@msu.edu) and then submit the online override request form found [here](https://bmb.natsci.msu.edu/undergraduate/override-request-form/). For more specific information, please visit this [page](https://bmb.natsci.msu.edu/undergraduate/undergrad-grad-course-descriptions/).
+CMSE 201 or CMSE 301-304 or equivalent with programming experience and two semesters of introductory biology (LB 144 and 145 OR BS 161 and 162 OR BS 181H and 182H, or equivalent). Statistics at the level of STT 231 is strongly recommended.
+
+Basically, it would be assumed that you:
+- know how to code in one of the mainstream languages like Python or R,
+- have an understanding of basic statistics and probability, and
+- have studied basic genetics, molecular biology, and cellular biology.
 
 ### Courve Survey
-Please fill-out the [course survey](https://docs.google.com/forms/d/e/1FAIpQLSdZLf7RtVsQACe4XIO_a3AhGSXIJzJ9JfL9EFWXvcN2eB9fFA/viewform) to help me know better about your background, motivation, etc.
+Please fill-out the [course survey](TBD) to help me know better about your background, motivation, etc.
 
 
 ## Instructor Contact Information
@@ -37,7 +44,7 @@ Affiliation | Dept. Computational Mathematics, Science, and Engineering</br>Dept
 Office | 2507H Engineering Building
 Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com/compbiologist)</br>Website: https://cmse.msu.edu/directory/faculty/arjun-krishnan/
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 
 ## Course Outline and Materials
@@ -88,35 +95,32 @@ _(subject to changes)_
 * [Think Stats](https://greenteapress.com/wp/think-stats-2e/) (book + code + solutions)
     - Introduction to Probability and Statistics (designed for Python programmers but can very much be used with other languages).
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 
 ## Schedule, Location, Calendar, and Office Hours
-Nov 5 – Dec 5, 2018
+Nov 6 – Dec 4, 2019
 
 S/L | Info
 :------------ | :------------
-Schedule | Mon and Wed</br>12:40-2:00 pm
-Location | 202 Biochemistry Building
+Schedule | Mon and Wed</br>3:00-4:50 pm
+Location | A158 Plant & Soil Science Bldg
 
 ### Calendar
 Date | Topic | Content | Learning Materials
 :------------------------: | :------------------------------- | :----------------------------- | :------------------------
-Nov 05 (M) | Introduction & Overview | Course overview | **Lecture 1** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/Lectures/Lecture1.pdf)]
-Nov 07 (W), Nov 12 (M) | Topic 1: Statistical hypothesis testing | P-value & P-hacking; Multiple hypothesis correction; Estimation of error & uncertainty | **Lectures 2 and 3** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/Lectures/Lectures2and3.pdf)]
-Nov 14 (W), Nov 19 (M) | Topic 2: Experimental design | Statistical power / underpowered statistics; Sample size calculation; Pseudoreplication; Confounding variables & batch effects |  **Lectures 4 and 5** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/Lectures/Lectures4and5.pdf)]
-Nov 21 (W), Nov 26 (M) | Topic 3: Unknown variables, Cognitive biases, & Base rate | Circular analysis; Regression to the mean & stopping rules; Confirmation & survivorship bias; Permutation test | **Lectures 6 and 7** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/Lectures/Lectures6and7.pdf)]
-Nov 28 (W), Dec 03 (M) | Topic 4: Descriptive statistics, Modeling, Visualization | Describing different distributions; Continuity errors & model abuse; Visualization challenges | **Lectures 8 and 9** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/Lectures/Lectures8and9.pdf)]
-Dec 05 (W) | Topic 5: Reproducibility | Researcher degrees of freedom; Data sharing / Hiding data; Reproducible research; Roundup | **Lecture 10** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/Lectures/Lecture10.pdf)]
+Nov 05 (M) | Introduction & Overview | Course overview | **Lecture 1** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Lecture1.pdf)]
+Nov 07 (W), Nov 12 (M) | Topic 1: Statistical hypothesis testing | P-value & P-hacking; Multiple hypothesis correction; Estimation of error & uncertainty | **Lectures 2 and 3** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Lectures2and3.pdf)]
+Nov 14 (W), Nov 19 (M) | Topic 2: Experimental design | Statistical power / underpowered statistics; Sample size calculation; Pseudoreplication; Confounding variables & batch effects |  **Lectures 4 and 5** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Lectures4and5.pdf)]
+Nov 21 (W), Nov 26 (M) | Topic 3: Unknown variables, Cognitive biases, & Base rate | Circular analysis; Regression to the mean & stopping rules; Confirmation & survivorship bias; Permutation test | **Lectures 6 and 7** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Lectures6and7.pdf)]
+Nov 28 (W), Dec 03 (M) | Topic 4: Descriptive statistics, Modeling, Visualization | Describing different distributions; Continuity errors & model abuse; Visualization challenges | **Lectures 8 and 9** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Lectures8and9.pdf)]
+Dec 05 (W) | Topic 5: Reproducibility | Researcher degrees of freedom; Data sharing / Hiding data; Reproducible research; Roundup | **Lecture 10** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Lecture10.pdf)]
 
 #### Final exam
-Item | Due date
-:--- | -------:
-Final exams | Mon, Dec 10
+TBD
 
 ### Office Hours
-Wednesday 8–9am
-Thursday 5–6pm
+TBD
 
 I will block these times from my schedule and be present in my office (2507H Engineering).
 
@@ -124,29 +128,29 @@ Couple of things to note:
 1. While I'm happy to chat with you in person, many times, just sending me a message on Slack with your questions/concerns might work as well. So, if you have specific Qs in mind, just shoot me a message and let's see if we can resolve it then and there.
 2. If you would indeed like to meet in person, please try to meet me during this time. But, don't worry if you can't make it during this window for some reason. Again, just send me a message on Slack and we'll find a time that works for both of us.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 
 ## Website and Communication
 
 ### Course website
-This [GitHub repo](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps) will serve as the course website.  
+This [GitHub repo](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps) will serve as the course website.  
 
 ### Communication
-The primary mode of communication in this course (including major announcements), will be the course Slack account https://bmb961-statgaps-nov18.slack.com. All of you should have invitations to join this account in your MSU email.  
+The primary mode of communication in this course (including major announcements), will be the course Slack account TBD. All of you should have invitations to join this account in your MSU email.  
 
 **Emails**  
 Although the bulk of the communication will take place via Slack, at times (rarely), we will send out important course information via email. This email is sent to your MSU email address (the one that ends in “@msu.edu”). You are responsible for all information sent out to your University email account, and for checking this account on a regular basis.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 
 ## Course Activities
 
 ### Assignments
-For each topic, you will be assigned reading materials after the topic's first class that you are required to read. The links to these materials will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#calendar) along with instructions on a specific analysis in the paper you should pay special attention to.
+For each topic, you will be assigned reading materials after the topic's first class that you are required to read. The links to these materials will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#calendar) along with instructions on a specific analysis in the paper you should pay special attention to.
 
-For each topic, you will be assigned a reading material after the topic's 1st class (Wed) that you are required to read. Along with this, you might be given a data analysis assignment that you have to complete. Links to these materials will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2018-fall_statgaps/README.md#calendar).
+For each topic, you will be assigned a reading material after the topic's 1st class (Wed) that you are required to read. Along with this, you might be given a data analysis assignment that you have to complete. Links to these materials will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#calendar).
 
 Each completed assignment is due _before_ the topic's second class (following Wed).
 
@@ -161,7 +165,7 @@ In general:
 ### Final Exam
 A major goal of this course is to prepare you for performing statisitcal data analysis with care, and for presenting your ideas and findings effectively. The final exam will serve as a practical way to do exactly that.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 ## Grading Information
 Activity | Percentage
@@ -171,7 +175,7 @@ Class participation | ~25%
 Final Exam/Project | ~25%
 
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 
 ## Attendance, Conduct, Honesty, and Accommodations
@@ -200,4 +204,4 @@ More broadly, we ask that students adhere to the Spartan Code of Honor academic 
 ### Accomodations
 If you have a university-documented learning difficulty or require other accommodations, please provide me with your VISA as soon as possible and speak with me about how I can assist you in your learning.  If you do not have a VISA but have been documented with a learning difficulty or other problems for which you may still require accommodation, please contact MSU’s Resource Center for People with Disabilities (355-9642) in order to acquire current documentation.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2018-fall_statgaps/README.md#bmb-961-301-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
