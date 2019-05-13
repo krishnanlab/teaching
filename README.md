@@ -6,7 +6,7 @@ Classes will involve lectures, discussions, hands-on exercises, and homework abo
 
 Topics include: Underpowered statistics • Pseudoreplication • P-hacking & multiple hypothesis correction • Difference in significance & significant differences • Base rates & permutation tests • Regression to the mean • Descriptive statistics & spurious correlations • Estimation of error and uncertainty • (Others under consideration; Subject to small changes)
 
-\[[Fall 2018](2019-fall_statgaps/)\]
+\[[Fall 2019](2019-fall_statgaps/)\]  
 \[[Fall 2018](2018-fall_statgaps/)\]
 
 ## Bioinformatics and Computational Biology
@@ -14,7 +14,7 @@ This course is an introduction to contemporary topics in bioinformatics and comp
 
 Students will learn how to formulate problems for quantitative inquiry, design computational projects, understand and think critically about data & methods, communicate research findings, perform reproducible research, and practice open science. Students will apply all these by carrying out a group project, presenting their project in class, and submit a report at the end of the course.
 
-\[[Spring 2019](2019-spring_compbio/)\]
+\[[Spring 2019](2019-spring_compbio/)\]  
 \[[Spring 2018](2018-spring_compbio/)\]
 
 ## Modular Courses in Bioinformatics
