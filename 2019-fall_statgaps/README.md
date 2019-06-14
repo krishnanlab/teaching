@@ -13,31 +13,30 @@
 
 ## Description
 This is an advanced short (1-credit) course designed to:
-1. Discuss common misunderstandings & typical errors in the practice of statistical data analysis.
-2. Provide a mental toolkit for critical thinking and enquiry of analytical methods and results.
+1) Discuss common misunderstandings & typical errors in the practice of statistical data analysis.
+2) Provide a mental toolkit for critically thinking about statistical methods and results.
 
 Classes will involve lectures, discussions, hands-on exercises, and homework about concepts critical to the day-to-day use and consumption of quantitative/computational techniques. Please use this [course flyer](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/CMSE890-310_Nov06_Flyer.pdf) to help spread the word.
 
-**Note**
-Open to both undergraduate and graduate students. Counts toward the CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu for an override.
+**Note**  
+Open to both undergraduate and graduate students. Counts toward the CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu if you need an override.
 
-**Prerequisites**
-This is *not* an introductory course in statistics or programming. We will assume: 1) Familiarity with basic statistics & probability. 2) Ability to do basic data wrangling, analyses, & visualization using R or Python.
-- Strongly recommended MSU courses: CMSE 201 and CMSE 890 Sec 301-or-304 and Sec 302.
-- Check out some [recommended online preparatory materials](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#recommended-preparatory-materials) listed below that you can use to refresh all these concetps.
+**Prerequisites**  
+To get the most out of this course, it would be ideal if you have:
+1) Familiarity with introductory statistics and probability, and
+2) Basic experience with data wrangling, analysis, and visualization using R/Python.
 
-CMSE 201 or CMSE 301-304 or equivalent with programming experience and two semesters of introductory biology (LB 144 and 145 OR BS 161 and 162 OR BS 181H and 182H, or equivalent). Statistics at the level of STT 231 is strongly recommended.
+Check out some [recommended online preparatory materials](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#recommended-preparatory-materials) that you can use to refresh all these concetps.
 
-Basically, it would be assumed that you:
-- know how to code in one of the mainstream languages like Python or R,
-- have an understanding of basic statistics and probability, and
-- have studied basic genetics, molecular biology, and cellular biology.
+* For introductory courses in statistics, please checkout a number of good ones offered in STT. Statistics at the level of STT 231 is strongly recommended.
+* If you would like introdocutory courses in programming (in R or Python) and in how to do statistical analysis in R or Python, please ckeckout CMSE 201 or CMSE 301-304.
+* Some background in introductory biology would also be nice, for instance LB 144 and 145 OR BS 161 and 162 OR BS 181H and 182H, or equivalent. 
 
 ### Courve Survey
-Please fill-out the [course survey](TBD) to help me know better about your background, motivation, etc.
+Please fill-out the [course survey](https://docs.google.com/forms/d/e/1FAIpQLSdXveM43WpEoKSiCpc2DSSZd6pCE9PZg2KSwm00IngR9XMRPA/viewform?usp=sf_link) to help me know better understand your background, motivation, etc., and provide advice on whether this course is right for you.
 
 
-## Instructor Contact Information
+## Instructor
 Arjun Krishnan | ...
 :------------ | :------------
 Affiliation | Dept. Computational Mathematics, Science, and Engineering</br>Dept. Biochemistry and Molecular Biology
@@ -69,32 +68,6 @@ _(subject to changes)_
 * Reproducible research
 * Difference in significance & significant differences
 
-### Recommended Preparatory Materials
-*I'm recommending the open & free versions of all the materials below.*
-
-#### Python
-* [Learning Python the Hard Way](https://learnpythonthehardway.org/book/)
-    - If you are new to programming and want to learn Python...
-* MIT OpenCourseWare (video lectures + notes + assignments)
-    - If you already know programming in some other language and want to learn Python, computational and data science ...
-    * [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-    * [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-* [Data Visualization with Python](https://www.kaggle.com/learn/data-visualisation)
-
-#### R
-* [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/)
-    - If you are new to programming and want to learn R...
-* [R for Data Science](http://r4ds.had.co.nz/)
-    - An awesome book on using R for data analysis and visualization!
-* [R Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
-    - Great set of visually-appealing cheatsheet.
-
-#### Probability and statistics
-* [Khan Academy – Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
-* [Great Short Videos on Probability and Statistics](https://www.youtube.com/user/jbstatistics/playlists)
-* [Think Stats](https://greenteapress.com/wp/think-stats-2e/) (book + code + solutions)
-    - Introduction to Probability and Statistics (designed for Python programmers but can very much be used with other languages).
-
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 
@@ -109,12 +82,15 @@ Location | A158 Plant & Soil Science Bldg
 ### Calendar
 Date | Topic | Content | Learning Materials
 :------------------------: | :------------------------------- | :----------------------------- | :------------------------
-Nov 05 (M) | Introduction & Overview | Course overview | **Lecture 1** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Lecture1.pdf)]
-Nov 07 (W), Nov 12 (M) | Topic 1: Statistical hypothesis testing | P-value & P-hacking; Multiple hypothesis correction; Estimation of error & uncertainty | **Lectures 2 and 3** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Lectures2and3.pdf)]
-Nov 14 (W), Nov 19 (M) | Topic 2: Experimental design | Statistical power / underpowered statistics; Sample size calculation; Pseudoreplication; Confounding variables & batch effects |  **Lectures 4 and 5** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Lectures4and5.pdf)]
-Nov 21 (W), Nov 26 (M) | Topic 3: Unknown variables, Cognitive biases, & Base rate | Circular analysis; Regression to the mean & stopping rules; Confirmation & survivorship bias; Permutation test | **Lectures 6 and 7** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Lectures6and7.pdf)]
-Nov 28 (W), Dec 03 (M) | Topic 4: Descriptive statistics, Modeling, Visualization | Describing different distributions; Continuity errors & model abuse; Visualization challenges | **Lectures 8 and 9** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Lectures8and9.pdf)]
-Dec 05 (W) | Topic 5: Reproducibility | Researcher degrees of freedom; Data sharing / Hiding data; Reproducible research; Roundup | **Lecture 10** \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Lecture10.pdf)]
+Nov 06 (W) |  |  | 
+Nov 11 (M) |  |  | 
+Nov 13 (W) |  |  | 
+Nov 18 (M) |  |  | 
+Nov 20 (W) |  |  | 
+Nov 25 (M) |  |  | 
+Nov 27 (W) |  |  | 
+Dec 02 (M) |  |  | 
+Dec 04 (W) |  |  | 
 
 #### Final exam
 TBD
@@ -159,7 +135,7 @@ In general:
 - Do the assignments and additional readings.
 - Show up to class.
 - Work in groups during in-class discussion sessions.
-- No one will have the perfect background: **Ask questions** about computational or biological concepts.
+- No one will have the perfect background: **Ask questions** about statistical or programming concepts.
 - Correct me when I am wrong.
 
 ### Final Exam
@@ -173,7 +149,6 @@ Activity | Percentage
 Assignments | ~50%
 Class participation | ~25%
 Final Exam/Project | ~25%
-
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
