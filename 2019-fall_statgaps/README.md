@@ -1,7 +1,6 @@
 # CMSE 890-310: Gaps, Missteps, and Errors in Statistical Data Analysis
 
 * [Description](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#description)
-* [Prerequisites](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#prerequisites)
 * [Instructor Contact Information](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#instructor-contact-information)
 * [Course Outline and Materials](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#course-outline-and-materials)
 * [Schedule, Location, Calendar, and Office Hours](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#schedule-location-calendar-and-office-hours)
@@ -21,13 +20,14 @@ Classes will involve lectures, discussions, hands-on exercises, and homework abo
 **Note**  
 Open to both undergraduate and graduate students. Counts toward the CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu if you need an override.
 
-**Prerequisites**  
+### Prerequisites
 To get the most out of this course, it would be ideal if you have:
 1) Familiarity with introductory statistics and probability, and
 2) Basic experience with data wrangling, analysis, and visualization using R/Python.
 
 Check out some [recommended online preparatory materials](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/Preparatory-materials.md) that you can use to refresh all these concetps.
 
+#### Course suggestions
 * For introductory courses in statistics, please checkout a number of good ones offered in STT. Statistics at the level of STT 231 is strongly recommended.
 * If you would like introdocutory courses in programming (in R or Python) and in how to do statistical analysis in R or Python, please ckeckout CMSE 201 or CMSE 301-304.
 * Some background in introductory biology would also be nice, for instance LB 144 and 145 OR BS 161 and 162 OR BS 181H and 182H, or equivalent. 
