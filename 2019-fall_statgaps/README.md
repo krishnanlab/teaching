@@ -16,7 +16,7 @@ This is an advanced short (1-credit) course designed to:
 1) Discuss common misunderstandings & typical errors in the practice of statistical data analysis.
 2) Provide a mental toolkit for critically thinking about statistical methods and results.
 
-Classes will involve lectures, discussions, hands-on exercises, and homework about concepts critical to the day-to-day use and consumption of quantitative/computational techniques. Please use this [course flyer](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/CMSE890-310_Nov06_Flyer.pdf) to help spread the word.
+Classes will involve lectures, discussions, hands-on exercises, and homework about concepts critical to the day-to-day use and consumption of quantitative/computational techniques. Please use this [course flyer](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/CMSE890-310_Nov19_Flyer.pdf) to help spread the word.
 
 **Note**  
 Open to both undergraduate and graduate students. Counts toward the CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu if you need an override.
@@ -26,7 +26,7 @@ To get the most out of this course, it would be ideal if you have:
 1) Familiarity with introductory statistics and probability, and
 2) Basic experience with data wrangling, analysis, and visualization using R/Python.
 
-Check out some [recommended online preparatory materials](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#recommended-preparatory-materials) that you can use to refresh all these concetps.
+Check out some [recommended online preparatory materials](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/Preparatory-materials.md) that you can use to refresh all these concetps.
 
 * For introductory courses in statistics, please checkout a number of good ones offered in STT. Statistics at the level of STT 231 is strongly recommended.
 * If you would like introdocutory courses in programming (in R or Python) and in how to do statistical analysis in R or Python, please ckeckout CMSE 201 or CMSE 301-304.
