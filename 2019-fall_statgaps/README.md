@@ -3,7 +3,7 @@
 * [Description](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#description)
 * [Instructor Contact Information](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#instructor-contact-information)
 * [Course Outline and Materials](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#course-outline-and-materials)
-* [Schedule, Location, Calendar, and Office Hours](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#schedule-location-calendar-and-office-hours)
+* [Schedule, Location, Calendar, and Student Hours](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#schedule-location-calendar-and-student-hours)
 * [Website and Communication](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#website-and-communication)
 * [Course Activities](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#course-activities)
 * [Grading Information](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#grading-information)
@@ -18,7 +18,8 @@ This is an advanced short (1-credit) course designed to:
 Classes will involve lectures, discussions, hands-on exercises, and homework about concepts critical to the day-to-day use and consumption of quantitative/computational techniques. Please use this [course flyer](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/CMSE890-310_Nov19_Flyer.pdf) to help spread the word.
 
 **Note**  
-Open to both undergraduate and graduate students. Counts toward the CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu if you need an override.
+Open to both undergraduate and graduate students for credit. Counts toward the CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu if you need an override.
+Postdocs, staff scientists/specialists, and faculty members are welcome to sit-in. (Please fill-out the [course survey](https://docs.google.com/forms/d/e/1FAIpQLSdXveM43WpEoKSiCpc2DSSZd6pCE9PZg2KSwm00IngR9XMRPA/viewform?usp=sf_link).)
 
 ### Prerequisites
 To get the most out of this course, it would be ideal if you have:
@@ -71,7 +72,7 @@ _(subject to changes)_
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 
-## Schedule, Location, Calendar, and Office Hours
+## Schedule, Location, Calendar, and Student Hours
 Nov 6 – Dec 4, 2019
 
 S/L | Info
@@ -95,7 +96,7 @@ Dec 04 (W) |  |  |
 #### Final exam
 TBD
 
-### Office Hours
+### Student Hours
 TBD
 
 I will block these times from my schedule and be present in my office (2507H Engineering).
