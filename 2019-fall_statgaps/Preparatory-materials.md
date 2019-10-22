@@ -5,10 +5,9 @@
 1. [Intro to Python](https://www.kaggle.com/learn/python)
 2. [Jupyter Notebooks](https://realpython.com/jupyter-notebook-introduction/)
 3. [Data wrangling](https://www.kaggle.com/learn/pandas)
-4. [Data visualization - Part 1](https://www.kaggle.com/learn/data-visualization-from-non-coder-to-coder)
-5. [Data visualization - Part 2](https://www.kaggle.com/learn/data-visualisation)
-6. [Python Plotting for Exploratory Data Analysis](http://pythonplot.com/)
-7. [Statistics in Python] (https://scipy-lectures.org/packages/statistics/index.html)
+4. [Data visualization - Part 2](https://www.kaggle.com/learn/data-visualization)
+5. [Python Plotting for Exploratory Data Analysis](http://pythonplot.com/)
+6. [Statistics in Python] (https://scipy-lectures.org/packages/statistics/index.html)
 
 ## R
 * [RStudio Primers](https://rstudio.cloud/learn/primers)
