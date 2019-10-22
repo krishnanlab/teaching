@@ -5,7 +5,7 @@
 1. [Intro to Python](https://www.kaggle.com/learn/python)
 2. [Jupyter Notebooks](https://realpython.com/jupyter-notebook-introduction/)
 3. [Data wrangling](https://www.kaggle.com/learn/pandas)
-4. [Data visualization - Part 2](https://www.kaggle.com/learn/data-visualization)
+4. [Data visualization](https://www.kaggle.com/learn/data-visualization)
 5. [Python Plotting for Exploratory Data Analysis](http://pythonplot.com/)
 6. [Statistics in Python] (https://scipy-lectures.org/packages/statistics/index.html)
 
