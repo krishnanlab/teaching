@@ -114,7 +114,7 @@ Couple of things to note:
 This [GitHub repo](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps) will serve as the course website.  
 
 ### Communication
-The primary mode of communication in this course (including major announcements), will be the course Slack account TBD. All of you should have invitations to join this account in your MSU email.  
+The primary mode of communication in this course (including major announcements), will be the [course Slack account](https://statgaps2019.slack.com). All of you should have invitations to join this account in your MSU email.  
 
 **Emails**  
 Although the bulk of the communication will take place via Slack, at times (rarely), we will send out important course information via email. This email is sent to your MSU email address (the one that ends in “@msu.edu”). You are responsible for all information sent out to your University email account, and for checking this account on a regular basis.
