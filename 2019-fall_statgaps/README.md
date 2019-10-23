@@ -207,3 +207,5 @@ Yes! But you can rest assured that the point of the exam will not be to *test* y
 
 **6. Will this short course be converted into a regular semester-long course in the future?**  
 May be. There is a lot of benefit for keeping an essential course like this short and crisp. If you are interested in chatting about this and/or helping with developing this course further, do get in touch!
+
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
