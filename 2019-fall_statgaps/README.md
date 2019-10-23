@@ -42,7 +42,7 @@ Arjun Krishnan | ...
 :------------ | :------------
 Affiliation | Dept. Computational Mathematics, Science, and Engineering</br>Dept. Biochemistry and Molecular Biology
 Office | 2507H Engineering Building
-Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com/compbiologist)</br>Website: https://cmse.msu.edu/directory/faculty/arjun-krishnan/
+Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com/compbiologist)</br>Website: https://www.thekrishnanlab.org
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
@@ -51,10 +51,10 @@ Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com
 
 ### Major Topics
 _(subject to changes)_
+* Estimation of error & uncertainty
 * P-value & P-hacking
 * Multiple hypothesis correction
-* Estimation of error & uncertainty
-* Statistical power / Underpowered statistics / Sample size calculation
+* Statistical power & Underpowered statistics
 * Pseudoreplication
 * Confounding variables & batch effects
 * Circular analysis
@@ -81,7 +81,9 @@ Schedule | Mon and Wed</br>3:00-4:50 pm
 Location | A158 Plant & Soil Science Bldg
 
 ### Calendar
-Date | Topic | Content | Learning Materials
+_(Topics & dates are still under flux)_  
+
+Date | Topic | Content | Additional Learning Materials
 :------------------------: | :------------------------------- | :----------------------------- | :------------------------
 Nov 06 (W) |  |  | 
 Nov 11 (M) |  |  | 
@@ -92,9 +94,7 @@ Nov 25 (M) |  |  |
 Nov 27 (W) |  |  | 
 Dec 02 (M) |  |  | 
 Dec 04 (W) |  |  | 
-
-#### Final exam
-TBD
+Dec 09 (M) | Final Exam |  | 
 
 ### Student Hours
 TBD
@@ -137,10 +137,11 @@ In general:
 - Show up to class.
 - Work in groups during in-class discussion sessions.
 - No one will have the perfect background: **Ask questions** about statistical or programming concepts.
+- Contribute to the materials in-class and on slack.
 - Correct me when I am wrong.
 
 ### Final Exam
-A major goal of this course is to prepare you for performing statisitcal data analysis with care, and for presenting your ideas and findings effectively. The final exam will serve as a practical way to do exactly that.
+A major goal of this course is to prepare you for performing statisitcal data analysis with care, and for presenting your ideas and findings effectively. The final exam – scheduled on Dec 09 3–5pm – will serve as a practical way to do exactly that. We discuss and nail the details when we meet in class.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
