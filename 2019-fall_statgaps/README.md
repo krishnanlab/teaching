@@ -3,7 +3,7 @@
 * [Description](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#description)
 * [Instructor Contact Information](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#instructor-contact-information)
 * [Course Outline and Materials](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#course-outline-and-materials)
-* [Schedule, Location, Calendar, and Student Hours](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#schedule-location-calendar-and-student-hours)
+* [Schedule, Location, Calendar, and Offline Discussion](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#schedule-location-calendar-and-offline-discussion)
 * [Website and Communication](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#website-and-communication)
 * [Course Activities](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#course-activities)
 * [Grading Information](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#grading-information)
@@ -72,7 +72,7 @@ _(subject to changes)_
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
 
-## Schedule, Location, Calendar, and Student Hours
+## Schedule, Location, Calendar, and Offline Discussion
 Nov 6 – Dec 4, 2019
 
 S/L | Info
@@ -96,7 +96,7 @@ Day 08 | Dec 02 (M) |  |
 Day 09 | Dec 04 (W) |  | 
 Day 10 | Dec 09 (M) | Final Exam | 
 
-### Student Hours
+### Hours for Offline Discussion
 TBD
 
 I will block these times from my schedule and be present in my office (2507H Engineering).
