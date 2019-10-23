@@ -184,17 +184,21 @@ Nevertheless, please come and talk to me. You are welcome in this class and I wi
 
 
 ## Frequently Asked Questions
-**1. Why did you design this course? Will this course teach me concepts in statistics?**
-There are already plenty of existing courses at MSU that teach introductory, intermediate, and advanced statistics. (You can go to [Course Descriptions](https://reg.msu.edu/Courses/Search.aspx) and search using "statistics" under Keyword Search to get the full list.) Teaching statistics will be left to these courses and it will be assumed that you have taken one of these courses (or something equivalent) to learn traditional (≥introductory) statistics. StatGaps is a non-traditional course that is aimed at discussing what happens – issues that crop-up and nuances that become germane – when what is taught in the traditional courses is applied to actual research and real-world problems.
+**1. Why did you design this course? Will this course teach me concepts in statistics?**  
+There are already plenty of existing courses at MSU that teach introductory, intermediate, and advanced statistics. (You can go to [Course Descriptions](https://reg.msu.edu/Courses/Search.aspx) and search using "statistics" under Keyword Search to get the full list.) You can also find a few recommended free online resources [here](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Preparatory-materials.md). Teaching statistics will be left to these courses and it will be assumed that you have taken one of these courses (or something equivalent) to learn (≥ introductory) statistics in a traditional manner (which is important without a doubt!).
+
+*StatGaps* is a non-traditional course that is aimed at discussing what happens – issues that crop-up and nuances that become germane – when the ideas from the traditional courses are applied to actual research and real-world problems.
 
 **2. Why is coding (in language like R or Python) a pre-requisite for this course?**  
-The goal of this course is to create opportunities for developing a strong intuition behind many concepts in statistical data analysis, which will take precendence to, motivate, and solidify the related formulae and terminologies. Now, short of starting with a question and mathematically *deriving* the concepts/formulae, whenever possible, this StatGaps course takes the approach of using programming to quickly implement statistical ideas on real/simulated data and observe the results to build an intuition behind various concepts.
+The goal of this course is to create opportunities for developing a strong intuition behind many concepts in statistical data analysis, which will take precendence to, motivate, and solidify the related formulae and terminologies. Now, short of starting with a question and mathematically *deriving* the concepts/formulae, whenever possible, this *StatGaps* course takes the approach of using programming to quickly implement statistical ideas on real/simulated data and observe the results to build an intuition behind various concepts.
 
 **3. What are some specific coding skills I would need for this class?**  
 In this class, you will be writing code to read-in datasets, wrangle them into a convenient format, calling some simple statistical functions from standard packages/libraries, implementing some simulations/tests (which will involve random number generation and writing for/while loops), and making plots (scatterplot, histograms, boxplots, etc.).
 This means knowing the following depending on your language of choice:  
 - **R**: tidyverse (readr, dplyr, ggplot2), calculating summary statistics (e.g. mean/median, std-deviation/variance, correlation), generating random numbers (e.g. `runif`, `rnorm`), and writing `for` & `while` loops.
 - **Python**: pandas (data wrangling), seaborne (data visualization), numpy for calculating summary statistics (e.g. mean/median, std-deviation/variance, correlation) and generating random numbers, and writing `for` & `while` loops.
+
+You can find a few recommended free online resources for learning these skills [here](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Preparatory-materials.md).
 
 **4. Can this course be taken remotely?**  
 Yes! This class will be streamed live via a Zoom link. Details will be available via the class Slack account.
