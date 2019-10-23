@@ -8,7 +8,7 @@
 * [Course Activities](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#course-activities)
 * [Grading Information](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#grading-information)
 * [Attendance, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#attendance-conduct-honesty-accomodations)
-
+* [Frequently Asked Questions](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#frequently-asked-questions)
 
 ## Description
 This is an advanced short (1-credit) course designed to:
@@ -18,7 +18,7 @@ This is an advanced short (1-credit) course designed to:
 Classes will involve lectures, discussions, hands-on exercises, and homework about concepts critical to the day-to-day use and consumption of quantitative/computational techniques. Please use this [course flyer](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/CMSE890-310_Nov19_Flyer.pdf) to help spread the word.
 
 **Note**  
-Open to both undergraduate and graduate students for credit. Counts toward the CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu if you need an override.
+Open to both undergraduate and graduate students for credit. Counts toward the CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu if you need an override.  
 Postdocs, staff scientists/specialists, and faculty members are welcome to sit-in. (Please fill-out the [course survey](https://docs.google.com/forms/d/e/1FAIpQLSdXveM43WpEoKSiCpc2DSSZd6pCE9PZg2KSwm00IngR9XMRPA/viewform?usp=sf_link).)
 
 ### Prerequisites
@@ -28,13 +28,13 @@ To get the most out of this course, it would be ideal if you have:
 
 Check out some [recommended online preparatory materials](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/Preparatory-materials.md) that you can use to refresh all these concetps.
 
-#### Course suggestions
+#### Course Suggestions
 * For introductory courses in statistics, please checkout a number of good ones offered in STT. Statistics at the level of STT 231 is strongly recommended.
 * If you would like introdocutory courses in programming (in R or Python) and in how to do statistical analysis in R or Python, please ckeckout CMSE 201 or CMSE 301-304.
 * Some background in introductory biology would also be nice, for instance LB 144 and 145 OR BS 161 and 162 OR BS 181H and 182H, or equivalent. 
 
 ### Courve Survey
-Please fill-out the [course survey](https://docs.google.com/forms/d/e/1FAIpQLSdXveM43WpEoKSiCpc2DSSZd6pCE9PZg2KSwm00IngR9XMRPA/viewform?usp=sf_link) to help me know better understand your background, motivation, etc., and provide advice on whether this course is right for you.
+Please fill-out the [course survey](https://docs.google.com/forms/d/e/1FAIpQLSdXveM43WpEoKSiCpc2DSSZd6pCE9PZg2KSwm00IngR9XMRPA/viewform?usp=sf_link) to help me better understand your background, motivation, etc., and provide advice on whether this course is right for you.
 
 
 ## Instructor
@@ -83,18 +83,18 @@ Location | A158 Plant & Soil Science Bldg
 ### Calendar
 _(Topics & dates are still under flux)_  
 
-Date | Topic | Content | Additional Learning Materials
-:------------------------: | :------------------------------- | :----------------------------- | :------------------------
-Nov 06 (W) |  |  | 
-Nov 11 (M) |  |  | 
-Nov 13 (W) |  |  | 
-Nov 18 (M) |  |  | 
-Nov 20 (W) |  |  | 
-Nov 25 (M) |  |  | 
-Nov 27 (W) |  |  | 
-Dec 02 (M) |  |  | 
-Dec 04 (W) |  |  | 
-Dec 09 (M) | Final Exam |  | 
+Day | Date | Topic | Learning Materials
+:-------: | :------------------------: | :------------------------------- | :------------------------
+Day 01 | Nov 06 (W) |  | 
+Day 02 | Nov 11 (M) |  | 
+Day 03 | Nov 13 (W) |  | 
+Day 04 | Nov 18 (M) |  | 
+Day 05 | Nov 20 (W) |  | 
+Day 06 | Nov 25 (M) |  | 
+Day 07 | Nov 27 (W) |  | 
+Day 08 | Dec 02 (M) |  | 
+Day 09 | Dec 04 (W) |  | 
+Day 10 | Dec 09 (M) | Final Exam | 
 
 ### Student Hours
 TBD
@@ -110,7 +110,7 @@ Couple of things to note:
 
 ## Website and Communication
 
-### Course website
+### Course Website
 This [GitHub repo](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps) will serve as the course website.  
 
 ### Communication
@@ -125,11 +125,9 @@ Although the bulk of the communication will take place via Slack, at times (rare
 ## Course Activities
 
 ### Assignments
-For each topic, you will be assigned reading materials after the topic's first class that you are required to read. The links to these materials will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#calendar) along with instructions on a specific analysis in the paper you should pay special attention to.
+For each topic, you will be assigned reading materials and, occassionaly, a coding assignment. The links to these materials will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#calendar) and instructions will be provided on Slack.
 
-For each topic, you will be assigned a reading material after the topic's 1st class (Wed) that you are required to read. Along with this, you might be given a data analysis assignment that you have to complete. Links to these materials will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2019-fall_statgaps/README.md#calendar).
-
-Each completed assignment is due _before_ the topic's second class (following Wed).
+Each completed assignment is due _before_ the next class.
 
 ### Class Participation
 In general:
@@ -150,7 +148,7 @@ Activity | Percentage
 :----- | ---------:
 Assignments | ~50%
 Class participation | ~25%
-Final Exam/Project | ~25%
+Final Exam | ~25%
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
@@ -171,7 +169,7 @@ Respectful and responsible behavior is expected at all times, which includes not
 
 I am unequivocally dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We will not tolerate harassment of colleagues in any form. Behaviors that could be considered discriminatory or harassing, or unwanted sexual attention, will not be tolerated and will be immediately reported to the appropriate MSU office (which may include the MSU Police Department).
 
-### Academic honesty
+### Academic Honesty
 Intellectual integrity is the foundation of the scientific enterprise. In all instances, you must do your own work and give proper credit to all sources that you use in your papers and oral presentations – any instance of submitting another person's work, ideas, or wording as your own counts as plagiarism. This includes failing to cite any direct quotations in your essays, research paper, class debate, or written presentation. The MSU College of Natural Science adheres to the policies of academic honesty as specified in the General Student Regulations 1.0, Protection of Scholarship and Grades, and in the all-University statement on Integrity of Scholarship and Grades, which are included in Spartan Life: Student Handbook and Resource Guide. Students who plagiarize will receive a 0.0 in the course. In addition, University policy requires that any cheating offense, regardless of the magnitude of the infraction or punishment decided upon by the professor, be reported immediately to the dean of the student's college.
 
 It is important to note that **plagiarism in the context of this course includes, but is not limited to**, directly copying another student's solutions to in-class or homework problems; copying materials from online sources, textbooks, or other reference materials without citing those references in your source code or documentation, or having somebody else do your pre-class work, in-class work, or homework on your behalf. Any work that is done in collaboration with other students should state this explicitly, and have their names as well as yours listed clearly.
@@ -179,6 +177,33 @@ It is important to note that **plagiarism in the context of this course includes
 More broadly, we ask that students adhere to the Spartan Code of Honor academic pledge, as written by the Associated Students of Michigan State University (ASMSU): "As a Spartan, I will strive to uphold values of the highest ethical standard. I will practice honesty in my work, foster honesty in my peers, and take pride in knowing that honor is worth more than grades. I will carry these values beyond my time as a student at Michigan State University, continuing the endeavor to build personal integrity in all that I do."
 
 ### Accomodations
-If you have a university-documented learning difficulty or require other accommodations, please provide me with your VISA as soon as possible and speak with me about how I can assist you in your learning.  If you do not have a VISA but have been documented with a learning difficulty or other problems for which you may still require accommodation, please contact MSU’s Resource Center for People with Disabilities (355-9642) in order to acquire current documentation.
+If you have a university-documented learning difficulty or require other accommodations, please provide me with your VISA as soon as possible and speak with me about how I can assist you in your learning. If you do not have a VISA but have been documented with a learning difficulty or other problems for which you may still require accommodation, please contact MSU’s Resource Center for People with Disabilities (355-9642) in order to acquire current documentation.  
+Nevertheless, please come and talk to me. You are welcome in this class and I will do everything I can to accommodate your specific needs.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
+
+
+## Frequently Asked Questions
+**1. Why did you design this course? Will this course teach me concepts in statistics?**
+There are already plenty of existing courses at MSU that teach introductory, intermediate, and advanced statistics. (You can go to [Course Descriptions](https://reg.msu.edu/Courses/Search.aspx) and search using "statistics" under Keyword Search to get the full list.) Teaching statistics will be left to these courses and it will be assumed that you have taken one of these courses (or something equivalent) to learn traditional (≥introductory) statistics. StatGaps is a non-traditional course that is aimed at discussing what happens – issues that crop-up and nuances that become germane – when what is taught in the traditional courses is applied to actual research and real-world problems.
+
+**2. Why is coding (in language like R or Python) a pre-requisite for this course?**  
+The goal of this course is to create opportunities for developing a strong intuition behind many concepts in statistical data analysis, which will take precendence to, motivate, and solidify the related formulae and terminologies. Now, short of starting with a question and mathematically *deriving* the concepts/formulae, whenever possible, this StatGaps course takes the approach of using programming to quickly implement statistical ideas on real/simulated data and observe the results to build an intuition behind various concepts.
+
+**3. What are some specific coding skills I would need for this class?**  
+In this class, you will be writing code to read-in datasets, wrangle them into a convenient format, calling some simple statistical functions from standard packages/libraries, implementing some simulations/tests (which will involve random number generation and writing for/while loops), and making plots (scatterplot, histograms, boxplots, etc.).
+This means knowing the following depending on your language of choice:  
+- **R**: tidyverse (readr, dplyr, ggplot2), calculating summary statistics (e.g. mean/median, std-deviation/variance, correlation), generating random numbers (e.g. `runif`, `rnorm`), and writing `for` & `while` loops.
+- **Python**: pandas (data wrangling), seaborne (data visualization), numpy for calculating summary statistics (e.g. mean/median, std-deviation/variance, correlation) and generating random numbers, and writing `for` & `while` loops.
+
+**4. Can this course be taken remotely?**  
+Yes! This class will be streamed live via a Zoom link. Details will be available via the class Slack account.
+
+**5. I'm a postdoc and I would like to just attend the class to learn for myself - no need for credits or anything. Is that possible?**  
+Yes! To provide some context: this short course is part of an extensive [Bioinformatics education program](https://cmse.msu.edu/academics/bioinformatics-program/) we run out of [CMSE](https://cmse.msu.edu). Postdocs (or any MSU-affiliates) can audit for a small fee. But, since I’m still experimenting with this StatGaps course, especially in terms of taking it to a large scale, I’m open to having postdocs, research/staff scientists, and faculty-members audit this course for free. The only things I ask in return is your active engagement with the class and its materials along with providing constructive feedback.  
+
+**6. Are there going to be exams?**  
+Yes! But you can rest assured that the point of the exam will not be to *test* you. The exam will give you an opportunity to revisit many of the concepts discussed throughout the class and, in that process, do something practically useful to you in your future efforts with statistical data anlayses. We will discuss and nail the details when we meet in class.
+
+**6. Will this short course be converted into a regular semester-long course in the future?**  
+May be. There is a lot of benefit for keeping an essential course like this short and crisp. If you are interested in chatting about this and/or helping with developing this course further, do get in touch!
