@@ -94,7 +94,7 @@ Day 06 | Nov 25 (M) |  |
 Day 07 | Nov 27 (W) |  | 
 Day 08 | Dec 02 (M) |  | 
 Day 09 | Dec 04 (W) |  | 
-Day 10 | Dec 09 (M) | Final Exam | 
+Day 10 | Dec 09 (M) | Final Exam (**Diff. room: A152 PSS**) | 
 
 ### Hours for Offline Discussion
 TBD
