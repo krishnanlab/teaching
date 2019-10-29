@@ -159,7 +159,7 @@ Final Exam | ~25%
 This class is heavily based on material presented and worked on in class, and it is critical that you attend and participate fully every week! Therefore, class attendance is absolutely required. Arriving late, leaving early, or not showing-up for a whole class without prior arrangement with the instructor counts as an unexcused absence. Note that if you have a legitimate reason to miss class (such as job, graduate school, or medical school interviews), you must arrange this ahead of time to be excused from class. More than two unexcused absences will impact your grade at the discretion of the course instructor.
 
 ### Code of Conduct
-All conduct should serve the singular goal of sustain a friendly, supportive, and fun environment where we can do our best work and have a great time doing it.
+All conduct should serve the singular goal of sustaining a inclusive, supportive, and friendly environment where we can do our best work and have a great time doing it.
 * Do work that you’re proud of, from the smallest piece of writing/code to the final exams.
 * Be supportive of your classmates; respect each others' strengths, weaknesses, differences, and beliefs.
 * Communicate openly & respectfully with everyone in the class.
@@ -184,16 +184,16 @@ Nevertheless, please come and talk to me. You are welcome in this class and I wi
 
 
 ## Frequently Asked Questions
-**1. Why did you design this course? Will this course teach me concepts in statistics?**  
+**1. Why was this course developed? Will this course teach me concepts in statistics?**  
 There are already plenty of existing courses at MSU that teach introductory, intermediate, and advanced statistics. (You can go to [Course Descriptions](https://reg.msu.edu/Courses/Search.aspx) and search using "statistics" under Keyword Search to get the full list.) You can also find a few recommended free online resources [here](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Preparatory-materials.md). Teaching statistics will be left to these courses and it will be assumed that you have taken one of these courses (or something equivalent) to learn (≥ introductory) statistics in a traditional manner (which is important without a doubt!).
 
-*StatGaps* is a non-traditional course that is aimed at discussing what happens – issues that crop-up and nuances that become germane – when the ideas from the traditional courses are applied to actual research and real-world problems.
+*StatGaps* is a non-traditional course that is aimed at discussing what happens – issues that crop-up and nuances that become germane – when the ideas from the traditional courses are applied to actual research, messy data, and real-world problems.
 
-**2. Why is coding (in language like R or Python) a pre-requisite for this course?**  
-The goal of this course is to create opportunities for developing a strong intuition behind many concepts in statistical data analysis, which will take precendence to, motivate, and solidify the related formulae and terminologies. Now, short of starting with a question and mathematically *deriving* the concepts/formulae, whenever possible, this *StatGaps* course takes the approach of using programming to quickly implement statistical ideas on real/simulated data and observe the results to build an intuition behind various concepts.
+**2. Why is coding (in languages like R or Python) a pre-requisite for this course?**  
+The goal of this course is to create opportunities for developing a strong intuition behind many concepts in statistical data analysis, which will take precendence to, motivate, and solidify the related formulae and terminologies. Now, short of starting with a question and mathematically *deriving* the concepts/formulae, whenever possible, this *StatGaps* course takes the approach of using programming to implement statistical ideas on real/simulated data and observe the results to build an intuition behind various concepts.
 
 **3. What are some specific coding skills I would need for this class?**  
-In this class, you will be writing code to read-in datasets, wrangle them into a convenient format, calling some simple statistical functions from standard packages/libraries, implementing some simulations/tests (which will involve random number generation and writing for/while loops), and making plots (scatterplot, histograms, boxplots, etc.).
+In this class, you will be writing code to read-in datasets, wrangle them into a convenient format, calling some common statistical functions from standard packages/libraries, implementing some simulations/tests (which will involve random number generation and writing for/while loops), and making plots (scatterplot, histograms, boxplots, etc.).
 This means knowing the following depending on your language of choice:  
 - **R**: tidyverse (readr, dplyr, ggplot2), calculating summary statistics (e.g. mean/median, std-deviation/variance, correlation), generating random numbers (e.g. `runif`, `rnorm`), and writing `for` & `while` loops.
 - **Python**: pandas (data wrangling), seaborne (data visualization), numpy for calculating summary statistics (e.g. mean/median, std-deviation/variance, correlation) and generating random numbers, and writing `for` & `while` loops.
@@ -204,7 +204,7 @@ You can find a few recommended free online resources for learning these skills [
 Yes! This class will be streamed live via a Zoom link. Details will be available via the class Slack account.
 
 **5. I'm a postdoc and I would like to just attend the class to learn for myself - no need for credits or anything. Is that possible?**  
-Yes! To provide some context: this short course is part of an extensive [Bioinformatics education program](https://cmse.msu.edu/academics/bioinformatics-program/) we run out of [CMSE](https://cmse.msu.edu). Postdocs (or any MSU-affiliates) can audit for a small fee. But, since I’m still experimenting with this StatGaps course, especially in terms of taking it to a large scale, I’m open to having postdocs, research/staff scientists, and faculty-members audit this course for free. The only things I ask in return is your active engagement with the class and its materials along with providing constructive feedback.  
+Yes! To provide some context: this short course is part of an extensive [Bioinformatics education program](https://cmse.msu.edu/academics/bioinformatics-program/) we run out of [CMSE](https://cmse.msu.edu). Postdocs (or any MSU-affiliates who are not registered students) can audit any of these Bioinformatics modules for a small fee. With this StatGaps course, however, since I’m still experimenting with it, especially in terms of taking it to a large scale, I’m open to having postdocs, research/staff scientists, and faculty-members *audit this course for free*. The only things I ask in return is your active engagement with the class and its materials along with providing constructive feedback.  
 
 **6. Are there going to be exams?**  
 Yes! But you can rest assured that the point of the exam will not be to *test* you. The exam will give you an opportunity to revisit many of the concepts discussed throughout the class and, in that process, do something practically useful to you in your future efforts with statistical data anlayses. We will discuss and nail the details when we meet in class.
