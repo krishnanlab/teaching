@@ -30,7 +30,7 @@ Check out some [recommended online preparatory materials](https://github.com/kri
 
 #### Course Suggestions
 * For introductory courses in statistics, please checkout a number of good ones offered in STT. Statistics at the level of STT 231 is strongly recommended.
-* If you would like introdocutory courses in programming (in R or Python) and in how to do statistical analysis in R or Python, please ckeckout CMSE 201 or CMSE 301-304.
+* If you would like introdocutory courses in programming (in R or Python) and in how to do statistical analysis in R or Python, please ckeckout CMSE 201-202 or CMSE 809 301-304.
 * Some background in introductory biology would also be nice, for instance LB 144 and 145 OR BS 161 and 162 OR BS 181H and 182H, or equivalent. 
 
 ### Courve Survey
