@@ -78,7 +78,8 @@ Nov 6 – Dec 4, 2019
 S/L | Info
 :------------ | :------------
 Schedule | Mon and Wed</br>3:00-4:50 pm
-Location | A158 Plant & Soil Science Bldg
+East Lansing Location | A158 Plant & Soil Science Bldg
+Grand Rapids Location | 5005 Grand Rapids Research Center<br>*Except Nov 20 when it in Room 2005*
 
 ### Calendar
 _(Topics & dates are still under flux)_  
