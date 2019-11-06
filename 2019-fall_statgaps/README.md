@@ -147,8 +147,8 @@ A major goal of this course is to prepare you for performing statisitcal data an
 ## Grading Information
 Activity | Percentage
 :----- | ---------:
-Assignments | ~50%
-Class participation | ~25%
+Assignments | ~25%
+Class participation | ~50%
 Final Exam | ~25%
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
