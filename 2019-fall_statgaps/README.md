@@ -85,16 +85,16 @@ Grand Rapids Location | 5005 Grand Rapids Research Center<br>*Except Nov 20 when
 _(Topics & dates are still under flux)_  
 
 Day | Date | Topic | Learning Materials
-:-------: | :------------------------: | :------------------------------- | :------------------------
-Day 01 | Nov 06 (W) |  | 
-Day 02 | Nov 11 (M) |  | 
-Day 03 | Nov 13 (W) |  | 
-Day 04 | Nov 18 (M) |  | 
-Day 05 | Nov 20 (W) |  | 
-Day 06 | Nov 25 (M) |  | 
-Day 07 | Nov 27 (W) |  | 
-Day 08 | Dec 02 (M) |  | 
-Day 09 | Dec 04 (W) |  | 
+:-------: | :-----------: | :------------------------------- | :------------------------
+Day 01 | Nov 06 (W) | Welcome \| Getting started with statistical data analysis | 
+Day 02 | Nov 11 (M) | Estimation of error & uncertainty \| Hypothesis testing | 
+Day 03 | Nov 13 (W) | P-value \| P-hacking \| Publication Bias \| Multiple hypothesis testing | 
+Day 04 | Nov 18 (M) | Statistical power & underpowered statistics | 
+Day 05 | Nov 20 (W) | Pseudoreplication \| Confounding variables & batch effects \| Circular analysis \| Regression to the mean & stopping rules | 
+Day 06 | Nov 25 (M) | Base rates \| Describing different distributions \| Continuity errors & model abuse \| Biases | 
+Day 07 | Nov 27 (W) | Descriptive statistics \| Measuring associations \| Visual inference | 
+Day 08 | Dec 02 (M) | Visualization challenges | 
+Day 09 | Dec 04 (W) | Researcher degrees of freedom \| Data sharing/hiding \| Holistic analysis \| Pre-registration \| Reproducible research | 
 Day 10 | Dec 09 (M) | Final Exam (**Diff. room: A152 PSS**) | 
 
 ### Hours for Offline Discussion
