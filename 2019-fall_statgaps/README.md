@@ -84,9 +84,9 @@ Grand Rapids Location | 5005 Grand Rapids Research Center<br>*Except Nov 20 when
 ### Calendar
 Day | Date | Topic | Learning Materials
 :-------: | :-----------: | :------------------------------- | :------------------------
-Day 01 | Nov 06 (W) | Welcome \| Getting started with statistical data analysis | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Day-01_Lecture.pdf)</br>[Pre-class assignment](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Assignments/Day-02-03_Pre-class-Assignment.pdf) (due before next Day 02)
+Day 01 | Nov 06 (W) | Welcome \| Getting started with statistical data analysis | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Day-01_Lecture.pdf)</br>[Pre-class assignment](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Assignments/Day-02-03_Pre-class-Assignment.pdf) (due before Day 02)
 Day 02 | Nov 11 (M) | Estimation of error & uncertainty \| Hypothesis testing | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Day-02_Lecture.pdf)
-Day 03 | Nov 13 (W) | P-value \| P-hacking \| Publication Bias \| Multiple hypothesis testing | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Day-03_Lecture.pdf)
+Day 03 | Nov 13 (W) | P-value \| P-hacking \| Publication Bias \| Multiple hypothesis testing | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Day-03_Lecture.pdf)</br>[Pre-class assignment](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Assignments/Day-04_Pre-class-Assignment.pdf) (due before Day 04)
 Day 04 | Nov 18 (M) | Statistical power & underpowered statistics | 
 Day 05 | Nov 20 (W) | Pseudoreplication \| Confounding variables & batch effects \| Circular analysis \| Regression to the mean & stopping rules | 
 Day 06 | Nov 25 (M) | Base rates \| Describing different distributions \| Continuity errors & model abuse \| Biases | 
