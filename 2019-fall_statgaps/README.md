@@ -87,16 +87,17 @@ Day | Date | Topic | Learning Materials
 Day 01 | Nov 06 (W) | Welcome \| Getting started with statistical data analysis | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Day-01_Lecture.pdf)</br>[Pre-class assignment](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Assignments/Day-02-03_Pre-class-Assignment.pdf) (due before Day 02)
 Day 02 | Nov 11 (M) | Estimation of error & uncertainty \| Hypothesis testing | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Day-02_Lecture.pdf)
 Day 03 | Nov 13 (W) | P-value \| P-hacking \| Publication Bias \| Multiple hypothesis testing | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Day-03_Lecture.pdf)</br>[Pre-class assignment](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Assignments/Day-04_Pre-class-Assignment.pdf) (due before Day 04)
-Day 04 | Nov 18 (M) | Statistical power & underpowered statistics | 
+Day 04 | Nov 18 (M) | Statistical power & underpowered statistics | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Day-04_Lecture.pdf)
 Day 05 | Nov 20 (W) | Pseudoreplication \| Confounding variables & batch effects \| Circular analysis \| Regression to the mean & stopping rules | 
 Day 06 | Nov 25 (M) | Base rates \| Describing different distributions \| Continuity errors & model abuse \| Biases | 
 Day 07 | Nov 27 (W) | Descriptive statistics \| Measuring associations \| Visual inference | 
 Day 08 | Dec 02 (M) | Visualization challenges | 
 Day 09 | Dec 04 (W) | Researcher degrees of freedom \| Data sharing/hiding \| Holistic analysis \| Pre-registration \| Reproducible research | 
-Day 10 | Dec 09 (M) | Final Exam (**Diff. room: A152 PSS**) | 
+Day 10 | Dec 05 (Th) (**Note different day**) | Final Exam Slot 1 (**Note different location**):</br>12:30 – 2:30 pm at [Akers Hall](https://goo.gl/maps/pWtf1rZxyGZMqRpq9) - Classroom 135 | 
+Day 11 | Dec 06 (F) (**Note different day**) | Final Exam Slot 2 (**Note different location**):</br>12:30 – 2:30 pm at [Akers Hall](https://goo.gl/maps/pWtf1rZxyGZMqRpq9) - Classroom 135 | 
 
 ### Hours for Offline Discussion
-TBD
+Tue & Thr 9–9:30am
 
 I will block these times from my schedule and be present in my office (2507H Engineering).
 
@@ -138,7 +139,7 @@ In general:
 - Correct me when I am wrong.
 
 ### Final Exam
-A major goal of this course is to prepare you for performing statisitcal data analysis with care, and for presenting your ideas and findings effectively. The final exam – scheduled on Dec 09 3–5pm – will serve as a practical way to do exactly that. We discuss and nail the details when we meet in class.
+A major goal of this course is to prepare you for performing statisitcal data analysis with care, and for presenting your ideas and findings effectively. The final exam will serve as a practical way to do exactly that. We discuss and nail the details when we meet in class. It is scheduled twice to accommodate everyone's schedule: Dec 05 and Dec 06 12:30 – 2:30 pm at [Akers Hall](https://goo.gl/maps/pWtf1rZxyGZMqRpq9) - Classroom 135.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/README.md#cmse-890-310-gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
