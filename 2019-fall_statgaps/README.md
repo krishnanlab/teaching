@@ -93,8 +93,8 @@ Day 06 | Nov 25 (M) | Base rates \| Describing different distributions \| Contin
 Day 07 | Nov 27 (W) | Descriptive statistics \| Measuring associations \| Visual inference | 
 Day 08 | Dec 02 (M) | Visualization challenges | 
 Day 09 | Dec 04 (W) | Researcher degrees of freedom \| Data sharing/hiding \| Holistic analysis \| Pre-registration \| Reproducible research | 
-Day 10 | Dec 05 (Th) (**Note different day**) | Final Exam Slot 1 (**Note different location**):</br>12:30 – 2:30 pm at [Akers Hall](https://goo.gl/maps/pWtf1rZxyGZMqRpq9) - Classroom 135 | 
-Day 11 | Dec 06 (F) (**Note different day**) | Final Exam Slot 2 (**Note different location**):</br>12:30 – 2:30 pm at [Akers Hall](https://goo.gl/maps/pWtf1rZxyGZMqRpq9) - Classroom 135 | 
+Day 10 | Dec 05 (Th) (**Note diff. day**) | Final Exam Slot 1 (**Note different location**):</br>12:30 – 2:30 pm at [Akers Hall](https://goo.gl/maps/pWtf1rZxyGZMqRpq9) - Classroom 135 | 
+Day 11 | Dec 06 (F) (**Note diff. day**) | Final Exam Slot 2 (**Note different location**):</br>12:30 – 2:30 pm at [Akers Hall](https://goo.gl/maps/pWtf1rZxyGZMqRpq9) - Classroom 135 | 
 
 ### Hours for Offline Discussion
 Tue & Thr 9–9:30am
