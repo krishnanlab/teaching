@@ -88,7 +88,7 @@ Day 01 | Nov 06 (W) | Welcome \| Getting started with statistical data analysis 
 Day 02 | Nov 11 (M) | Estimation of error & uncertainty \| Hypothesis testing | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Day-02_Lecture.pdf)
 Day 03 | Nov 13 (W) | P-value \| P-hacking \| Publication Bias \| Multiple hypothesis testing | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Day-03_Lecture.pdf)</br>[Pre-class assignment](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Assignments/Day-04_Pre-class-Assignment.pdf) (due before Day 04)
 Day 04 | Nov 18 (M) | Statistical power & underpowered statistics | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Day-04_Lecture.pdf)
-Day 05 | Nov 20 (W) | Pseudoreplication \| Confounding variables & batch effects \| Circular analysis \| Regression to the mean & stopping rules | 
+Day 05 | Nov 20 (W) | Pseudoreplication \| Confounding variables & batch effects \| Circular analysis \| Regression to the mean & stopping rules | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Lectures/Day-05_Lecture.pdf)</br>[Pre-class assignment](https://github.com/krishnanlab/teaching/blob/master/2019-fall_statgaps/Assignments/Day-06_Pre-class-Assignment.pdf) (due before Day 06)
 Day 06 | Nov 25 (M) | Base rates \| Describing different distributions \| Continuity errors & model abuse \| Biases | 
 Day 07 | Nov 27 (W) | Descriptive statistics \| Measuring associations \| Visual inference | 
 Day 08 | Dec 02 (M) | Visualization challenges | 
