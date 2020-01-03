@@ -16,6 +16,7 @@
 | Erich Grotewold |  |
 | Alex Dickson |  |
 | Yann Dufor |  |
+| Patrick Edgar |  |
 | Michael Feig |  |
 | Erik Goodman |  |
 | Wen Huang |  |
@@ -30,6 +31,8 @@
 | Mark Reimers |  |
 | Ashley Shade |  |
 | Shinhan Shiu |  |
+| Juan Steibel |  |
+| Robert Tempelman |  |
 | Ana Vasquez |  |
 | Jianrong Wang |  |
 | Guo-wei Wei |  |
