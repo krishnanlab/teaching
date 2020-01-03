@@ -1,4 +1,4 @@
-# Investigators at MSU Leading Bioinformatics & Computational Biology Projects
+# MSU Investigators working on Bioinformatics & Computational Biology projects
 
 | Investigator | Keywords |
 |:-------------|:---------|
