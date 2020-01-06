@@ -60,7 +60,7 @@ Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com
 * Regularized linear regression; Statistical inference, Multiple testing
 * Gibbs sampling; Expectation-Maximization
 * Two-sample tests; One-sided Fisher's exact test; Intro to unsupervised and supervised learning
-* Missing value imputaion; Dimensionality reduction; Trajectory inference
+* Missing value imputation; Dimensionality reduction; Trajectory inference
 * Molecular simulation; Maximum entropy modeling
 * Dynamical simulation, State Space, Bifurcation; Discrete/Boolean modeling
 * Wiring diagrams; Constraint-based modeling; Artificial life and other whole-cell models
@@ -271,8 +271,7 @@ There are several [project deadlines](https://github.com/krishnanlab/teaching/tr
 Activity | Percentage
 :----- | ---------:
 Assignments | ~35%
-Class participation | ~15%
-Scribing | ~10%
+Class participation | ~25%
 Project | ~40%
 
 ### Grading Scale
