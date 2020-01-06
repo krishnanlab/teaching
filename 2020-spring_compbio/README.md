@@ -68,7 +68,7 @@ Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com
 
 ### Primers
 Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts:
-* Organizing a CompBio project
+* Organizing and managing a CompBio project
 * Kickstarting and getting help in a CompBio project
 * Presenting data and results in a CompBio project
 
@@ -85,11 +85,11 @@ Schedule | Mon, Wed, and Fri</br>11:00 am - 12:10 pm
 Location | 351 Natural Sciences Bldg
 
 ### Calendar
-This calendar contains the class schedule and the links to the lecture slides and reading materials. Download the detailed schedule as a [PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/CMSE-491-890_Spring-2020_Schedule.pdf).
+This calendar contains the class schedule and the links to the lecture slides and reading materials. Download the detailed schedule as a [PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/CMSE410-890_Spring-2020_Schedule.pdf).
 
 | Day | Date | Module | Topic | Learning Materials |
 |:---------|-------------:|:-------------------------|:------------------------|:------------------------|
-| Day 01 | Mon, Jan 06 | Introduction, Overview, and Refreshers | Course overview + Getting started in computational biology |  |
+| Day 01 | Mon, Jan 06 | Introduction, Overview, and Refreshers | Course overview + Getting started in computational biology | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day01_lecture.pdf) |
 | Day 02 | Wed, Jan 08 | Introduction, Overview, and Refreshers | Refresher 1: Concepts in statistics & probability |  |
 | Day 03 | Fri, Jan 10 | Introduction, Overview, and Refreshers | Refresher 2: Concepts in computational science & applied math |  |
 | Day 04 | Mon, Jan 13 | Genome assembly & annotation | Assembly with de Bruijin graphs |  |
@@ -147,7 +147,7 @@ This calendar contains the class schedule and the links to the lecture slides an
 | Project pre-proposal | Fri, Feb 07 |
 | Project proposal | Wed, Feb 19 |
 | Proposal reviews | Fri, Feb 28 |
-| Mid-term project presentations | Fri, Mar 13 |
+| Mid-term project presentations | Mon, Mar 16; Wed, Mar 18; Fri, Mar 20 |
 | Mid-course project report | Fri, Mar 27 |
 | Final project report | Fri, Apr 26 |
 | Final project poster presentations | Thu, Apr 30 |
@@ -267,10 +267,9 @@ Activity | Percentage
 :----- | ---------:
 Assignments | ~35%
 Class participation | ~15%
-Scribing | ~10%
-Project | ~40%
+Project | ~50%
 
-### Grading Scale
+### Grading scale
 Point | Percentage
 ----: | ---------:
 4.0 | ≥ 90%
