@@ -66,11 +66,6 @@ Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com
 * Wiring diagrams; Constraint-based modeling; Artificial life and other whole-cell models
 * Measuring associations; Network inference; Graph theory, Label propagation
 
-Introduction, Overview, and Refreshers
-    Course overview + Getting started in computational biology
-	Refresher 1: Concepts in statistics & probability
-	Refresher 2: Concepts in computational science & applied math
-
 ### Primers
 Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts:
 * Organizing a CompBio project
@@ -100,7 +95,7 @@ This calendar contains the class schedule and the links to the lecture slides an
 | Day 04 | Mon, Jan 13 | Genome assembly & annotation | Assembly with de Bruijin graphs |  |
 | Day 05 | Wed, Jan 15 | Genome assembly & annotation | Gene prediction with Hidden Markov models |  |
 | Day 06 | Fri, Jan 17 | Genome assembly & annotation | Paper discussion; HMM continued |  |
-|  | Mon, Jan 20 |  | No Class; Need an extra hour (or two 30-minute slots) to compensate |  |
+|  | Mon, Jan 20 | No class | Need an extra hour (or two 30-minute slots) to compensate |  |
 | Day 07 | Wed, Jan 22 | Sequence alignment & pattern finding | Dynamic programming; Substitution matrices |  |
 | Day 08 | Fri, Jan 24 | Sequence alignment & pattern finding | Paper discussion; Basic Local Alignment Search Tool |  |
 | Day 09 | Mon, Jan 27 | Comparative genomics; Phylogenomics | Whole genome alignment; Suffix trees |  |
@@ -118,16 +113,16 @@ This calendar contains the class schedule and the links to the lecture slides an
 | Day 21 | Mon, Feb 24 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Organizing and managing a CompBio project |  |
 | Day 22 | Wed, Feb 26 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Kickstarting and getting help in a CompBio project |  |
 | Day 23 | Fri, Feb 28 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Kickstarting and getting help in a CompBio project |  |
-|  | Mon, Mar 02 |  | Spring break |  |
-|  | Wed, Mar 04 |  | Spring break |  |
-|  | Fri, Mar 06 |  | Spring break |  |
+|  | Mon, Mar 02 | No class | Spring break |  |
+|  | Wed, Mar 04 | No class | Spring break |  |
+|  | Fri, Mar 06 | No class | Spring break |  |
 | Day 24 | Mon, Mar 09 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** TBD |  |
 | Day 25 | Wed, Mar 11 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** TBD |  |
 | Day 26 | Fri, Mar 13 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** TBD |  |
 | Day 27 | Mon, Mar 16 | Mid-course project presentations | Lightning talks |  |
 | Day 28 | Wed, Mar 18 | Mid-course project presentations | Lightning talks |  |
 | Day 29 | Fri, Mar 20 | Mid-course project presentations | Lightning talks |  |
-| Day 30 | Mon, Mar 23 | Single-cell genomics | Missing value imputaion; Dimensionality reduction |  |
+| Day 30 | Mon, Mar 23 | Single-cell genomics | Missing value imputation; Dimensionality reduction |  |
 | Day 31 | Wed, Mar 25 | Single-cell genomics | Trajectory inference; Spatial reconstruction |  |
 | Day 32 | Fri, Mar 27 | Single-cell genomics | Paper discussion |  |
 | Day 33 | Mon, Mar 30 | Molecular dynamics; Structure prediction | Molecular simulation |  |
@@ -145,17 +140,17 @@ This calendar contains the class schedule and the links to the lecture slides an
 | Day 45 | Thu, Apr 30 | Final project poster presentations | Poster presentations; **Diff. time:** 12:45pm - 2:45pm |  |
 
 #### Project deadlines
-| Task | Notes | Due date |
-|:---- |:----- | -------: |
-| Project profile | Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you. | Wed, Jan 15 |
-| Project topic | Discuss with Arjun (and any other PI) and read recent papers. Briefly describe project ideas. | Fri, Jan 31 |
-| Project pre-proposal | Prepare a two-page pre-proposal (Page1: text; Page2: figures & references). | Fri, Feb 07 |
-| Project proposal | Write 5-page proposal describing project goals, division of work, milestones, datasets, and challenges. | Wed, Feb 19 |
-| Proposal reviews | Review proposals. | Fri, Feb 28 |
-| Mid-term project presentations | Address peer evaluations, revise aims, scope, and list of final goals & deliverables. Meet with Arjun about reviews, revised plan, and progress. | Fri, Mar 13 |
-| Mid-course project report | Continue making substantial progress on proposed milestones. Write mid-course project report. | Fri, Mar 27 |
-| Final project report | Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience. | Fri, Apr 26 |
-| Final project poster presentations | 2h joint poster session | Thu, Apr 30 |
+| Task | Due date |
+|:-----|---------:|
+| Project profile | Wed, Jan 15 |
+| Project topic | Fri, Jan 31 |
+| Project pre-proposal | Fri, Feb 07 |
+| Project proposal | Wed, Feb 19 |
+| Proposal reviews | Fri, Feb 28 |
+| Mid-term project presentations | Fri, Mar 13 |
+| Mid-course project report | Fri, Mar 27 |
+| Final project report | Fri, Apr 26 |
+| Final project poster presentations | Thu, Apr 30 |
 
 ### Office Hours
 TBD
@@ -175,7 +170,7 @@ Couple of things to note:
 This [GitHub repo](https://github.com/krishnanlab/teaching/tree/master/2020-spring_compbio) will serve as the course website.  
 
 ### Communication
-The primary mode of communication in this course (including major announcements), will be the [course Slack account](https://cmse-compbio-ss19.slack.com). All of you should have invitations to join this account in your MSU email.  
+The primary mode of communication in this course (including major announcements), will be the [course Slack account](https://compbio2020.slack.com). All of you should have invitations to join this account in your MSU email.  
 
 **Emails**  
 Although the bulk of the communication will take place via Slack, at times (rarely), we will send out important course information via email. This email is sent to your MSU email address (the one that ends in “@msu.edu”). You are responsible for all information sent out to your University email account, and for checking this account on a regular basis.
@@ -205,7 +200,6 @@ You will also take turns to present the assigned paper during each topic's "Pape
     3. What’s their approach? What’s new in it and what is their rationale for it being potentially successful? [description of the *new ideas*, their *merits* in comparison to existing ones, and *rationale*]
     4. What are the major contributions and limitations of this paper?
     5. What are some open questions and next steps (for addressing the limitations)?
-- The two students will also make a note of all the points discussed in the class during the presentation, write-up them up by working with me, and post the discussion on [PubPeer](https://pubpeer.com/).
 
 ### Semester Project and Presentation
 A major goal of this course is to prepare you for performing original research in computational biology, and for effectively presenting your ideas and research. The semester project will serve as the most practical way to do exactly that.
@@ -233,36 +227,37 @@ The outcomes of this semester-long project should include:
 
 There are several [project deadlines](https://github.com/krishnanlab/teaching/tree/master/2020-spring_compbio#project-deadlines) throughout the course that will help you stay on track, enabling you to complete a substantial project.
 
-1. Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you. Project profile due **TBD**.
+1. Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you. Project profile due **Wed, Jan 15**.
 
-2. Discuss with Arjun (and any other PI) and read recent papers. Briefly describe project ideas. Project topic due **TBD**.
+2. Discuss with Arjun (and any other PI) and read recent papers. Briefly describe project ideas. Project topic due **Fri, Jan 31**.
 
-3. Prepare a two-page pre-proposal (Page1: text; Page2: figures & references). Project pre-proposal due **TBD**.
+3. Prepare a two-page pre-proposal (Page1: text; Page2: figures & references). Project pre-proposal due **Fri, Feb 07**.
 
-4. Write full proposal. Project proposal due **TBD**.
+4. Write full proposal. Project proposal due **Wed, Feb 19**.
     - Length: 5-pages (incl. figures & ref; sections listed below)
     - Sections:
         - *Background, goals, & significance* (what is the problem you are hoping to address; what is the current approach & its limitations; what will you do & why is it likely to succeed; if successful, what is the broader impact)
         - *Datasets* (what datasets will you use; where are they from; what exactly do they contain; how are they formatted)
         - *Computational methods/approach* (what are the analytical methods; what are the specific software implementations you'll use; include your flowchart here)
-        - *Evaluations* (how will you evaluate the results that you get; think in terms of how to test if a) your approach is working correctly without errors and b) your results make quantitative/biological sense and are meaningful)
+        - *Evaluation plan* (how will you evaluate the results that you get; think in terms of how to test if a) your approach is working correctly without errors and b) your results make quantitative/biological sense and are meaningful)
         - *Potential challenges & alternative approaches* (what are some assumptions you are making that can fail; what are some potential limitations of your dataset or approach that might prevent you from achieving your aforementioned goals; what will you do as alternatives if you hit those limitations)
         - *Specific milestones* (what is the list of specific results/outcomes you will work on getting)
 
-5. Review proposals. Discuss proposal with Arjun. Reviews due **TBD**.
+5. Review proposals. Discuss proposal with Arjun. Reviews due **Fri, Feb 28**.
 
-6. Mid-course project presentations on **TBD**, **TBD**, and **TBD**.
+6. Mid-course project presentations on **Mon, Mar 16**, **Wed, Mar 18**, and **Fri, Mar 20**.
+    - Address peer evaluations, revise aims, scope, and list of final goals & deliverables. Meet with Arjun about reviews, revised plan, and progress.
     - In addition to the usual things – background, problem, approach, etc. – I would like you to also present the following:
         - Clear flowchart of approach.
         - Thorough exploration of data (tables & plots to showcase your datasets)
         - Method/software usage & I/O format.
         - Preliminary analysis with simple baselines, samples datasets, and toy examples (discuss with me to determine what this means for your project; doing this over slack is fine).
 
-7. Continue making substantial progress on proposed milestones. Write the first-draft of final report. Meet Arjun to discuss all results and get feedback on the draft. Mid-course project report due **TBD**.
+7. Continue making substantial progress on proposed milestones. Write mid-course project report. Mid-course project report due **Fri, Mar 27**.
 
-8. Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience. Final project report due **TBD**.
+8. Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience. Final project report due **Fri, Apr 26**.
 
-9. Final project presentations will take place on **TBD** 12:45pm – 2:45pm in 351 Natural Sciences Bldg.
+9. Final project presentations will take place on **Thu, Apr 30** 12:45pm – 2:45pm in 351 Natural Sciences Bldg.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
 
@@ -271,7 +266,8 @@ There are several [project deadlines](https://github.com/krishnanlab/teaching/tr
 Activity | Percentage
 :----- | ---------:
 Assignments | ~35%
-Class participation | ~25%
+Class participation | ~15%
+Scribing | ~10%
 Project | ~40%
 
 ### Grading Scale
