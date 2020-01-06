@@ -36,46 +36,52 @@ Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
 
+
 ## Course Outline and Materials
 ### Major Topics
+
+#### Biological topics
 1. Genome assembly & annotation
-    * Assembly with de Bruijin graphs; Gene prediction with Hidden Markov models
-2. Sequence alignment; Pattern finding
-    * Local/global alignment with dynamic programming; Substitution matrices; BLAST
+2. Sequence alignment & pattern finding
 3. Comparative genomics; Phylogenomics
-    * Whole genome alignment; Suffix trees; Molecular evolution; Tree construction
-4. Genetic variation; Quantitative genetics
-    * GWAS, Regularized linear regression; Statistical inference, Multiple testing
+4. Genetic variation & quantitative genetics
 5. Regulatory genomics
-    * Gibbs sampling; Expectation-Maximization
 6. Functional genomics
-    * Differential expression; Functional enrichment analysis; Clustering; Intro to ML
 7. Single-cell genomics
-    * Missing value imputaion; Dimensionality reduction; Trajectory inference; Spatial reconstruction
-8. Molecular dynamics; Protein structure prediction
-    * Molecular simulation; Maximum entropy modeling
-9. Modeling cellular pathways; Digital evolution
-    * Dynamical simulation, State Space, Bifurcation; Linear programming; Artificial life
-10. Biological networks
-    * Measuring associations; Network inference; Graph theory, Label propagation
+8. Molecular dynamics; Structure prediction
+9. Modeling cellular pathways
+10. Whole-cell models; Digital evolution
+11. Biological networks
 
-Each topic is covered over two "Lecture" classes and a "Paper discussion" class.
+#### Computaitonal / Analytical topics
+* de Bruijin graphs; Hidden Markov models
+* Dynamic programming; Substitution matrices; Fast Local Alignment
+* Suffix trees; Tree construction
+* Regularized linear regression; Statistical inference, Multiple testing
+* Gibbs sampling; Expectation-Maximization
+* Two-sample tests; One-sided Fisher's exact test; Intro to unsupervised and supervised learning
+* Missing value imputaion; Dimensionality reduction; Trajectory inference
+* Molecular simulation; Maximum entropy modeling
+* Dynamical simulation, State Space, Bifurcation; Discrete/Boolean modeling
+* Wiring diagrams; Constraint-based modeling; Artificial life and other whole-cell models
+* Measuring associations; Network inference; Graph theory, Label propagation
 
-### Special Topics
-Along with these, we are going to cover the following *special topics* as 1-class lecures:
-* Cancer genomics
-* Genome engineering
-* Personal genomics
+Introduction, Overview, and Refreshers
+    Course overview + Getting started in computational biology
+	Refresher 1: Concepts in statistics & probability
+	Refresher 2: Concepts in computational science & applied math
 
 ### Primers
-And, we will also have practical and conceptual primers:
-* DataSci Primers: Data wrangling, exploratory data analysis, & visualization in R/Python; R/Jupyter notebooks; Version control w/ Git.
-* ML Primers: Machine learning; Deep learning; Applications in biology & medicine.
+Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts:
+* Organizing a CompBio project
+* Kickstarting and getting help in a CompBio project
+* Presenting data and results in a CompBio project
 
 ### Recommended Materials
 [This document](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Additional-learning-resources.md) contains links to a bunch of excellent resources for brushing-up your Unix, Python/R, Statistics, and Biology.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+
 
 ## Schedule, Location, Calendar, and Office Hours
 S/L | Info
@@ -86,22 +92,70 @@ Location | 351 Natural Sciences Bldg
 ### Calendar
 This calendar contains the class schedule and the links to the lecture slides and reading materials. Download the detailed schedule as a [PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/CMSE-491-890_Spring-2020_Schedule.pdf).
 
-| ID | Date | Module | Topic | Learning Materials |
+| Day | Date | Module | Topic | Learning Materials |
 |:---------|-------------:|:-------------------------|:------------------------|:------------------------|
-| TBD | TBD | TBD | TBD | TBD |
+| Day 01 | Mon, Jan 06 | Introduction, Overview, and Refreshers | Course overview + Getting started in computational biology |  |
+| Day 02 | Wed, Jan 08 | Introduction, Overview, and Refreshers | Refresher 1: Concepts in statistics & probability |  |
+| Day 03 | Fri, Jan 10 | Introduction, Overview, and Refreshers | Refresher 2: Concepts in computational science & applied math |  |
+| Day 04 | Mon, Jan 13 | Genome assembly & annotation | Assembly with de Bruijin graphs |  |
+| Day 05 | Wed, Jan 15 | Genome assembly & annotation | Gene prediction with Hidden Markov models |  |
+| Day 06 | Fri, Jan 17 | Genome assembly & annotation | Paper discussion; HMM continued |  |
+|  | Mon, Jan 20 |  | No Class; Need an extra hour (or two 30-minute slots) to compensate |  |
+| Day 07 | Wed, Jan 22 | Sequence alignment & pattern finding | Dynamic programming; Substitution matrices |  |
+| Day 08 | Fri, Jan 24 | Sequence alignment & pattern finding | Paper discussion; Basic Local Alignment Search Tool |  |
+| Day 09 | Mon, Jan 27 | Comparative genomics; Phylogenomics | Whole genome alignment; Suffix trees |  |
+| Day 10 | Wed, Jan 29 | Comparative genomics; Phylogenomics | Molecular evolution; Tree construction |  |
+| Day 11 | Fri, Jan 31 | Comparative genomics; Phylogenomics | Paper discussion |  |
+| Day 12 | Mon, Feb 03 | Genetic variation & quantitative genetics | GWAS, Regularized linear regression |  |
+| Day 13 | Wed, Feb 05 | Genetic variation & quantitative genetics | Polygenic risk score; Statistical inference, Multiple testing |  |
+| Day 14 | Fri, Feb 07 | Genetic variation & quantitative genetics | Paper discussion |  |
+| Day 15 | Mon, Feb 10 | Regulatory genomics | Gibbs sampling |  |
+| Day 16 | Wed, Feb 12 | Regulatory genomics | Expectation-Maximization |  |
+| Day 17 | Fri, Feb 14 | Regulatory genomics | Paper discussion |  |
+| Day 18 | Mon, Feb 17 | Functional genomics | Differential expression; Functional enrichment analysis |  |
+| Day 19 | Wed, Feb 19 | Functional genomics | Intro to unsupervised and supervised learning |  |
+| Day 20 | Fri, Feb 21 | Functional genomics | Paper discussion |  |
+| Day 21 | Mon, Feb 24 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Organizing and managing a CompBio project |  |
+| Day 22 | Wed, Feb 26 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Kickstarting and getting help in a CompBio project |  |
+| Day 23 | Fri, Feb 28 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Kickstarting and getting help in a CompBio project |  |
+|  | Mon, Mar 02 |  | Spring break |  |
+|  | Wed, Mar 04 |  | Spring break |  |
+|  | Fri, Mar 06 |  | Spring break |  |
+| Day 24 | Mon, Mar 09 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** TBD |  |
+| Day 25 | Wed, Mar 11 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** TBD |  |
+| Day 26 | Fri, Mar 13 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** TBD |  |
+| Day 27 | Mon, Mar 16 | Mid-course project presentations | Lightning talks |  |
+| Day 28 | Wed, Mar 18 | Mid-course project presentations | Lightning talks |  |
+| Day 29 | Fri, Mar 20 | Mid-course project presentations | Lightning talks |  |
+| Day 30 | Mon, Mar 23 | Single-cell genomics | Missing value imputaion; Dimensionality reduction |  |
+| Day 31 | Wed, Mar 25 | Single-cell genomics | Trajectory inference; Spatial reconstruction |  |
+| Day 32 | Fri, Mar 27 | Single-cell genomics | Paper discussion |  |
+| Day 33 | Mon, Mar 30 | Molecular dynamics; Structure prediction | Molecular simulation |  |
+| Day 34 | Wed, Apr 01 | Molecular dynamics; Structure prediction | Maximum entropy modeling |  |
+| Day 35 | Fri, Apr 03 | Molecular dynamics; Structure prediction | Paper discussion |  |
+| Day 36 | Mon, Apr 06 | Modeling cellular pathways | Dynamical simulation, State Space, Bifurcation |  |
+| Day 37 | Wed, Apr 08 | Modeling cellular pathways | Discrete/Boolean modeling |  |
+| Day 38 | Fri, Apr 10 | Modeling cellular pathways | Paper discussion |  |
+| Day 39 | Mon, Apr 13 | Whole-cell models; Digital evolution | Genome-scale metabolic models; Constraint-based modeling |  |
+| Day 40 | Wed, Apr 15 | Whole-cell models; Digital evolution | Artificial life and other whole-cell models |  |
+| Day 41 | Fri, Apr 17 | Whole-cell models; Digital evolution | Paper discussion |  |
+| Day 42 | Mon, Apr 20 | Biological networks | Measuring associations; Network inference |  |
+| Day 43 | Wed, Apr 22 | Biological networks | Graph theory, Label propagation |  |
+| Day 44 | Fri, Apr 24 | Biological networks | Paper discussion |  |
+| Day 45 | Thu, Apr 30 | Final project poster presentations | Poster presentations; **Diff. time:** 12:45pm - 2:45pm |  |
 
 #### Project deadlines
-Item | Due date
-:--- | -------:
-Project profile | TBD
-Project topic | TBD
-Project pre-proposal | TBD
-Project proposal | TBD
-Proposal reviews | TBD
-Mid-term project presentations | TBD
-Mid-course project report | TBD
-Final project report | TBD
-Final project poster presentations | TBD
+| Task | Notes | Due date |
+|:---- |:----- | -------: |
+| Project profile | Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you. | Wed, Jan 15 |
+| Project topic | Discuss with Arjun (and any other PI) and read recent papers. Briefly describe project ideas. | Fri, Jan 31 |
+| Project pre-proposal | Prepare a two-page pre-proposal (Page1: text; Page2: figures & references). | Fri, Feb 07 |
+| Project proposal | Write 5-page proposal describing project goals, division of work, milestones, datasets, and challenges. | Wed, Feb 19 |
+| Proposal reviews | Review proposals. | Fri, Feb 28 |
+| Mid-term project presentations | Address peer evaluations, revise aims, scope, and list of final goals & deliverables. Meet with Arjun about reviews, revised plan, and progress. | Fri, Mar 13 |
+| Mid-course project report | Continue making substantial progress on proposed milestones. Write mid-course project report. | Fri, Mar 27 |
+| Final project report | Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience. | Fri, Apr 26 |
+| Final project poster presentations | 2h joint poster session | Thu, Apr 30 |
 
 ### Office Hours
 TBD
@@ -113,6 +167,7 @@ Couple of things to note:
 2. If you would indeed like to meet in person, please try to meet me during this time. But, don't worry if you can't make it during this window for some reason. Again, just send me a message on Slack and we'll find a time that works for both of us.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+
 
 ## Website and Communication
 
@@ -127,26 +182,11 @@ Although the bulk of the communication will take place via Slack, at times (rare
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
 
+
 ## Course Activities
 
 ### Assignments
-For each topic, you will be given an assignment after the topic's "lecture" class that you are required to work on. Links to the assignment will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2020-spring_compbio#calendar) and specific instructions will be posted on Slack.
-
-Along with the assignment, you are required to turn-in a 1-page report of that week's paper containing a critical and thorough analysis of a specific section/figure with thefollowing four sections:
-1. _Data_
-    - What data did they use to perform the analysis presented in the figure?
-    - Where did each piece of data come from?
-2. _Methods_
-    - What techniques and algorithms did they use?
-    - Does the paper have a detailed description of how to perform this analysis, enough for someone to repeat that analysis?
-    - Does the paper have source code to reproduce the presented results?
-3. _Evaluation_
-    - What are the measures/metrics plotted for each figure panel?
-    - How is the success of each analysis evaluated?
-4. _Conclusions_
-    - Are the conclusions you draw from the figure in agreement with those drawn by the authors?
-
-This report is due _before_ the topic's "Paper discussion" class. Points will be deducted for reports shorter or longer than 1-page. Wrong papers will be graded as zero.
+For each topic, you will be given an assignment after the topic's first "Lecture" class on Monday that you are required to work on and submit before beginning of the "paper discussion" class on Friday the same week. Links to the assignment will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2020-spring_compbio#calendar) and specific instructions will be posted on Slack.
 
 ### Class Participation
 In general:
@@ -226,6 +266,7 @@ There are several [project deadlines](https://github.com/krishnanlab/teaching/tr
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
 
+
 ## Grading Information
 Activity | Percentage
 :----- | ---------:
@@ -250,9 +291,10 @@ Point | Percentage
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
 
+
 ## Attendance, Conduct, Honesty, and Accommodations
 
-### Class Attendance
+### Class Attendance & Presence
 This class is heavily based on material presented and worked on in class, and it is critical that you attend and participate fully every week! Therefore, class attendance is absolutely required. An unexcused absence will result in zero points for the day. Arriving late or leaving early without prior arrangement with the instructor of your session counts as an unexcused absence. Note that if you have a legitimate reason to miss class (such as job, graduate school, or medical school interviews), you must arrange this ahead of time to be excused from class. Three unexcused absences will result in the reduction of your grade by one step (e.g., from 4.0 to 3.5), with additional absences reducing your grade further at the discretion of the course instructor.
 
 ### Code of Conduct
