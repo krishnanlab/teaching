@@ -89,12 +89,12 @@ This calendar contains the class schedule and the links to the lecture slides an
 
 | Day | Date | Module | Topic | Learning Materials |
 |:---------|-------------:|:-------------------------|:------------------------|:------------------------|
-| Day 01 | Mon, Jan 06 | Introduction, Overview, and Refreshers | Course overview + Getting started in computational biology | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day01_lecture.pdf) |
+| Day 01 | Mon, Jan 06 | Introduction, Overview, and Refreshers | Course overview + Getting started in computational biology | \[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day01_lecture.pdf)] |
 | Day 02 | Wed, Jan 08 | Introduction, Overview, and Refreshers | Refresher 1: Concepts in statistics & probability |  |
 | Day 03 | Fri, Jan 10 | Introduction, Overview, and Refreshers | Refresher 2: Concepts in computational science & applied math |  |
 | Day 04 | Mon, Jan 13 | Genome assembly & annotation | Assembly with de Bruijin graphs |  |
 | Day 05 | Wed, Jan 15 | Genome assembly & annotation | Gene prediction with Hidden Markov models |  |
-| Day 06 | Fri, Jan 17 | Genome assembly & annotation | Paper discussion; HMM continued |  |
+| Day 06 | Fri, Jan 17 | Genome assembly & annotation | Paper discussion; HMM continued | Velvet: Algorithms for de novo short read assembly using de Bruijn graphs \[[Journal](http://genome.cshlp.org/content/18/5/821)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Zerbino2008_velvet-assembler.pdf)] |
 |  | Mon, Jan 20 | No class | Need an extra hour (or two 30-minute slots) to compensate |  |
 | Day 07 | Wed, Jan 22 | Sequence alignment & pattern finding | Dynamic programming; Substitution matrices |  |
 | Day 08 | Fri, Jan 24 | Sequence alignment & pattern finding | Paper discussion; Basic Local Alignment Search Tool |  |
