@@ -10,10 +10,11 @@ Topics include: Underpowered statistics • Pseudoreplication • P-hacking & mu
 \[[Fall 2018](2018-fall_statgaps/)\]
 
 ## Bioinformatics and Computational Biology
-This course is an introduction to contemporary topics in bioinformatics and computational biology, dealing with combining large-scale data and modern analytical techniques to gain biological/biomedical insights. In each topic, centered around a recent paper, we discuss the major biological & biomedical questions, explore the relevant molecular/genomics/biomedical datasets, and understand the underlying statistical, probabilistic, & machine-learning approaches.
+This course is an undergraduate- and graduate-level introduction to the inner-workings of methods in bioinformatics and computational biology: analytical techniques, algorithms, and statistical/machine-learning approaches developed to address key questions in biology and medicine. Students will get a variety of opportunities to engage in a number of in-class discussions, discuss-critique-present important papers, work on varied & interesting assignments, and collaborate as learning groups.
 
-Students will learn how to formulate problems for quantitative inquiry, design computational projects, understand and think critically about data & methods, communicate research findings, perform reproducible research, and practice open science. Students will apply all these by carrying out a group project, presenting their project in class, and submit a report at the end of the course.
+By working on a guided semester-long research project, students will also learn how to formulate problems for quantitative inquiry, design computational projects, think critically about data & methods, do reproducible research, and communicate findings.
 
+\[[Spring 2020](2020-spring_compbio/)\]  
 \[[Spring 2019](2019-spring_compbio/)\]  
 \[[Spring 2018](2018-spring_compbio/)\]
 
