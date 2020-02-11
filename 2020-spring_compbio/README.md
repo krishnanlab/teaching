@@ -104,9 +104,9 @@ This calendar contains the class schedule and the links to the lecture slides an
 | Day 12 | Mon, Feb 03 | Genetic variation & quantitative genetics | GWAS, Regularized linear regression | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day12_lecture.pdf)] |
 | Day 13 | Wed, Feb 05 | Genetic variation & quantitative genetics | Statistical inference, Multiple testing | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day13_lecture.pdf)] |
 | Day 14 | Fri, Feb 07 | Genetic variation & quantitative genetics | Polygenic risk score; Paper discussion |  |
-| Day 15 | Mon, Feb 10 | Regulatory genomics | Gibbs sampling |  |
-| Day 16 | Wed, Feb 12 | Regulatory genomics | Expectation-Maximization |  |
-| Day 17 | Fri, Feb 14 | Regulatory genomics | Paper discussion |  |
+| Day 15 | Mon, Feb 10 | Regulatory genomics | Expectation-Maximization | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day15_lecture.pdf)] |
+| Day 16 | Wed, Feb 12 | Regulatory genomics | Gibbs sampling |  |
+| Day 17 | Fri, Feb 14 | Regulatory genomics | Paper discussion | - What are DNA sequnence motifs? \[[Journal](https://www.nature.com/articles/nbt0406-423)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Dhaeseleer2006_what-are-dna-motifs.pdf)]</br>- How does DNA sequence motif discovery work? \[[Journal](https://www.nature.com/articles/nbt0806-959)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Dhaeseleer2006_how-does-motif-discovery-work.pdf)]</br>- What is the Expectation Maximization algorithm? \[[Journal](https://www.nature.com/articles/nbt1406)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Do-Batzoglou2008_what-is-EM.pdf)]</br>- Practical Strategies for Discovering Regulatory DNA Sequence Motifs \[[Journal](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020036)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/MacIsaac-Fraenkel2006_strategies-for-discovering-motifs.pdf)] |
 | Day 18 | Mon, Feb 17 | Functional genomics | Differential expression; Functional enrichment analysis |  |
 | Day 19 | Wed, Feb 19 | Functional genomics | Intro to unsupervised and supervised learning |  |
 | Day 20 | Fri, Feb 21 | Functional genomics | Paper discussion |  |
