@@ -107,18 +107,18 @@ This calendar contains the class schedule and the links to the lecture slides an
 | Day 15 | Mon, Feb 10 | Regulatory genomics | ChIP-seq & Expectation-Maximization | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day15_lecture.pdf)] |
 | Day 16 | Wed, Feb 12 | Regulatory genomics | Expectation-Maximization & Gibbs Sampling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day16_lecture.pdf)] |
 | Day 17 | Fri, Feb 14 | Regulatory genomics | Paper discussion | - What are DNA sequnence motifs? \[[Journal](https://www.nature.com/articles/nbt0406-423)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Dhaeseleer2006_what-are-dna-motifs.pdf)]</br>- How does DNA sequence motif discovery work? \[[Journal](https://www.nature.com/articles/nbt0806-959)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Dhaeseleer2006_how-does-motif-discovery-work.pdf)]</br>- What is the Expectation Maximization algorithm? \[[Journal](https://www.nature.com/articles/nbt1406)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Do-Batzoglou2008_what-is-EM.pdf)]</br>- Practical Strategies for Discovering Regulatory DNA Sequence Motifs \[[Journal](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020036)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/MacIsaac-Fraenkel2006_strategies-for-discovering-motifs.pdf)] |
-| Day 18 | Mon, Feb 17 | Functional genomics | Differential expression; Functional enrichment analysis |  |
-| Day 19 | Wed, Feb 19 | Functional genomics | Intro to unsupervised and supervised learning |  |
-| Day 20 | Fri, Feb 21 | Functional genomics | Paper discussion |  |
+| Day 18 | Mon, Feb 17 | Functional genomics | Distance measures; Clustering | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day18_lecture.pdf)] |
+| Day 19 | Wed, Feb 19 | Functional genomics | Differential expression; Functional enrichment analysis |  |
+| Day 20 | Fri, Feb 21 | Functional genomics | Paper discussion | A module map showing conditional activity of expression modules in cancer \[[Journal(https://www.nature.com/articles/ng1434)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Segal2004_cancer-module-map.pdf)] |
 | Day 21 | Mon, Feb 24 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Organizing and managing a CompBio project |  |
 | Day 22 | Wed, Feb 26 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Kickstarting and getting help in a CompBio project |  |
 | Day 23 | Fri, Feb 28 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Kickstarting and getting help in a CompBio project |  |
 |  | Mon, Mar 02 | No class | Spring break |  |
 |  | Wed, Mar 04 | No class | Spring break |  |
 |  | Fri, Mar 06 | No class | Spring break |  |
-| Day 24 | Mon, Mar 09 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** TBD |  |
-| Day 25 | Wed, Mar 11 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** TBD |  |
-| Day 26 | Fri, Mar 13 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** TBD |  |
+| Day 24 | Mon, Mar 09 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** Holmes Hall, Classroom W5 |  |
+| Day 25 | Wed, Mar 11 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** Holmes Hall, Classroom W5 |  |
+| Day 26 | Fri, Mar 13 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** Holmes Hall, Classroom W5 |  |
 | Day 27 | Mon, Mar 16 | Mid-course project presentations | Lightning talks |  |
 | Day 28 | Wed, Mar 18 | Mid-course project presentations | Lightning talks |  |
 | Day 29 | Fri, Mar 20 | Mid-course project presentations | Lightning talks |  |
