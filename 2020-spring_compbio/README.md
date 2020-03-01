@@ -110,9 +110,9 @@ This calendar contains the class schedule and the links to the lecture slides an
 | Day 18 | Mon, Feb 17 | Functional genomics | Distance measures; Clustering | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day18_lecture.pdf)] |
 | Day 19 | Wed, Feb 19 | Functional genomics | Differential expression; Functional enrichment analysis |  |
 | Day 20 | Fri, Feb 21 | Functional genomics | Paper discussion | A module map showing conditional activity of expression modules in cancer \[[Journal](https://www.nature.com/articles/ng1434)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Segal2004_cancer-module-map.pdf)] |
-| Day 21 | Mon, Feb 24 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Organizing and managing a CompBio project |  |
-| Day 22 | Wed, Feb 26 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Kickstarting and getting help in a CompBio project |  |
-| Day 23 | Fri, Feb 28 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Kickstarting and getting help in a CompBio project |  |
+| Day 21 | Mon, Feb 24 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Organizing and managing a CompBio project | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day21_lecture.pdf)] |
+| Day 22 | Wed, Feb 26 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Kickstarting and getting help in a CompBio project | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day22_lecture.pdf)] |
+| Day 23 | Fri, Feb 28 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Kickstarting and getting help in a CompBio project | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day23_lecture.pdf)] |
 |  | Mon, Mar 02 | No class | Spring break |  |
 |  | Wed, Mar 04 | No class | Spring break |  |
 |  | Fri, Mar 06 | No class | Spring break |  |
