@@ -249,9 +249,13 @@ There are several [project deadlines](https://github.com/krishnanlab/teaching/tr
     - Address peer evaluations, revise aims, scope, and list of final goals & deliverables. Meet with Arjun about reviews, revised plan, and progress.
     - In addition to the usual things – background, problem, approach, etc. – I would like you to also present the following:
         - Clear flowchart of approach.
-        - Thorough exploration of data (tables & plots to showcase your datasets)
-        - Method/software usage & I/O format.
-        - Preliminary analysis with simple baselines, samples datasets, and toy examples (discuss with me to determine what this means for your project; doing this over slack is fine).
+            - Raw data → Preprocessing & quality control → Preliminary/exploratory analysis → Analysis/Model-building steps → Expected outcomes.
+        - Thorough exploration and sanity checks of data.
+            - Tables & plots to showcase various aspects of your datasets/problem.
+        - Method/software.
+            - Usage & I/O format for each.
+        - Preliminary analysis
+            - With simple baselines, samples datasets, and toy examples.
 
 7. Continue making substantial progress on proposed milestones. Write mid-course project report. Mid-course project report due **Fri, Mar 27**.
 
