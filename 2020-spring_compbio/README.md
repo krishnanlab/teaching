@@ -8,6 +8,7 @@
 * [Course Activities](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#course-activities)
 * [Grading Information](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#grading-information)
 * [Attendance, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#attendance-conduct-honesty-accomodations)
+* [Going Online](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#going-online)
 
 
 ## Description
@@ -315,5 +316,109 @@ More broadly, we ask that students adhere to the Spartan Code of Honor academic 
 
 ### Accomodations
 If you have a university-documented learning difficulty or require other accommodations, please provide me with your VISA as soon as possible and speak with me about how I can assist you in your learning.  If you do not have a VISA but have been documented with a learning difficulty or other problems for which you may still require accommodation, please contact MSU’s Resource Center for People with Disabilities (355-9642) in order to acquire current documentation.
+
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+
+## Going Online
+Folks, hope all of you are doing ok in these surely difficult circumstances. I hope you are taking all the precautions to keep you and everyone around you safe and unaffected:
+* If you think you came in contact with anyone sick, please self-quarantine for a couple of weeks.
+* Try to maintain 2-3m distance from your neighbors. Avoid handshakes/hugs.
+* Use hand-sanitizers and wipe surfaces with disinfectant wipes when outside.
+* Wash hands frequently and thoroughly with soap, each time for 20+s. Do not touch your face (eyes, nose, mouth) or food until you do so.
+* Eat and drink healthy – keep your immune system strong!
+* All this is also to avoid being carriers and re-infecting others, especially people more vulnerable than you.
+
+Since we are going completely online for the rest of our semester including the finals, I am making a bunch of adjustments to deliver this class as effectively possible and I will work on helping you master the remaining course material as best I (and you) can in these circumstances. There is a lot in here but read through these carefully.
+
+At the outset:
+* The class timeline, including deadlines, remain intact.
+* The only change is that we’re going to do everything – my lecture discussions, your Friday paper presentations, office hours, and midterm/final project presentations – via Zoom and Slack.
+
+### 1. Important Links
+#### Permanent Zoom Meeting ID
+Simple link: bit.ly/compbio2020_zoom  
+Same as https://msu.zoom.us/j/686840537
+
+#### All Schedules
+The google sheet shared on Slack contains the schedule/assignments for:
+- Paper presentations
+- Midterm/Final project presentations
+- Office hours (appointments)
+
+### 2. Zoom Best Practices
+* If you haven’t done so already, please register your MSU Zoom account http://msu.zoom.us/
+* Please use a headphone (if you can) so that we can avoid audio feedback.
+* All your microphones will be muted and video will be turned off by default.
+* Use the chat feature to ask questions or provide comments. I will make sure I look and respond to them.
+* You can "raise your hand” on Zoom when you wish to talk and I will unmute you.
+
+### 3. Midterm Presentations – March 16, 18, 20
+We are going to use the Zoom meeting room.
+* Check the “Mid-term Project Presentations” sheet in the google sheet with the schedule for the details on who is presenting when.
+* Please log-in in a timely manner because we are on a tight schedule.
+    * Each of you gets 6 min to talk and another 3 min for Q&A.
+* By default, everyone will be on mute except the speaker.
+* When it is your turn to present, I will unmute you and you can share your screen to present.
+* The rest of us will listen and post questions/comments on chat. The speaker will look through the chat and answer questions one by one.
+* Remember: presenting remotely over Zoom sitting all by yourself is pretty odd and lonely. So, it is up to the rest of us to encourage each other by engaging with the speaker as much as possible via questions/comments.
+
+### 4. Lectures
+We are going to use the Zoom meeting room.
+* By default, everyone will be on mute except me.
+* I will share my screen with the lecture slides.
+* I will also share the lecture slides beforehand on the class website so that you can follow along better.
+* It is more important now (online) than before (in-person) to stop me and ask questions and/or provide your thoughts. If you’re confused about something I’m presenting, it is extremely likely that others are also confused about that. So, you will be helping a lot of people by stopping me to ask questions and clarify things.
+* As and when you think of them, post your questions/comments on chat. I will look through the chat window and answer questions as they come.
+* As usual, I will pause several times to ask questions. When I do so, I will expect many of you to chime-in via chat to give me brief answers. Based on what I see, I may umute and ask specific individuals to elaborate.
+* I will keep my input volume high to ensure that what I’m saying is clear. If I’m at a high volume, you can always turn down your audio; it’s harder for you to turn it up enough if I speak too softly.
+
+### 5. Student Paper Presentations on Fridays
+We are going to use the Zoom meeting room and the style will be similar to how you did your mid-term presentations.
+* Check the “Paper Presentations” sheet in the google sheet with the schedule.
+* By default, everyone will be on mute except the speaker.
+* When it is your turn to present, I will unmute you and you can share your screen to present.
+* The rest of us will listen and post questions/comments on chat. The speaker will look through the chat and answer questions one by one.
+* Remember: presenting remotely over Zoom sitting all by yourself is pretty odd and lonely. So, it is up to the rest of us to encourage each other by engaging with the speaker as much as possible via questions/comments.
+
+### 6. Class Participation
+I hope you understand that I’m looking for ways to ensure you’re present and paying attention.
+* Please log-in in a timely manner. I would like to see you listed as one of the participants.
+* During each lecture, I would like to receive from *each of you*, via chat, at least:
+    * One question to clarify something I’m saying, and
+    * One answer to a question I’m posing.
+
+### 7. Office Hours
+We are going to use Slack video calls to do all our office hours.
+* I have added an extra hour during the week. So, now we’ll hold virtual office hours from 5–6 pm on Tuesdays, Wednesdays, and Thursdays.
+* Go to the “Office hours” sheet in the google sheet with the schedule and put your name down on the day/time of your choice. Naturally, this will be on a first-come-first-serve basis. I will give you a call at the chosen time.
+* We will use this same sheet every week. At the end of each week, I will clear this table and it'll be ready for the next week.
+
+### 8. Virtual Meetings with Your Learning Group
+All the physical distancing we are doing to mitigate the spread of infection is not just stressful but also isolating and not great for mental health. So, one of the things I strongly urge you to do is to meet remotely with your learning group at least once in two weeks.
+
+### 9. Final Presentations – April 30
+Some preliminary thoughts here. This will be solidified soon.
+* Use Zoom to record a 5 min video of your presentation and submit by the due date.
+* Assigned reviewers will view the video and give scores. A detailed rubric will be provided ahead of time.
+* All of us will then meet via Zoom during the Finals hour on April 30 to discuss all the projects. During this time, three others who are not assigned reviewers will ask questions they have prepared.
+
+### 10. Frequently Asked Questions
+**Q. Can I connect to zoom by dialing a phone number?**  
+A. Yes, here are additional details.
+```
+One tap mobile
++16468769923,,686840537# US (New York)
++13126266799,,686840537# US (Chicago)
+
+Dial by your location
+        +1 646 876 9923 US (New York)
+        +1 312 626 6799 US (Chicago)
+        +1 669 900 6833 US (San Jose)
+        +1 253 215 8782 US
+        +1 301 715 8592 US
+        +1 346 248 7799 US (Houston)
+Meeting ID: 686 840 537
+Find your local number: https://msu.zoom.us/u/afiLUb9F3
+```
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
