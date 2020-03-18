@@ -334,6 +334,8 @@ At the outset:
 * The class timeline, including deadlines, remain intact.
 * The only change is that we’re going to do everything – my lecture discussions, your Friday paper presentations, office hours, and midterm/final project presentations – via Zoom and Slack.
 
+More on how this is going to happen is detailed below.
+
 ### 1. Important Links
 #### Permanent Zoom Meeting ID
 Simple link: bit.ly/compbio2020_zoom  
@@ -371,6 +373,7 @@ We are going to use the Zoom meeting room.
 * As and when you think of them, post your questions/comments on chat. I will look through the chat window and answer questions as they come.
 * As usual, I will pause several times to ask questions. When I do so, I will expect many of you to chime-in via chat to give me brief answers. Based on what I see, I may umute and ask specific individuals to elaborate.
 * I will keep my input volume high to ensure that what I’m saying is clear. If I’m at a high volume, you can always turn down your audio; it’s harder for you to turn it up enough if I speak too softly.
+* Finally, since it is hard to pay attention to online/zoom lectures on a computer screen, I will also record my lectures as I present them via zoom and share them with you at the end of the day. But, I’m not going to do any slick editing. So, you’ll be subject to the entire zoom session as-is.
 
 ### 5. Student Paper Presentations on Fridays
 We are going to use the Zoom meeting room and the style will be similar to how you did your mid-term presentations.
@@ -386,6 +389,8 @@ I hope you understand that I’m looking for ways to ensure you’re present and
 * During each lecture, I would like to receive from *each of you*, via chat, at least:
     * One question to clarify something I’m saying, and
     * One answer to a question I’m posing.
+* Remember that presenting remotely over Zoom sitting all by yourself is pretty odd, lonely, and lacking in nonverbal feedback (nodding heads, puzzled looks, drowsy eyes, etc.). So, when someone is presenting, as listeners, it is our responsibility to encourage the speaker by engaging with the them as much as possible via questions/comments/answers.
+* Finally, I am cognizant of the fact that you are at home/residence and each of you will have a unique circumstance in terms of convenience of working environment, other family-members/roommates, childcare/pet-care needs, spotty internet, etc. All of us will fully accommodate any of this.
 
 ### 7. Office Hours
 We are going to use Slack video calls to do all our office hours.
@@ -393,16 +398,49 @@ We are going to use Slack video calls to do all our office hours.
 * Go to the “Office hours” sheet in the google sheet with the schedule and put your name down on the day/time of your choice. Naturally, this will be on a first-come-first-serve basis. I will give you a call at the chosen time.
 * We will use this same sheet every week. At the end of each week, I will clear this table and it'll be ready for the next week.
 
-### 8. Virtual Meetings with Your Learning Group
-All the physical distancing we are doing to mitigate the spread of infection is not just stressful but also isolating and not great for mental health. So, one of the things I strongly urge you to do is to meet remotely with your learning group at least once in two weeks.
-
-### 9. Final Presentations – April 30
+### 8. Final Presentations – April 30
 Some preliminary thoughts here. This will be solidified soon.
-* Use Zoom to record a 5 min video of your presentation and submit by the due date.
+* Use Zoom to record a 5 min video of your poster presentation and submit by the due date.
 * Assigned reviewers will view the video and give scores. A detailed rubric will be provided ahead of time.
 * All of us will then meet via Zoom during the Finals hour on April 30 to discuss all the projects. During this time, three others who are not assigned reviewers will ask questions they have prepared.
 
-### 10. Frequently Asked Questions
+### 9. Class Timeline
+I wish to keep the class timeline, including deadlines, intact but I want to qualify this wish:
+* My point is that we should strive to keep the structure the class as much as possible and prevent the class from straying far from what it was intended to be and what you signed-up for.
+* I am also aware that, during these difficult circumstances, we all need a simultaneous dose of structure and flexibility.
+* So, as always, I am very happy to work with you on a case-by-case basis to figure out different assignments and due dates based on your specific circumstances/needs.
+
+#### Finally, all the physical distancing we are doing to mitigate the spread of infection can lead to a lot of stress. The isolation is not great for mental health and the confinement is not great for physical health. To help you a little in mitigating these effects, here are some additional things we will do as a class.
+
+### 10. Virtual Meetings with Your Learning Group
+Take advantage of the in-class learning groups you are part of. I am asking you to meet remotely with your learning group once every week – perhaps on Thursday or before class on Friday – over a video call. You can coordinate the time works for all of you and how you will do the video call. When you meet online, you can:
+* Go over the lecture slides for that week and ask/answer questions.
+* Discuss the assignment due on Friday.
+* Bring unresolved questions to the Friday online class and ask me those Qs.
+* Or, just say HI and continue to do your work in the company of your peers.
+
+### 11. Scrum
+I have created a #scrum channel in our class Slack. Let's use this channel to do a daily scrum to help each other keep their work – *any school/professional work*, not just what's related to this class – on-track. Include studying, preparation, reading, etc.
+* At the beginning of each day you're working, post brief but specific answers to the following three Qs in this channel:
+    1. What did you do yesterday? [“Yesterday, I …“]
+    2. What will you do today? [“Today, I'm going to …“]
+    3. Are there any impediments in your way?
+* Note that scrum is not for:
+    * Problem-solving or issue resolution.
+    * Status updates or evaluating progress.
+    * Checking on anyone.
+* All issues raised here should be discussed further elsewhere, perhaps one-on-one or in group channels and with the relevant people.
+
+### 12. Health & Workout
+I have created a #health-workout channel on our class Slack. Let's use this channel to share our ideas and post our daily plans/goals for keeping up our mental and physical health.
+* You can post something at the beginning of the day to motivate yourself and others, and to get help from others to hold you accountable.
+* Doesn't have to 100 pushups. Like it is for me, even stretching for 10 min and drinking 1.5L of water is a worthy goal!!
+
+### 13. Fun
+I have created a #fun channel on our class Slack. Let's use this channel to share your ideas/plans for engaging in a hobby or just disengaging with a Netflix show.
+* Keep them coming as when you find/take-on something new – yoga, online multiplayer games, new TV series, anything!
+
+### 14. Frequently Asked Questions
 **Q. Can I connect to zoom by dialing a phone number?**  
 A. Yes, here are additional details.
 ```
