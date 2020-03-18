@@ -338,7 +338,7 @@ More on how this is going to happen is detailed below.
 
 ### 1. Important Links
 #### Permanent Zoom Meeting ID
-Simple link: bit.ly/compbio2020_zoom  
+Simple link: [bit.ly/compbio2020_zoom](http://bit.ly/compbio2020_zoom)  
 Same as https://msu.zoom.us/j/686840537
 
 #### All Schedules
