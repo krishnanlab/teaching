@@ -123,7 +123,7 @@ This calendar contains the class schedule and the links to the lecture slides an
 | Day 27 | Mon, Mar 16 | Mid-course project presentations | Lightning talks |  |
 | Day 28 | Wed, Mar 18 | Mid-course project presentations | Lightning talks |  |
 | Day 29 | Fri, Mar 20 | Mid-course project presentations | Lightning talks |  |
-| Day 30 | Mon, Mar 23 | Single-cell genomics | Dimensionality reduction |  |
+| Day 30 | Mon, Mar 23 | Single-cell genomics | Dimensionality reduction | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day30_lecture.pdf)] |
 | Day 31 | Wed, Mar 25 | Single-cell genomics | Supervised machine learning |  |
 | Day 32 | Fri, Mar 27 | Single-cell genomics | Paper discussion |  |
 | Day 33 | Mon, Mar 30 | Molecular dynamics; Structure prediction | Molecular simulation |  |
