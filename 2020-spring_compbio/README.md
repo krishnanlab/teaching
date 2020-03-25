@@ -338,8 +338,7 @@ More on how this is going to happen is detailed below.
 
 ### 1. Important Links
 #### Permanent Zoom Meeting ID
-Simple link: [bit.ly/compbio2020_zoom](http://bit.ly/compbio2020_zoom)  
-Same as https://msu.zoom.us/j/686840537
+The link is available in the #GoingOnline post on our class Slack.
 
 #### All Schedules
 The google sheet shared on Slack contains the schedule/assignments for:
@@ -442,21 +441,6 @@ I have created a #fun channel on our class Slack. Let's use this channel to shar
 
 ### 14. Frequently Asked Questions
 **Q. Can I connect to zoom by dialing a phone number?**  
-A. Yes, here are additional details.
-```
-One tap mobile
-+16468769923,,686840537# US (New York)
-+13126266799,,686840537# US (Chicago)
-
-Dial by your location
-        +1 646 876 9923 US (New York)
-        +1 312 626 6799 US (Chicago)
-        +1 669 900 6833 US (San Jose)
-        +1 253 215 8782 US
-        +1 301 715 8592 US
-        +1 346 248 7799 US (Houston)
-Meeting ID: 686 840 537
-Find your local number: https://msu.zoom.us/u/afiLUb9F3
-```
+A. Yes, additional details are in the #GoingOnline post on Slack.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
