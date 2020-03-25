@@ -124,7 +124,7 @@ This calendar contains the class schedule and the links to the lecture slides an
 | Day 28 | Wed, Mar 18 | Mid-course project presentations | Lightning talks |  |
 | Day 29 | Fri, Mar 20 | Mid-course project presentations | Lightning talks |  |
 | Day 30 | Mon, Mar 23 | Single-cell genomics | Dimensionality reduction | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day30_lecture.pdf)] |
-| Day 31 | Wed, Mar 25 | Single-cell genomics | Supervised machine learning |  |
+| Day 31 | Wed, Mar 25 | Single-cell genomics | Supervised machine learning | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day31_lecture.pdf)] |
 | Day 32 | Fri, Mar 27 | Single-cell genomics | Paper discussion | The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells \[[Journal](https://www.nature.com/articles/nbt.2859)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Trapnell2014_scrnaseq-pseudotime-monocle.pdf)] |
 | Day 33 | Mon, Mar 30 | Molecular dynamics; Structure prediction | Molecular simulation |  |
 | Day 34 | Wed, Apr 01 | Molecular dynamics; Structure prediction | Maximum entropy modeling |  |
