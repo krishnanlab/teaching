@@ -330,12 +330,6 @@ Folks, hope all of you are doing ok in these surely difficult circumstances. I h
 
 Since we are going completely online for the rest of our semester including the finals, I am making a bunch of adjustments to deliver this class as effectively possible and I will work on helping you master the remaining course material as best I (and you) can in these circumstances. There is a lot in here but read through these carefully.
 
-At the outset:
-* The class timeline, including deadlines, remain intact.
-* The only change is that we’re going to do everything – my lecture discussions, your Friday paper presentations, office hours, and midterm/final project presentations – via Zoom and Slack.
-
-More on how this is going to happen is detailed below.
-
 ### 1. Important Links
 #### Permanent Zoom Meeting ID
 The link is available in the #GoingOnline post on our class Slack.
@@ -404,7 +398,11 @@ Some preliminary thoughts here. This will be solidified soon.
 * All of us will then meet via Zoom during the Finals hour on April 30 to discuss all the projects. During this time, three others who are not assigned reviewers will ask questions they have prepared.
 
 ### 9. Class Timeline
-I wish to keep the class timeline, including deadlines, intact but I want to qualify this wish:
+At the outset:
+* The class timeline, including deadlines, remain intact.
+* The only change is that we’re going to do everything – my lecture discussions, your Friday paper presentations, office hours, and midterm/final project presentations – via Zoom and Slack.
+
+However, I want to qualify this wish:
 * My point is that we should strive to keep the structure the class as much as possible and prevent the class from straying far from what it was intended to be and what you signed-up for.
 * I am also aware that, during these difficult circumstances, we all need a simultaneous dose of structure and flexibility.
 * So, as always, I am very happy to work with you on a case-by-case basis to figure out different assignments and due dates based on your specific circumstances/needs.
