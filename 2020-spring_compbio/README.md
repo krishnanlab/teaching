@@ -126,12 +126,12 @@ This calendar contains the class schedule and the links to the lecture slides an
 | Day 30 | Mon, Mar 23 | Single-cell genomics | Dimensionality reduction | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day30_lecture.pdf)] |
 | Day 31 | Wed, Mar 25 | Single-cell genomics | Supervised machine learning | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day31_lecture.pdf)] |
 | Day 32 | Fri, Mar 27 | Single-cell genomics | Paper discussion | The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells \[[Journal](https://www.nature.com/articles/nbt.2859)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Trapnell2014_scrnaseq-pseudotime-monocle.pdf)] |
-| Day 33 | Mon, Mar 30 | Molecular dynamics; Structure prediction | Maximum entropy modeling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day33-34_lecture.pdf)] |
-| Day 34 | Wed, Apr 01 | Molecular dynamics; Structure prediction | Molecular simulation |  |
-| Day 35 | Fri, Apr 03 | Molecular dynamics; Structure prediction | Paper discussion | Evolutionarily conserved networks of residues mediate allosteric communication in proteins \[[Journal](https://doi.org/10.1038/nsb881)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Suel2003_networks-of-residues.pdf)]|
-| Day 36 | Mon, Apr 06 | Modeling cellular pathways | Dynamical simulation, State Space, Bifurcation |  |
-| Day 37 | Wed, Apr 08 | Modeling cellular pathways | Discrete/Boolean modeling |  |
-| Day 38 | Fri, Apr 10 | Modeling cellular pathways | Paper discussion |  |
+| Day 33 | Mon, Mar 30 | Protein structure prediction & dynamics | Maximum entropy modeling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day33-34_lecture.pdf)] |
+| Day 34 | Wed, Apr 01 | Protein structure prediction & dynamics | Molecular dynamics | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day35_lecture.pdf)] |
+| Day 35 | Fri, Apr 03 | Protein structure prediction & dynamics | Paper discussion | Evolutionarily conserved networks of residues mediate allosteric communication in proteins \[[Journal](https://doi.org/10.1038/nsb881)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Suel2003_networks-of-residues.pdf)]|
+| Day 36 | Mon, Apr 06 | Modeling cellular pathways | Dynamical modeling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day36_lecture.pdf)] |
+| Day 37 | Wed, Apr 08 | Modeling cellular pathways | State Space, Bifurcation |  |
+| Day 38 | Fri, Apr 10 | Modeling cellular pathways | Paper discussion | Construction of a genetic toggle switch in E. coli \[[Journal](https://www.nature.com/articles/35002131)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Gardner2000-Ecoli-genetic-toggle-switch.pdf)] |
 | Day 39 | Mon, Apr 13 | Whole-cell models; Digital evolution | Genome-scale metabolic models; Constraint-based modeling |  |
 | Day 40 | Wed, Apr 15 | Whole-cell models; Digital evolution | Artificial life and other whole-cell models |  |
 | Day 41 | Fri, Apr 17 | Whole-cell models; Digital evolution | Paper discussion |  |
