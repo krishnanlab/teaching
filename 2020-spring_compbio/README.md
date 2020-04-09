@@ -130,7 +130,7 @@ This calendar contains the class schedule and the links to the lecture slides an
 | Day 34 | Wed, Apr 01 | Protein structure prediction & dynamics | Molecular dynamics | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day35_lecture.pdf)] |
 | Day 35 | Fri, Apr 03 | Protein structure prediction & dynamics | Paper discussion | Evolutionarily conserved networks of residues mediate allosteric communication in proteins \[[Journal](https://doi.org/10.1038/nsb881)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Suel2003_networks-of-residues.pdf)]|
 | Day 36 | Mon, Apr 06 | Modeling cellular pathways | Dynamical modeling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day36_lecture.pdf)] |
-| Day 37 | Wed, Apr 08 | Modeling cellular pathways | State Space, Bifurcation |  |
+| Day 37 | Wed, Apr 08 | Modeling cellular pathways | State Space, Bifurcation | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day37_lecture.pdf)] |
 | Day 38 | Fri, Apr 10 | Modeling cellular pathways | Paper discussion | Construction of a genetic toggle switch in E. coli \[[Journal](https://www.nature.com/articles/35002131)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Gardner2000-Ecoli-genetic-toggle-switch.pdf)] |
 | Day 39 | Mon, Apr 13 | Whole-cell models; Digital evolution | Genome-scale metabolic models; Constraint-based modeling |  |
 | Day 40 | Wed, Apr 15 | Whole-cell models; Digital evolution | Artificial life and other whole-cell models |  |
