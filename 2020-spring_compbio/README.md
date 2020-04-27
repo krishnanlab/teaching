@@ -150,7 +150,7 @@ This calendar contains the class schedule and the links to the lecture slides an
 | Proposal reviews | Fri, Feb 28 |
 | Mid-term project presentations | Mon, Mar 16; Wed, Mar 18; Fri, Mar 20 |
 | Mid-course project report | Fri, Mar 27 |
-| Final project report | Fri, Apr 26 |
+| Final project report | Fri, Apr 24 |
 | Final project poster presentations | Thu, Apr 30 |
 
 ### Office Hours
