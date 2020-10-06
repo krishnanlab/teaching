@@ -27,6 +27,7 @@ Postdocs, staff scientists/specialists, and faculty members are welcome to sit-i
 To get the most out of this course, it would be ideal if you have:
 1) Familiarity with introductory statistics and probability, and
 2) Basic experience with data wrangling, analysis, and visualization using R or Python.
+
 Please check out the [Frequently Asked Questions](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/README.md#frequently-asked-questions) to see the thinking behind these two prerequisites.
 
 Check out some [recommended online preparatory materials](https://github.com/krishnanlab/teaching/tree/master/2020-fall_statgaps/Preparatory-materials.md) that you can use to refresh these concetps and skills.
