@@ -38,7 +38,7 @@ Check out some [recommended online preparatory materials](https://github.com/kri
 * Some background in introductory biology would also be nice, for instance LB 144 and 145 OR BS 161 and 162 OR BS 181H and 182H, or equivalent. 
 
 ### Incoming Survey
-TBA
+Please complete this incoming survey.
 
 
 ## Instructor
@@ -136,17 +136,14 @@ In general:
 - Contribute to the materials in-class and on slack.
 - Correct me when I am wrong.
 
-### Final Exam
-A major goal of this course is to prepare you for performing statisitcal data analysis with care, and for presenting your ideas and findings effectively. The final exam will serve as a practical way to do exactly that. We discuss and nail the details when we meet in class. It is scheduled on Dec 09 3:00 – 5:00 pm.
-
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/README.md#gaps-missteps-and-errors-in-statistical-data-analysis) ]
+
 
 ## Grading Information
 Activity | Percentage
 :----- | ---------:
-Assignments | ~25%
-Class participation | ~50%
-Final Exam | ~25%
+Assignments | 40%
+Class participation | 60%
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/README.md#gaps-missteps-and-errors-in-statistical-data-analysis) ]
 
@@ -205,7 +202,7 @@ Yes! This class will be streamed live via a Zoom link. Details will be available
 Yes! To provide some context: this short course is part of an extensive [Bioinformatics education program](https://cmse.msu.edu/academics/bioinformatics-program/) we run out of [CMSE](https://cmse.msu.edu). Postdocs (or any MSU-affiliates who are not registered students) can audit any of these Bioinformatics modules for a small fee. With this StatGaps course, however, since I’m still experimenting with it, especially in terms of taking it to a large scale, I’m open to having postdocs, research/staff scientists, and faculty-members *audit this course for free*. The only things I ask in return is your active engagement with the class and its materials along with providing constructive feedback.  
 
 **6. Are there going to be exams?**  
-Yes! But you can rest assured that the point of the exam will not be to *test* you. The exam will give you an opportunity to revisit many of the concepts discussed throughout the class and, in that process, do something practically useful to you in your future efforts with statistical data anlayses. We will discuss and nail the details when we meet in class.
+No! Just assignments.
 
 **6. Will this short course be converted into a regular semester-long course in the future?**  
 May be. There is a lot of benefit for keeping an essential course like this short and crisp. If you are interested in chatting about this and/or helping with developing this course further, do get in touch!
