@@ -83,16 +83,16 @@ Weekly | Mon and Wed</br>3:00-4:50 pm
 ### Calendar
 Day | Date | Topic | Learning Materials
 :-------: | :-----------: | :------------------------------- | :------------------------
-Day 01 | Nov 09 (M) |  | 
-Day 02 | Nov 11 (W) |  | 
-Day 03 | Nov 16 (M) |  | 
-Day 04 | Nov 18 (W) |  | 
-Day 05 | Nov 23 (M) |  | 
-Day 06 | Nov 25 (W) |  | 
-Day 07 | Nov 30 (M) |  | 
-Day 08 | Dec 02 (W) |  | 
-Day 09 | Dec 07 (M) |  | 
-Day 10 | Dec 09 (W) |  | 
+Day 01 | Nov 09 (M) | Welcome, Introductions, Scope, and Logistics | 
+Day 02 | Nov 11 (W) | Estimation of error & uncertainty, Sampling biases | 
+Day 03 | Nov 16 (M) | P-value & P-hacking, Multiple hypothesis correction | 
+Day 04 | Nov 18 (W) | Statistical power & Underpowered statistics | 
+Day 05 | Nov 23 (M) | Pseudoreplication, Confounding variables | 
+Day 06 | Nov 25 (W) | Circular analysis, Regression to the mean & stopping rules, Cognitive biases | 
+Day 07 | Nov 30 (M) | Base rates, Conditional probabilities | 
+Day 08 | Dec 02 (W) | Measuring association between continuous variables | 
+Day 09 | Dec 07 (M) | Visualization challenges | 
+Day 10 | Dec 09 (W) | Researcher degrees of freedom, Data sharing, Reproducible research | 
 
 ### Hours for Offline Discussion
 TBD
