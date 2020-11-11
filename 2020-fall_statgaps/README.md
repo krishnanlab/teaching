@@ -84,7 +84,7 @@ Weekly | Mon and Wed</br>3:00-4:50 pm
 Day | Date | Topic | Learning Materials
 :-------: | :-----------: | :------------------------------- | :------------------------
 Day 01 | Nov 09 (M) | Welcome, Introductions, Scope, and Logistics | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-01_Lecture.pdf)</br>[Assignment 01](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Assignments/Assignment01.pdf)
-Day 02 | Nov 11 (W) | Estimation of error & uncertainty, Sampling biases | 
+Day 02 | Nov 11 (W) | Estimation of error & uncertainty, Sampling biases | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-02_Lecture.pdf)
 Day 03 | Nov 16 (M) | P-value & P-hacking, Multiple hypothesis correction | 
 Day 04 | Nov 18 (W) | Statistical power & Underpowered statistics | 
 Day 05 | Nov 23 (M) | Pseudoreplication, Confounding variables | 
