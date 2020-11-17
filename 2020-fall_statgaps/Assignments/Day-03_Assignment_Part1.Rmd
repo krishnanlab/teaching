@@ -1,0 +1,139 @@
+---
+title: "Calculating p-value using a permutation test"
+output:
+  html_document:
+    df_print: paged
+---
+
+>Day03 – Assignment – Part 1
+
+This first part of the assignment is identical to the exercise we did in-class yesterday (Nov 16). I’m asking you to submit this R Notebook back to me with your comments/annotations on the code and the results, along with your interpretation and answers to a couple of questions at the end.
+
+
+```{r}
+### Don't need to run this commented code ###
+# Generate some data
+
+# effect_size <- 0.25
+# stddev <- 0.5
+# sample_size <- 20
+#
+# group1 <- round(rnorm(sample_size, mean = 0, sd = stddev)*10)
+# group2 <- round(rnorm(sample_size, mean = effect_size, sd = stddev)*10)
+#
+# print(group1)
+# print(group2)
+```
+
+[ Add your notes here. ]
+
+```{r}
+# Add comments next to each code chunk to describe the data analysis steps
+
+# Data
+group1 <- c(0, 5, 2, -2, 8,
+            -6, 0, 0, -6, -3,
+            -7, 4, -2, -2, 0,
+            -4, -1, -8, 0, 6)
+
+group2 <- c(-2, 2, -2, -5, 7,
+            11, 6, 2, 1, 1,
+            6, -2, -1, 7, 7,
+            -2, 4, 3, -1, 17)
+
+sample_size <- length(group1)
+```
+
+[ Add your notes here. ]
+
+```{r}
+# Add comments next to each code chunk to describe the data analysis steps
+
+hist(group1,
+     col = rgb(0, 0, 1, 0.25),
+     breaks = seq(-20, 20, 2.5),
+     xlim = c(-20, 20),
+     main = "Histograms of group1 and group2")
+hist(group2,
+     col = rgb(1, 0, 0, 0.25),
+     breaks = seq(-20, 20, 2.5),
+     add = T)
+abline(v = mean(group1))
+abline(v = mean(group2))
+```
+
+[ Add your notes here. ]
+
+```{r}
+# Add comments next to each code chunk to describe the data analysis steps
+
+signal <- mean(group2) - mean(group1)
+noise <- sqrt((var(group2) / sample_size) + (var(group1) / sample_size))
+
+test_statistic <- signal / noise
+print(test_statistic)
+```
+
+[ Add your notes here. ]
+
+```{r}
+# Add comments next to each code chunk to describe the data analysis steps
+
+num_permutations <- 10000
+permuted_test_statistics <- {}
+```
+
+[ Add your notes here. ]
+
+```{r}
+# Add comments next to each code chunk to describe the data analysis steps
+
+for(i in 1:num_permutations) {
+  permuted_data <- sample(c(group1, group2))
+
+  rand_group1 <- permuted_data[1:20]
+  rand_group2 <- permuted_data[21:40]
+
+  signal <- mean(rand_group2) - mean(rand_group1)
+  noise <- sqrt((var(rand_group2) / 20) + (var(rand_group1) / 20))
+
+  permuted_test_statistics <- c(permuted_test_statistics,
+                                (signal / noise))
+}
+```
+
+[ Add your notes here. ]
+
+```{r}
+# Add comments next to each code chunk to describe the data analysis steps
+
+hist(permuted_test_statistics)
+abline(v = test_statistic, col = "red", lwd = 2, lty = 2)
+```
+
+[ Add your notes here. ]
+
+```{r}
+# Add comments next to each code chunk to describe the data analysis steps
+
+pvalue <- sum(permuted_test_statistics >= test_statistic) / num_permutations
+cat("The pvalue based on a permutation test is", pvalue,"\n")
+```
+
+[ Add your notes here. ]
+
+```{r}
+t.test(group2, group1, alternative = "greater")
+```
+
+
+Question 1:
+Define the p-value you just calculated in terms of this specific ‘humor medicine’ intervention experiment. The general definition is on slide 11 of the Day-03 lecture.
+
+[ Write your answer here. ]
+
+
+Question 2:
+Is the p-value you calculated using the permutation test close to the p-value calcualted using the conventional t-test?
+
+[ Write your answer here. ]
