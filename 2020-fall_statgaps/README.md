@@ -83,9 +83,9 @@ Weekly | Mon and Wed</br>3:00-4:50 pm
 ### Calendar
 Day | Date | Topic | Learning Materials
 :-------: | :-----------: | :------------------------------- | :------------------------
-Day 01 | Nov 09 (M) | Welcome, Introductions, Scope, and Logistics | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-01_Lecture.pdf)</br>[Assignment 01](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Assignments/Assignment01.pdf)
-Day 02 | Nov 11 (W) | Estimation of error & uncertainty, Sampling biases | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-02_Lecture.pdf)
-Day 03 | Nov 16 (M) | P-value & P-hacking, Multiple hypothesis correction | 
+Day 01 | Nov 09 (M) | Welcome, Introductions, Scope, and Logistics | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-01_Lecture.pdf)</br>[Assignment](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Assignments/Day-01_Assignment.pdf)
+Day 02 | Nov 11 (W) | Estimation of error & uncertainty, Sampling biases | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-02_Lecture.pdf) 
+Day 03 | Nov 16 (M) | P-value & P-hacking, Multiple hypothesis correction | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-03_Lecture.pdf)</br>[Assignment](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Assignments/) Download and work with the R or Python notebooks with filenames `Day-03_Assignment`.
 Day 04 | Nov 18 (W) | Statistical power & Underpowered statistics | 
 Day 05 | Nov 23 (M) | Pseudoreplication, Confounding variables | 
 Day 06 | Nov 25 (W) | Circular analysis, Regression to the mean & stopping rules, Cognitive biases | 
@@ -95,7 +95,7 @@ Day 09 | Dec 07 (M) | Visualization challenges |
 Day 10 | Dec 09 (W) | Researcher degrees of freedom, Data sharing, Reproducible research | 
 
 ### Hours for Offline Discussion
-TBD
+Tue 9–10a and Fri 10–11a
 
 I will block these times from my schedule and be present on zoom.
 
