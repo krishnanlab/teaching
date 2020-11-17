@@ -5,11 +5,16 @@ output:
     df_print: paged
 ---
 
+Submit this R Notebook back to me via Slack with your comments/annotations on the code and the results, along with your interpretation of the results and answers the questions at the end of each part.
 
 
 # Part 1 --  Calculating p-value using a permutation test
 
-This first part of the assignment is identical to the exercise we did in-class yesterday (Nov 16). I’m asking you to submit this R Notebook back to me with your comments/annotations on the code and the results, along with your interpretation and answers to a couple of questions at the end.
+This first part of the assignment is identical to the exercise we did in-class yesterday (Nov 16).
+
+Your tasks for this part 1 are to complete what you started in class:
+1. Add comments/annotations on the code and the results, along with your interpretation of the results.
+2. Answers a couple of questions at the end.
 
 
 ```{r}
@@ -149,7 +154,7 @@ Like we discussed in class, apart from the null hypothesis (which need not alway
 2. Sample size, and
 3. Variance within each group
 
-To explore how these factors influence the p-value, I have written the code below to simulate data for two groups multiple times (just like the excercise we did in class), each time varying the `effect_size`, `std_deviation`, and `sample_size`, and calculating the p-value using a T-test.
+To explore how these factors influence the p-value, I have written the code below to simulate data for two groups multiple times (just like the exercise we did in class), each time varying the `effect_size`, `std_deviation`, and `sample_size`, and calculating the p-value using a T-test.
 
 Your tasks are the following:
 1. Carefully examine and annotate the code by writing detailed comments at each step.
