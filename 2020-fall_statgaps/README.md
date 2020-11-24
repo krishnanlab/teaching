@@ -86,8 +86,8 @@ Day | Date | Topic | Learning Materials
 Day 01 | Nov 09 (M) | Welcome, Introductions, Scope, and Logistics | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-01_Lecture.pdf)</br>[Assignment](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Assignments/Day-01_Assignment.pdf)
 Day 02 | Nov 11 (W) | Estimation of error & uncertainty, Sampling biases | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-02_Lecture.pdf) 
 Day 03 | Nov 16 (M) | P-value & P-hacking, Multiple hypothesis correction | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-03_Lecture.pdf)</br>[Assignment](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Assignments/Day-03_Assignment.pdf)
-Day 04 | Nov 18 (W) | Statistical power & Underpowered statistics |  [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-04_Lecture.pdf)</br>[Assignment](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Assignments/Day-04_Assignment.pdf)
-Day 05 | Nov 23 (M) | Pseudoreplication, Confounding variables | 
+Day 04 | Nov 18 (W) | Statistical power & Underpowered statistics | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-04_Lecture.pdf)</br>[Assignment](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Assignments/Day-04_Assignment.pdf)
+Day 05 | Nov 23 (M) | Pseudoreplication, Confounding variables | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-05_Lecture.pdf)
 Day 06 | Nov 25 (W) | Circular analysis, Regression to the mean & stopping rules, Cognitive biases | 
 Day 07 | Nov 30 (M) | Base rates, Conditional probabilities | 
 Day 08 | Dec 02 (W) | Measuring association between continuous variables | 
