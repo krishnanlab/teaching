@@ -90,9 +90,9 @@ Day 04 | Nov 18 (W) | Statistical power & Underpowered statistics | [Lecture](ht
 Day 05 | Nov 23 (M) | Pseudoreplication, Confounding variables | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-05_Lecture.pdf)
 Day 06 | Nov 25 (W) | Circular analysis, Regression to the mean & stopping rules, Sampling biases | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-06_Lecture.pdf)
 Day 07 | Nov 30 (M) | Base rates, Conditional probabilities, Cognitive biases | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-07_Lecture.pdf)</br>[Assignment](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Assignments/Day-07_Assignment.pdf)
-Day 08 | Dec 02 (W) | Measuring association between continuous variables | 
-Day 09 | Dec 07 (M) | Visualization challenges | 
-Day 10 | Dec 09 (W) | Researcher degrees of freedom, Data sharing, Reproducible research | 
+Day 08 | Dec 02 (W) | Measuring association between continuous variables | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-08_Lecture.pdf)
+Day 09 | Dec 07 (M) | Visualization challenges | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-09_Lecture.pdf)
+Day 10 | Dec 09 (W) | Effective data analysis, Reproducibility, Roundup | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-fall_statgaps/Lectures/Day-10_Lecture.pdf)
 
 ### Hours for Offline Discussion
 Tue 9–10a and Fri 10–11a
