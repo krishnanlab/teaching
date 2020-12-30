@@ -1,14 +1,14 @@
 # CMSE 410/890: Bioinformatics and Computational Biology
 
-* [Description](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#description)
-* [Instructor Contact Information](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#instructor-contact-information)
-* [Course Outline and Materials](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#course-outline-and-materials)
-* [Schedule, Location, Calendar, and Office Hours](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#schedule-location-calendar-and-office-hours)
-* [Website and Communication](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#website-and-communication)
-* [Course Activities](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#course-activities)
-* [Grading Information](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#grading-information)
-* [Attendance, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#attendance-conduct-honesty-accomodations)
-* [Going Online](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#going-online)
+* [Description](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#description)
+* [Instructor Contact Information](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#instructor-contact-information)
+* [Course Outline and Materials](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#course-outline-and-materials)
+* [Schedule, Location, Calendar, and Office Hours](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#schedule-location-calendar-and-office-hours)
+* [Website and Communication](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#website-and-communication)
+* [Course Activities](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#course-activities)
+* [Grading Information](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#grading-information)
+* [Attendance, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#attendance-conduct-honesty-accomodations)
+* [Going Online](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#going-online)
 
 
 ## Description
@@ -35,7 +35,7 @@ Affiliation | Dept. Computational Mathematics, Science, and Engineering</br>Dept
 Office | 2507H Engineering Building
 Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com/compbiologist)</br>Website: https://thekrishnanlab.org
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
 
 
 ## Course Outline and Materials
@@ -74,9 +74,9 @@ Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts:
 * Presenting data and results in a CompBio project
 
 ### Recommended Materials
-[This document](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Additional-learning-resources.md) contains links to a bunch of excellent resources for brushing-up your Unix, Python/R, Statistics, and Biology.
+[This document](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Additional-learning-resources.md) contains links to a bunch of excellent resources for brushing-up your Unix, Python/R, Statistics, and Biology.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
 
 
 ## Schedule, Location, Calendar, and Office Hours
@@ -86,75 +86,74 @@ Schedule | Mon, Wed, and Fri</br>11:00 am - 12:10 pm
 Location | 351 Natural Sciences Bldg
 
 ### Calendar
-This calendar contains the class schedule and the links to the lecture slides and reading materials. Download the detailed schedule as a [PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/CMSE410-890_Spring-2020_Schedule.pdf).
+This calendar contains the class schedule and the links to the lecture slides and reading materials. Download the detailed schedule as a [PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/CMSE410-890_Spring-2021_Schedule.pdf).
 
-| Day | Date | Module | Topic | Learning Materials |
-|:---------|-------------:|:-------------------------|:------------------------|:------------------------|
-| Day 01 | Mon, Jan 06 | Introduction, Overview, and Refreshers | Course overview | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day01_lecture.pdf)] |
-| Day 02 | Wed, Jan 08 | Introduction, Overview, and Refreshers | Refresher 1: Concepts in statistics & probability |  |
-| Day 03 | Fri, Jan 10 | Introduction, Overview, and Refreshers | Refresher 2: Concepts in model building + Intro to Bioinformatics & Computational Biology | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day03_lecture.pdf)] |
-| Day 04 | Mon, Jan 13 | Genome assembly & annotation | Assembly with de Bruijin graphs | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day04_lecture.pdf)] |
-| Day 05 | Wed, Jan 15 | Genome assembly & annotation | Gene prediction with Hidden Markov models | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day05_lecture.pdf)] |
-| Day 06 | Fri, Jan 17 | Genome assembly & annotation | Paper discussion; HMM continued | Velvet: Algorithms for de novo short read assembly using de Bruijn graphs \[[Journal](http://genome.cshlp.org/content/18/5/821)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Zerbino2008_velvet-assembler.pdf)] |
-|  | Mon, Jan 20 | No class | Need an extra hour (or two 30-minute slots) to compensate |  |
-| Day 07 | Wed, Jan 22 | Sequence alignment & pattern finding | Dynamic programming; Substitution matrices | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day07-08_lecture.pdf)] |
-| Day 08 | Fri, Jan 24 | Sequence alignment & pattern finding | Paper discussion; Basic Local Alignment Search Tool | Basic local alignment search tool \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Altschul1990_BLAST.pdf)]</br>Steps used by the BLAST algorithm \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Mount2007_steps-used-by-blast.pdf)] |
-| Day 09 | Mon, Jan 27 | Comparative genomics; Phylogenomics | Whole genome alignment; Suffix trees | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day09_lecture.pdf)] |
-| Day 10 | Wed, Jan 29 | Comparative genomics; Phylogenomics | Molecular evolution; Tree construction | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day10_lecture.pdf)]  |
-| Day 11 | Fri, Jan 31 | Comparative genomics; Phylogenomics | Paper discussion | Whole-genome alignment:</br>- MUMmer1: Alignment of whole genomes \[[Journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC148804/)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Delcher1999_MUMmer1.pdf)]</br>- MUMmer2: Fast algorithms for large-scale genome alignment and comparison \[[Journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC117189/)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Delcher2002_MUMmer2.pdf)]</br>- MUMmer3: Versatile and open software for comparing large genomes \[[Journal](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-2-r12)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Kurtz2004_MUMmer3.pdf)]</br>- MUMmer4: A fast and versatile genome alignment system \[[Journal](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005944)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Mar%C3%A7ais2018_MUMmer4.pdf)] |
-| Day 12 | Mon, Feb 03 | Genetic variation & quantitative genetics | GWAS, Regularized linear regression | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day12_lecture.pdf)] |
-| Day 13 | Wed, Feb 05 | Genetic variation & quantitative genetics | Statistical inference, Multiple testing | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day13_lecture.pdf)] |
-| Day 14 | Fri, Feb 07 | Genetic variation & quantitative genetics | Polygenic risk score; Paper discussion |  |
-| Day 15 | Mon, Feb 10 | Regulatory genomics | ChIP-seq & Expectation-Maximization | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day15_lecture.pdf)] |
-| Day 16 | Wed, Feb 12 | Regulatory genomics | Expectation-Maximization & Gibbs Sampling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day16_lecture.pdf)] |
-| Day 17 | Fri, Feb 14 | Regulatory genomics | Paper discussion | - What are DNA sequnence motifs? \[[Journal](https://www.nature.com/articles/nbt0406-423)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Dhaeseleer2006_what-are-dna-motifs.pdf)]</br>- How does DNA sequence motif discovery work? \[[Journal](https://www.nature.com/articles/nbt0806-959)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Dhaeseleer2006_how-does-motif-discovery-work.pdf)]</br>- What is the Expectation Maximization algorithm? \[[Journal](https://www.nature.com/articles/nbt1406)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Do-Batzoglou2008_what-is-EM.pdf)]</br>- Practical Strategies for Discovering Regulatory DNA Sequence Motifs \[[Journal](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020036)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/MacIsaac-Fraenkel2006_strategies-for-discovering-motifs.pdf)] |
-| Day 18 | Mon, Feb 17 | Functional genomics | Distance measures; Clustering | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day18_lecture.pdf)] |
-| Day 19 | Wed, Feb 19 | Functional genomics | Differential expression; Functional enrichment analysis |  |
-| Day 20 | Fri, Feb 21 | Functional genomics | Paper discussion | A module map showing conditional activity of expression modules in cancer \[[Journal](https://www.nature.com/articles/ng1434)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2019-spring_compbio/Papers/Segal2004_cancer-module-map.pdf)] |
-| Day 21 | Mon, Feb 24 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Organizing and managing a CompBio project | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day21_lecture.pdf)] |
-| Day 22 | Wed, Feb 26 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Kickstarting and getting help in a CompBio project | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day22_lecture.pdf)] |
-| Day 23 | Fri, Feb 28 | Conducting a Bioinfo / CompBio Project: A Practical Primer in 3-parts | Kickstarting and getting help in a CompBio project | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day23_lecture.pdf)] |
-|  | Mon, Mar 02 | No class | Spring break |  |
-|  | Wed, Mar 04 | No class | Spring break |  |
-|  | Fri, Mar 06 | No class | Spring break |  |
-| Day 24 | Mon, Mar 09 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** Holmes Hall, Classroom W5 |  |
-| Day 25 | Wed, Mar 11 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** Holmes Hall, Classroom W5 |  |
-| Day 26 | Fri, Mar 13 | Bioinformatics & Computational Biology Co-work Sessions | **Diff. time:** 10a–12:15p + **Diff. location:** Holmes Hall, Classroom W5 |  |
-| Day 27 | Mon, Mar 16 | Mid-course project presentations | Lightning talks |  |
-| Day 28 | Wed, Mar 18 | Mid-course project presentations | Lightning talks |  |
-| Day 29 | Fri, Mar 20 | Mid-course project presentations | Lightning talks |  |
-| Day 30 | Mon, Mar 23 | Single-cell genomics | Dimensionality reduction | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day30_lecture.pdf)] |
-| Day 31 | Wed, Mar 25 | Single-cell genomics | Supervised machine learning | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day31_lecture.pdf)] |
-| Day 32 | Fri, Mar 27 | Single-cell genomics | Paper discussion | The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells \[[Journal](https://www.nature.com/articles/nbt.2859)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Trapnell2014_scrnaseq-pseudotime-monocle.pdf)] |
-| Day 33 | Mon, Mar 30 | Protein structure prediction & dynamics | Maximum entropy modeling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day33-34_lecture.pdf)] |
-| Day 34 | Wed, Apr 01 | Protein structure prediction & dynamics | Molecular dynamics | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day35_lecture.pdf)] |
-| Day 35 | Fri, Apr 03 | Protein structure prediction & dynamics | Paper discussion | Evolutionarily conserved networks of residues mediate allosteric communication in proteins \[[Journal](https://doi.org/10.1038/nsb881)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Suel2003_networks-of-residues.pdf)]|
-| Day 36 | Mon, Apr 06 | Modeling cellular pathways | Dynamical modeling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day36_lecture.pdf)] |
-| Day 37 | Wed, Apr 08 | Modeling cellular pathways | State Space, Bifurcation | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day37_lecture.pdf)] |
-| Day 38 | Fri, Apr 10 | Modeling cellular pathways | Paper discussion | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day38_lecture.pdf)]</br></br>Construction of a genetic toggle switch in E. coli \[[Journal](https://www.nature.com/articles/35002131)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Gardner2000-Ecoli-genetic-toggle-switch.pdf)] |
-| Day 39 | Mon, Apr 13 | Whole-cell models; Digital evolution | Genome-scale metabolic models; Constraint-based modeling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day39_lecture.pdf)] |
-| Day 40 | Wed, Apr 15 | Whole-cell models; Digital evolution | Constraint-based modeling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day40_lecture.pdf)] |
-| Day 41 | Fri, Apr 17 | Whole-cell models; Digital evolution | Paper discussion; Artificial life | - Network-based prediction of human tissue-specific metabolism \[[Journal](https://www.nature.com/articles/nbt.1487)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Shlomi2008_tissue-specific-metabolic-network.pdf)]</br>- Integration of expression data in genome-scale metabolic network reconstructions (Mini supplementary reading to help with the main paper) \[[Journal](https://www.frontiersin.org/articles/10.3389/fphys.2012.00299/full)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Blazier2012_integrating-expression-with-metabolic-network.pdf)]</br></br>\[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day41_lecture.pdf)] |
-| Day 42 | Mon, Apr 20 | Biological networks | Network representation and topology | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day42_lecture.pdf)] |
-| Day 43 | Wed, Apr 22 | Biological networks | Condition-specificity of networks; Network recontruction | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day43_lecture.pdf)] |
-| Day 44 | Fri, Apr 24 | Biological networks | Paper discussion; Network propagation | Genomic analysis of regulatory network dynamics reveals large topological changes \[[Journal](https://www.nature.com/articles/nature02782)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Papers/Luscombe2004_topological-network-dynamics.pdf)]</br></br> \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/Lectures/Day44_lecture.pdf)] |
-| Day 45 | Thu, Apr 30 | Final project poster presentations | Poster presentations; **Diff. time:** 12:45pm - 2:45pm |  |
+| Date | Module | Topic | Notes |
+|:-:|:-|:-|:-|
+| (Day -03)</br>M, Jan 11 | Refreshers | Statistics and Probability | Review day |
+| (Day -02)</br>W, Jan 13 | Refreshers | Concepts in Computing | Review day |
+| (Day -01)</br>F, Jan 15 | Refreshers | [TBD: Other topics] | Review day |
+| (Day 00)</br>M, Jan 18 | MLK day; No class | MLK day; No class | MLK day; No class |
+| (Day 01)</br>W, Jan 20 | Introductions | Course Overview | Online class begins</br>\[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 02)</br>F, Jan 22 | Introductions | Intro to Bioinfo & CompBio | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 03)</br>M, Jan 25 | Sequence Alignment | Dynamic programming; Substitution matrices | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 04)</br>W, Jan 27 | Sequence Alignment | Fast local alignment |  |
+| (Day 05)</br>F, Jan 29 | Sequence Alignment | Paper discussion | Basic local alignment search tool \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Altschul1990_BLAST.pdf)]</br>Steps used by the BLAST algorithm \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Mount2007_steps-used-by-blast.pdf)] |
+| (Day 06)</br>M, Feb 01 | Genome Assembly and Annotation | Assembly with de Bruijin graphs | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 07)</br>W, Feb 03 | Genome Assembly and Annotation | Gene prediction with hidden Markov models |  |
+| (Day 08)</br>F, Feb 05 | Genome Assembly and Annotation | Paper discussion | Velvet: Algorithms for de novo short read assembly using de Bruijn graphs \[[Journal](http://genome.cshlp.org/content/18/5/821)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Zerbino2008_velvet-assembler.pdf)] |
+| (Day 09)</br>M, Feb 08 | Comparative Genomics; Phylogenetics | Whole-genome alignment; Suffix trees | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 10)</br>W, Feb 10 | Comparative Genomics; Phylogenetics | Molecular evolution; Tree construction |  |
+| (Day 11)</br>F, Feb 12 | Comparative Genomics; Phylogenetics | Paper discussion | Whole-genome alignment:</br>- MUMmer1: Alignment of whole genomes \[[Journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC148804/)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Delcher1999_MUMmer1.pdf)]</br>- MUMmer2: Fast algorithms for large-scale genome alignment and comparison \[[Journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC117189/)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Delcher2002_MUMmer2.pdf)]</br>- MUMmer3: Versatile and open software for comparing large genomes \[[Journal](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-2-r12)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Kurtz2004_MUMmer3.pdf)]</br>- MUMmer4: A fast and versatile genome alignment system \[[Journal](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005944)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Mar%C3%A7ais2018_MUMmer4.pdf)] |
+| (Day 12)</br>M, Feb 15 | Quantitative Genetics | GWAS; Statistical inference; Multiple testing | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 13)</br>W, Feb 17 | Quantitative Genetics | Regularized linear regression; Polygenic risk score |  |
+| (Day 14)</br>F, Feb 19 | Quantitative Genetics | Paper discussion | Genome-Wide Association Studies \[[Journal](https://doi.org/10.1371/journal.pcbi.1002822)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Bush-Moore2012_GWAS.PDF)]</br>Mining Genome-Wide Genetic Markers \[[Journal](https://doi.org/10.1371/journal.pcbi.1002828)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Zhang2012_mining-genomewide-genetic-markers.PDF)]</br> \[[Journal](https://www.nature.com/articles/nbt1209-1135)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Noble2009_primer-multiple-testing-correction.pdf)]</br>Statistical significance for genomewide studies \[[Journal](https://doi.org/10.1073/pnas.1530509100)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Storey-Tibshirani2003_statistical-significance-genomewide-studies.pdf)] |
+| (Day 15)</br>M, Feb 22 | Regulatory Genomics | ChIP-seq; Expectation maximization | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 16)</br>W, Feb 24 | Regulatory Genomics | EM; Gibbs sampling |  |
+| (Day 17)</br>F, Feb 26 | Regulatory Genomics | Paper discussion | - What are DNA sequnence motifs? \[[Journal](https://www.nature.com/articles/nbt0406-423)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Dhaeseleer2006_what-are-dna-motifs.pdf)]</br>- How does DNA sequence motif discovery work? \[[Journal](https://www.nature.com/articles/nbt0806-959)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Dhaeseleer2006_how-does-motif-discovery-work.pdf)]</br>- What is the Expectation Maximization algorithm? \[[Journal](https://www.nature.com/articles/nbt1406)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Do-Batzoglou2008_what-is-EM.pdf)]</br>- Practical Strategies for Discovering Regulatory DNA Sequence Motifs \[[Journal](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020036)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/MacIsaac-Fraenkel2006_strategies-for-discovering-motifs.pdf)] |
+| (Day 18)</br>M, Mar 01 | CompBio Primers | Organizing, managing, and kick-starting a project | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 19)</br>W, Mar 03 | Break day; No class | Break day; No class | Mid-semester feedback due on Th, Mar 04 |
+| (Day 20)</br>F, Mar 05 | CompBio Primers | Getting help and presenting data & results | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 21)</br>M, Mar 08 | Mid-course Project Update | Project co-work |  |
+| (Day 22)</br>W, Mar 10 | Mid-course Project Update | Recording presentations |  |
+| (Day 23)</br>F, Mar 12 | Mid-course Project Update | Discussion of presentation reviews |  |
+| (Day 24)</br>M, Mar 15 | Functional Genomics | Distance measures; Clustering | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 25)</br>W, Mar 17 | Functional Genomics | Differential expression; Functional enrichment |  |
+| (Day 26)</br>F, Mar 19 | Functional Genomics | Paper discussion | A module map showing conditional activity of expression modules in cancer \[[Journal](https://www.nature.com/articles/ng1434)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Segal2004_cancer-module-map.pdf)] |
+| (Day 27)</br>M, Mar 22 | Single-cell Genomics | Dimensionality reduction | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 28)</br>W, Mar 24 | Single-cell Genomics | Supervised machine learning |  |
+| (Day 29)</br>F, Mar 26 | Single-cell Genomics | Paper discussion | The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells \[[Journal](https://www.nature.com/articles/nbt.2859)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Trapnell2014_scrnaseq-pseudotime-monocle.pdf)] |
+| (Day 30)</br>M, Mar 29 | Protein Structure Prediction and Dynamics | Contact prediction; Maximum entropy modeling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 31)</br>W, Mar 31 | Protein Structure Prediction and Dynamics | Molecular dynamics |  |
+| (Day 32)</br>F, Apr 02 | Protein Structure Prediction and Dynamics | Paper discussion | Evolutionarily conserved networks of residues mediate allosteric communication in proteins \[[Journal](https://doi.org/10.1038/nsb881)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Suel2003_networks-of-residues.pdf)] |
+| (Day 33)</br>M, Apr 05 | Biological Networks | Representaiton and topological properties | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 34)</br>W, Apr 07 | Biological Networks | Network reconstruction; Label propagation |  |
+| (Day 35)</br>F, Apr 09 | Biological Networks | Paper discussion | Genomic analysis of regulatory network dynamics reveals large topological changes \[[Journal](https://www.nature.com/articles/nature02782)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Luscombe2004_topological-network-dynamics.pdf)] |
+| (Day 36)</br>M, Apr 12 | Modeling Cellular Pathways | Dynamical modeling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 37)</br>W, Apr 14 | Modeling Cellular Pathways | State space; Bifurcation analysis |  |
+| (Day 38)</br>F, Apr 16 | Modeling Cellular Pathways | Paper discussion | Construction of a genetic toggle switch in E. coli \[[Journal](https://www.nature.com/articles/35002131)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Gardner2000-Ecoli-genetic-toggle-switch.pdf)] |
+| (Day 39)</br>M, Apr 19 | Whole-cell Models; Digital Evolution | Genome-scale metabolic models; Constraint-based modeling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| (Day 40)</br>W, Apr 21 | Whole-cell Models; Digital Evolution | Artificial life | Last lecture</br>\[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)]</br>- Network-based prediction of human tissue-specific metabolism \[[Journal](https://www.nature.com/articles/nbt.1487)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Shlomi2008_tissue-specific-metabolic-network.pdf)]</br>- Integration of expression data in genome-scale metabolic network reconstructions (Mini supplementary reading to help with the main paper) \[[Journal](https://www.frontiersin.org/articles/10.3389/fphys.2012.00299/full)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Blazier2012_integrating-expression-with-metabolic-network.pdf)]</br> |
+| (Day 41)</br>F, Apr 23 | Break day; No class | Break day; No class | Break day; No class |
+| (Day 42)</br>R, Apr 29 | Lightning talks | Student presentations | NOTE: Diff. day/time: Thr, 12:45 – 2:45p |
+
 
 #### Project deadlines
 | Task | Due date |
 |:-----|---------:|
-| Project profile | Wed, Jan 15 |
-| Project topic | Fri, Jan 31 |
-| Project pre-proposal | Fri, Feb 07 |
-| Project proposal | Wed, Feb 19 |
-| Proposal reviews | Fri, Feb 28 |
-| Mid-term project presentations | Mon, Mar 16; Wed, Mar 18; Fri, Mar 20 |
-| Mid-course project report | Fri, Mar 27 |
-| Final project report | Fri, Apr 24 |
-| Final project poster presentations | Thu, Apr 30 |
+| Reserach profile | F, Jan 22 |
+| Project topic | F, Jan 29 |
+| Project pre-proposal | F, Feb 5 |
+| Project proposal | F, Feb 19 |
+| Proposal reviews | F, Feb 26 |
+| Mid-term project presentation recordings | W, Mar 10 |
+| Mid-course Project presentation reviews | F, Mar 12 |
+| Mid-course project report | F, Mar 19 |
+| Final project report | W, Apr 21 |
+| Final project poster presentations | R, Apr 29</br>(NOTE: Diff. day/time: Thr, 12:45 – 2:45p) |
 
-### Office Hours
-Tue and Wed: 5–6p.
+### Student Hours
+TBD
 
 I will block these time from my schedule and be present in my office.
 
@@ -162,27 +161,27 @@ Couple of things to note:
 1. While I'm happy to chat with you in person, many times, just sending me a message on Slack with your questions/concerns might work as well. So, if you have specific Qs in mind, just shoot me a message and let's see if we can resolve it then and there.
 2. If you would indeed like to meet in person, please try to meet me during this time. But, don't worry if you can't make it during this window for some reason. Again, just send me a message on Slack and we'll find a time that works for both of us.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
 
 
 ## Website and Communication
 
 ### Course website
-This [GitHub repo](https://github.com/krishnanlab/teaching/tree/master/2020-spring_compbio) will serve as the course website.  
+This [GitHub repo](https://github.com/krishnanlab/teaching/tree/master/2021-spring_compbio) will serve as the course website.  
 
 ### Communication
-The primary mode of communication in this course (including major announcements), will be the [course Slack account](https://compbio2020.slack.com). All of you should have invitations to join this account in your MSU email.  
+The primary mode of communication in this course (including major announcements), will be the [course Slack account](https://compbio2021.slack.com). All of you should have invitations to join this account in your MSU email.  
 
 **Emails**  
 Although the bulk of the communication will take place via Slack, at times (rarely), we will send out important course information via email. This email is sent to your MSU email address (the one that ends in “@msu.edu”). You are responsible for all information sent out to your University email account, and for checking this account on a regular basis.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
 
 
 ## Course Activities
 
 ### Assignments
-For each topic, you will be given an assignment after the topic's first "Lecture" class on Monday that you are required to work on and submit before beginning of the "paper discussion" class on Friday the same week. Links to the assignment will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2020-spring_compbio#calendar) and specific instructions will be posted on Slack.
+For each topic, you will be given an assignment after the topic's first "Lecture" class on Monday that you are required to work on and submit before beginning of the "paper discussion" class on Friday the same week. Links to the assignment will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2021-spring_compbio#calendar) and specific instructions will be posted on Slack.
 
 ### Class Participation
 In general:
@@ -226,15 +225,15 @@ The outcomes of this semester-long project should include:
     - Glossary
 3. A poster that describes your project - motivation, exact problem, approach, results, discussion & conclusions, limitations & future direcrtions, acknowledgements.
 
-There are several [project deadlines](https://github.com/krishnanlab/teaching/tree/master/2020-spring_compbio#project-deadlines) throughout the course that will help you stay on track, enabling you to complete a substantial project.
+There are **ten [project milestones](https://github.com/krishnanlab/teaching/tree/master/2021-spring_compbio#project-deadlines)** throughout the course that will help you stay on track, enabling you to complete a substantial project.
 
-1. Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you. Project profile due **Wed, Jan 15**.
+1. Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you. Project profile due **Fri, Jan 22**.
 
-2. Discuss with Arjun (and any other PI) and read recent papers. Briefly describe project ideas. Project topic due **Fri, Jan 31**.
+2. Discuss with Arjun (and any other PI) and read recent papers. Briefly describe project ideas. Project topic due **Fri, Jan 29**.
 
-3. Prepare a two-page pre-proposal (Page1: text; Page2: figures & references). Project pre-proposal due **Fri, Feb 07**.
+3. Prepare a two-page pre-proposal (Page1: text; Page2: figures & references). Project pre-proposal due **Fri, Feb 05**.
 
-4. Write full proposal. Project proposal due **Wed, Feb 19**.
+4. Write full proposal. Project proposal due **Fri, Feb 19**.
     - Length: 5-pages (incl. figures & ref; sections listed below)
     - Sections:
         - *Background, goals, & significance* (what is the problem you are hoping to address; what is the current approach & its limitations; what will you do & why is it likely to succeed; if successful, what is the broader impact)
@@ -244,10 +243,11 @@ There are several [project deadlines](https://github.com/krishnanlab/teaching/tr
         - *Potential challenges & alternative approaches* (what are some assumptions you are making that can fail; what are some potential limitations of your dataset or approach that might prevent you from achieving your aforementioned goals; what will you do as alternatives if you hit those limitations)
         - *Specific milestones* (what is the list of specific results/outcomes you will work on getting)
 
-5. Review proposals. Discuss proposal with Arjun. Reviews due **Fri, Feb 28**.
+5. Review proposals. Discuss proposal with Arjun. Reviews due **Fri, Feb 26**.
 
-6. Mid-course project presentations on **Mon, Mar 16**, **Wed, Mar 18**, and **Fri, Mar 20**.
-    - Address peer evaluations, revise aims, scope, and list of final goals & deliverables. Meet with Arjun about reviews, revised plan, and progress.
+6. Mid-course project presentations on **Wed, Mar 10**.
+    - Address peer evaluations, revise aims, scope, and list of final goals & deliverables.
+    - Meet with Arjun about reviews, revised plan, and progress.
     - In addition to the usual things – background, problem, approach, etc. – I would like you to also present the following:
         - Clear flowchart of approach.
             - Raw data → Preprocessing & quality control → Preliminary/exploratory analysis → Analysis/Model-building steps → Expected outcomes.
@@ -258,13 +258,15 @@ There are several [project deadlines](https://github.com/krishnanlab/teaching/tr
         - Preliminary analysis
             - With simple baselines, samples datasets, and toy examples.
 
-7. Continue making substantial progress on proposed milestones. Write mid-course project report. Mid-course project report due **Fri, Mar 27**.
+7. Mid-course project presentations reviews on **Fri, Mar 12**.
 
-8. Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience. Final project report due **Fri, Apr 26**.
+8. Continue making substantial progress on proposed milestones. Write mid-course project report. Mid-course project report due **Fri, Mar 19**.
 
-9. Final project presentations will take place on **Thu, Apr 30** 12:45pm – 2:45pm in 351 Natural Sciences Bldg.
+9. Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience. Final project report due **Wed, Apr 21**.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+10. Final project presentations will take place on **Thr, Apr 29, 12:45 – 2:45p**.
+
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
 
 
 ## Grading Information
@@ -288,7 +290,7 @@ Point | Percentage
 
 **Note:** Grades will not be curved. Your grade is based on your own effort and progress, not based on competition with your classmates.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
 
 
 ## Attendance, Conduct, Honesty, and Accommodations
@@ -317,7 +319,7 @@ More broadly, we ask that students adhere to the Spartan Code of Honor academic 
 ### Accomodations
 If you have a university-documented learning difficulty or require other accommodations, please provide me with your VISA as soon as possible and speak with me about how I can assist you in your learning.  If you do not have a VISA but have been documented with a learning difficulty or other problems for which you may still require accommodation, please contact MSU’s Resource Center for People with Disabilities (355-9642) in order to acquire current documentation.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
 
 ## Going Online
 Folks, hope all of you are doing ok in these surely difficult circumstances. I hope you are taking all the precautions to keep you and everyone around you safe and unaffected:
@@ -441,4 +443,4 @@ I have created a #fun channel on our class Slack. Let's use this channel to shar
 **Q. Can I connect to zoom by dialing a phone number?**  
 A. Yes, additional details are in the #GoingOnline post on Slack.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2020-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
