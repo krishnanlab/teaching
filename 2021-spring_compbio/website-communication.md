@@ -1,17 +1,17 @@
+# CMSE 410/890: Bioinformatics and Computational Biology
+
 | Links to all pages | [Home](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md) |
 | :-: | :-: |
 | [**Schedule, Lectures, and Assignments**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md) | [**Website and Communication**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/website-communication.md) |
 | [**Course Activities**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities.md) | [**Grading**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/grading.md) |
 | [**Presence, Conduct, Honesty, and Accommodations**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/policies.md) | [**Learning Online**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/learning-online.md) |
 
-# CMSE 410/890: Bioinformatics and Computational Biology
+# Website and Communication
 
-## Website and Communication
-
-### Course website
+## Course website
 This [GitHub repo](https://github.com/krishnanlab/teaching/tree/master/2021-spring_compbio) will serve as the course website.  
 
-### Communication
+## Communication
 The primary mode of communication in this course (including major announcements), will be the [course Slack account](https://compbio2021.slack.com). All of you should have invitations to join this account in your MSU email.  
 
 **Emails**  
