@@ -7,9 +7,9 @@
 | [**Presence, Conduct, Honesty, and Accommodations**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/policies.md) | [**Learning Online**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/learning-online.md) |
 
 
-## Schedule, Lectures, and Assignments
+# Schedule, Lectures, and Assignments
 
-### Calendar
+## Calendar
 This calendar contains the class schedule and the links to the lecture slides and reading materials. Download the detailed schedule as a [PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/CMSE410-890_Spring-2021_Schedule.pdf).
 
 | Date | Module | Topic | Notes |
@@ -62,7 +62,7 @@ This calendar contains the class schedule and the links to the lecture slides an
 | Day_42 Thr, Apr 29 | Lightning talks | Student presentations | _Note:_ Diff. day/time: Thr, 12:45 – 2:45p |
 
 
-#### Project milestones
+### Project milestones
 | Milestone | Due date |
 |:--------- | :---------- |
 | Reserach profile | Fri, Jan 22 |
