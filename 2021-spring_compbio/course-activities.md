@@ -85,7 +85,7 @@ Write full proposal
 #### 5. Proposal reviews | Due: Fri, Feb 26
 Review proposals. Discuss proposal with Arjun.
 
-#### 6. Mid-course project presentations | Due: Wed, Mar 10**
+#### 6. Mid-course project presentations | Due: Wed, Mar 10
 Make sure to include the following information in your presentation:
     - Address peer evaluations, revise aims, scope, and list of final goals & deliverables.
     - Meet with Arjun about reviews, revised plan, and progress.
