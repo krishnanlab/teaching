@@ -1,19 +1,20 @@
+# CMSE 410/890: Bioinformatics and Computational Biology
+
 | Links to all pages | [Home](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md) |
 | :-: | :-: |
 | [**Schedule, Lectures, and Assignments**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md) | [**Website and Communication**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/website-communication.md) |
 | [**Course Activities**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities.md) | [**Grading**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/grading.md) |
 | [**Presence, Conduct, Honesty, and Accommodations**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/policies.md) | [**Learning Online**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/learning-online.md) |
 
-# CMSE 410/890: Bioinformatics and Computational Biology
 
-## Grading Information
+# Grading Information
 Activity | Percentage
 :----- | ---------:
 Assignments | ~35%
 Class participation | ~15%
 Project | ~50%
 
-### Grading Scale
+## Grading Scale
 Point | Percentage
 ----: | ---------:
 4.0 | ≥ 90%
