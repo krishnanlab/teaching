@@ -63,8 +63,8 @@ This calendar contains the class schedule and the links to the lecture slides an
 
 
 #### Project milestones
-| Milestone | Description | Due date |
-|:--------- | :---------- | --------:|
+| Milestone | Due date |
+|:--------- | :---------- |
 | Reserach profile | Fri, Jan 22 |
 | Project topic | Fri, Jan 29 |
 | Project pre-proposal | Fri, Feb 5 |
