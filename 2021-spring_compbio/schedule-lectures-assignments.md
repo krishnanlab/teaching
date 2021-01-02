@@ -1,6 +1,6 @@
 # [CMSE 410/890: Bioinformatics and Computational Biology](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md)
 
->Schedule, Lectures, and Assignments
+>Schedule, Lectures, and Assignments  
 >[Website and Communication](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/website-communication.md)  
 >[Course Activities](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities.md)  
 >[Grading](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/grading.md)  
