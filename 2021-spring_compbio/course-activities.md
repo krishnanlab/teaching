@@ -33,7 +33,7 @@ Your role as a learner in this class is to:
 - Correct me when I am wrong.
 
 ## Assignments
-For each topic, you will be given an assignment after the topic's first "Lecture" class on Monday that you are required to work on and submit before beginning of the "paper discussion" class on Friday the same week. Links to the assignment will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2021-spring_compbio#calendar) and specific instructions will be posted on Slack.
+For each topic, you will be given an assignment after the topic's first "Lecture" class on Monday that you are required to work on and submit before beginning of the "paper discussion" class on Friday the same week. Links to the assignment will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md#calendar) and specific instructions will be posted on Slack.
 
 ## Semester Project and Presentation
 A major goal of this course is to prepare you for performing original research in computational biology, and for effectively presenting your ideas and research. The semester project will serve as the most practical way to do exactly that.
@@ -61,7 +61,7 @@ The outcomes of this semester-long project should include:
 3. A poster that describes your project - motivation, exact problem, approach, results, discussion & conclusions, limitations & future direcrtions, acknowledgements.
 
 ### Project milestones throughout the semester
-There are **ten [project milestones](https://github.com/krishnanlab/teaching/tree/master/2021-spring_compbio#project-deadlines)** throughout the course that will help you stay on track, enabling you to complete a substantial project.
+There are **ten [project milestones](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md#project-milestones)** throughout the course that will help you stay on track, enabling you to complete a substantial project.
 
 #### 1. Reserach profile | Due: Fri, Jan 22
 Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you.
