@@ -2,8 +2,7 @@
 
 >Schedule, Lectures, and Assignments  
 >[Website and Communication](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/website-communication.md)  
->[Course Activities](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities.md)  
->[Grading](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/grading.md)  
+>[Course Activities and Grading](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities-grading.md)  
 >[Presence, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/policies.md)  
 >[Learning Online](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/learning-online.md)  
 
