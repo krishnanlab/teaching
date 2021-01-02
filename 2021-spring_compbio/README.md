@@ -6,7 +6,7 @@
 | [**Course Activities**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities.md) | [**Grading**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/grading.md) |
 | [**Presence, Conduct, Honesty, and Accommodations**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/policies.md) | [**Learning Online**](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/learning-online.md) |
 
-# Bioinformatics and Computational Biology | Spring 2021
+# Home of CompBio2021
 
 ## Description
 Welcome to the Spring 2021 edition of **Bioinformatics and Computational Biology**, an introduction to the inner-workings of methods in bioinformatics and computational biology: analytical techniques, algorithms, and statistical/machine-learning approaches developed to address key questions in biology and medicine.
