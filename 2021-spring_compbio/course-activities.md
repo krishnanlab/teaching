@@ -2,12 +2,11 @@
 
 >[Schedule, Lectures, and Assignments](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md)  
 >[Website and Communication](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/website-communication.md)  
->Course Activities  
->[Grading](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/grading.md)  
+>Course Activities and Grading  
 >[Presence, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/policies.md)  
 >[Learning Online](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/learning-online.md)  
 
-# Course Activities
+# Course Activities and Grading
 
 ## In-class Participation
 Each week is dedicated to one module where we will discuss multiple topics. For each module, Arjun will give lectures on Monday, Wednesday, and half of Friday. Then, one or two students (based on a pre-determined schedule) lead a discussion based on a paper relevant to that module.
@@ -109,5 +108,30 @@ Continue making substantial progress on proposed milestones. Write mid-course pr
 Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience.
 
 #### 10. Final project poster presentations | Thr, Apr 29, 12:45 – 2:45p
+
+
+#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+
+
+## Grading Information
+Activity | Percentage
+:----- | ---------:
+Assignments | ~35%
+Class participation | ~15%
+Project | ~50%
+
+### Grading Scale
+Point | Percentage
+----: | ---------:
+4.0 | ≥ 90%
+3.5 | ≥ 85%
+3.0 | ≥ 80%
+2.5 | ≥ 75%
+2.0 | ≥ 70%
+1.5 | ≥ 65%
+1.0 | ≥ 60%
+0.0 | < 60%
+
+**Note:** Grades will not be curved. Your grade is based on your own effort and progress, not based on competition with your classmates.
 
 #### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
