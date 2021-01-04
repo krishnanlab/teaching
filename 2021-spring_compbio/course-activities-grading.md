@@ -76,31 +76,32 @@ NOTE: Meet with Arjun during the week of Mar Jan 24 to discuss project ideas, po
 Prepare a two-page pre-proposal (Page1: text; Page2: figures & references).
 
 #### 4. Project proposal | Due: Fri, Feb 19
-Write full proposal
-    - Length: 5-pages (including figures & references; sections listed below); 1-inch margins; 1.15 line spacing; Arial, Times New Roman, or Helvetica font; 11pt font size for all text including figure/table titles/legends.
-    - Sections:
-        - *Background, goals, & significance* (what is the problem you are hoping to address; what is the current approach & its limitations; what will you do & why is it likely to succeed; if successful, what is the broader impact)
-        - *Datasets* (what datasets will you use; where are they from; what exactly do they contain; how are they formatted)
-        - *Computational methods/approach* (what are the analytical methods; what are the specific software implementations you'll use; include your flowchart here)
-        - *Evaluation plan* (how will you evaluate the results that you get; think in terms of how to test if a) your approach is working correctly without errors and b) your results make quantitative/biological sense and are meaningful)
-        - *Potential challenges & alternative approaches* (what are some assumptions you are making that can fail; what are some potential limitations of your dataset or approach that might prevent you from achieving your aforementioned goals; what will you do as alternatives if you hit those limitations)
-        - *Specific milestones* (what is the list of specific results/outcomes you will work on getting)
+Write full proposal.
+- Length: 5-pages (including figures & references; sections listed below); 1-inch margins; 1.15 line spacing; Arial, Times New Roman, or Helvetica font; 11pt font size for all text including figure/table titles/legends.
+- Sections:
+    - *Background, goals, & significance* (what is the problem you are hoping to address; what is the current approach & its limitations; what will you do & why is it likely to succeed; if successful, what is the broader impact)
+    - *Datasets* (what datasets will you use; where are they from; what exactly do they contain; how are they formatted)
+    - *Computational methods/approach* (what are the analytical methods; what are the specific software implementations you'll use; include your flowchart here)
+    - *Evaluation plan* (how will you evaluate the results that you get; think in terms of how to test if a) your approach is working correctly without errors and b) your results make quantitative/biological sense and are meaningful)
+    - *Potential challenges & alternative approaches* (what are some assumptions you are making that can fail; what are some potential limitations of your dataset or approach that might prevent you from achieving your aforementioned goals; what will you do as alternatives if you hit those limitations)
+    - *Specific milestones* (what is the list of specific results/outcomes you will work on getting)
 
 #### 5. Proposal reviews | Due: Fri, Feb 26
 Review proposals. Detailed instructions will be provided.
 
 #### 6. Mid-course project presentations | Due: Wed, Mar 10
 Use the class time to record your presentation. Make sure to include the following information in your presentation:
-    - Address peer evaluations, revise aims, scope, and list of final goals & deliverables.
-    - In addition to the usual things – background, problem, approach, etc. – I would like you to also present the following:
-        - Clear flowchart of approach that contains the following information as it pertains to your project:
-            - Raw data → Preprocessing & quality control → Preliminary/exploratory analysis → Analysis/Model-building steps → Expected outcomes.
-        - Thorough exploration and sanity checks of data.
-            - Tables & plots to showcase various aspects of your datasets/problem.
-        - Method/software.
-            - Usage & I/O format for each.
-        - Preliminary analysis
-            - With simple baselines, samples datasets, and toy examples.
+– Broad area, some background, and what problem the project is going to address.
+- Specific aims of the project, what achieving those aims will result in, and why do these results matter (why are they signficant and what impact might they have on future work)
+- Description of your approach in the form of a clear flowchart that contains the following information as it pertains to your project:
+    - Raw data → Preprocessing & quality control → Preliminary/exploratory analysis → Analysis/Model-building steps → Expected outcomes.
+- Results from a thorough exploration and sanity checks of data.
+    - Tables & plots to showcase various aspects of your datasets/problem.
+- Clear description of your methods and software.
+    - Usage & I/O format for each.
+- Results from your preliminary analysis
+    - With simple baselines, samples datasets, and toy examples.
+- As you cover each of the above elements, make sure to mention how you have modified or revised them based on the peer reviews.
 
 #### 7. Mid-course project presentation reviews | Due: Fri, Mar 12
 Use the class time to review presentations by your peers based on the review assignments and rubrics.
