@@ -8,7 +8,7 @@
 
 # Course Activities and Grading
 
-## In-class Participation
+## Class Participation
 Each week is dedicated to one module where we will discuss multiple topics. For each module, Arjun will give lectures on Monday, Wednesday, and half of Friday. Then, one or two students (based on a pre-determined schedule) lead a discussion based on a paper relevant to that module.
 
 ### Lecture
@@ -30,6 +30,9 @@ Your role as a learner in this class is to:
 - Work in groups during in-class discussion sessions.
 - **Ask questions** about computational or biological concepts (because no one will have the perfect background).
 - Correct me when I am wrong.
+
+### Meeting Arjun
+
 
 ## Assignments
 For each topic, you will be given an assignment after the topic's first "Lecture" class on Monday that you are required to work on and submit before beginning of the "paper discussion" class on Friday the same week. Links to the assignment will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md#calendar) and specific instructions will be posted on Slack.
@@ -66,14 +69,15 @@ There are **ten [project milestones](https://github.com/krishnanlab/teaching/blo
 Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you.
 
 #### 2. Project topics | Due: Fri, Jan 29
-Discuss with Arjun (and any other PI) and read recent papers. Briefly describe project ideas.
+Briefly describe project ideas.
+NOTE: Meet with Arjun during the week of Mar Jan 24 to discuss project ideas, potential mentors, and relevant papers.
 
 #### 3. Project pre-proposal | Due: Fri, Feb 05
 Prepare a two-page pre-proposal (Page1: text; Page2: figures & references).
 
 #### 4. Project proposal | Due: Fri, Feb 19
 Write full proposal
-    - Length: 5-pages (incl. figures & ref; sections listed below)
+    - Length: 5-pages (including figures & references; sections listed below); 1-inch margins; 1.15 line spacing; Arial, Times New Roman, or Helvetica font; 11pt font size for all text including figure/table titles/legends.
     - Sections:
         - *Background, goals, & significance* (what is the problem you are hoping to address; what is the current approach & its limitations; what will you do & why is it likely to succeed; if successful, what is the broader impact)
         - *Datasets* (what datasets will you use; where are they from; what exactly do they contain; how are they formatted)
@@ -83,14 +87,13 @@ Write full proposal
         - *Specific milestones* (what is the list of specific results/outcomes you will work on getting)
 
 #### 5. Proposal reviews | Due: Fri, Feb 26
-Review proposals. Discuss proposal with Arjun.
+Review proposals. Detailed instructions will be provided.
 
 #### 6. Mid-course project presentations | Due: Wed, Mar 10
-Make sure to include the following information in your presentation:
+Use the class time to record your presentation. Make sure to include the following information in your presentation:
     - Address peer evaluations, revise aims, scope, and list of final goals & deliverables.
-    - Meet with Arjun about reviews, revised plan, and progress.
     - In addition to the usual things – background, problem, approach, etc. – I would like you to also present the following:
-        - Clear flowchart of approach.
+        - Clear flowchart of approach that contains the following information as it pertains to your project:
             - Raw data → Preprocessing & quality control → Preliminary/exploratory analysis → Analysis/Model-building steps → Expected outcomes.
         - Thorough exploration and sanity checks of data.
             - Tables & plots to showcase various aspects of your datasets/problem.
@@ -100,11 +103,14 @@ Make sure to include the following information in your presentation:
             - With simple baselines, samples datasets, and toy examples.
 
 #### 7. Mid-course project presentation reviews | Due: Fri, Mar 12
+Use the class time to review presentations by your peers based on the review assignments and rubrics.
+NOTE: Meet with Arjun during the week of Mar 14 to discuss project progress, proposal reviews, and revised project plan.
 
 #### 8. Mid-course project report | Due: Fri, Mar 19
-Continue making substantial progress on proposed milestones. Write mid-course project report.
+Write and submit mid-course project report.
 
 #### 9. Final project report | Due: Wed, Apr 21
+Continue making substantial progress on proposed milestones.  
 Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience.
 
 #### 10. Final project poster presentations | Thr, Apr 29, 12:45 – 2:45p
