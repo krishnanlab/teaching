@@ -34,7 +34,7 @@ I will block these time from my schedule and be present in my office. Couple of 
 | 1. | Sequence alignment & pattern finding | Dynamic programming; Substitution matrices; Fast Local Alignment |
 | 2. | Genome assembly & annotation | de Bruijin graphs; Hidden Markov models |
 | 3. | Comparative genomics; Phylogenomics | Suffix trees; Tree construction |
-| 4. | Genetic variation & quantitative genetics | Statistical inference, Multiple testing; Regularized linear regression |
+| 4. | Quantitative genetics | Statistical inference, Multiple testing; Regularized linear regression |
 | 5. | Regulatory genomics | Expectation-Maximization; Gibbs sampling |
 | 6. | Functional genomics | Two-sample tests; Fisher's exact test; Unsupervised learning |
 | 7. | Single-cell genomics | Missing value imputation; Dimensionality reduction; Supervised machine learning |
