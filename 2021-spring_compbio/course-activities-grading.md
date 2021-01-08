@@ -8,11 +8,11 @@
 
 # Course Activities and Grading
 
-## Class Participation
-Each week is dedicated to one module where we will discuss multiple topics. For each module, Arjun will give lectures on Monday, Wednesday, and half of Friday. Then, one or two students (based on a pre-determined schedule) lead a discussion based on a paper relevant to that module.
+## Class Participation | ~25% of the grade
+Each week is dedicated to one module where we will discuss multiple topics. For each module, Arjun will give lectures on Monday, Wednesday, and half of Friday. Then, a small group of students (based on a schedule determined at the beginning of the semester) will lead a discussion based on a paper relevant to that module.
 
 ### Lecture
-During the lectures, Arjun will teach critcal concepts while frequently soliciting comments, questions, and answers. Learners will also be asked to engage in group-based activities following specified prompts.
+During the lectures, Arjun will teach critcal concepts while frequently soliciting comments, questions, and answers. Learners will also be asked to engage in group-based activities and discussions following specified prompts.
 
 ### Paper discussion
 You will also take turns to present the assigned paper during each topic's "Paper discussion" class. Make sure you sign-up.
@@ -32,12 +32,15 @@ Your role as a learner in this class is to:
 - Correct me when I am wrong.
 
 ### Meeting Arjun
+Grade points are also allocated for meeting Arjun at least _thrice_ over the semester during the student hours to discuss the project and the lecture materials:
+1. Week of Jan 24 to introduce yourself and discuss project ideas, potential mentors, and relevant papers.
+2. Week of Mar 14 to discuss project progress, proposal reviews, and revised project plan.
+3. Any other time during the semester to discuss topics covered in any particular lecture.
 
-
-## Assignments
+## Assignments | ~25% of the grade
 For each topic, you will be given an assignment after the topic's first "Lecture" class on Monday that you are required to work on and submit before beginning of the "paper discussion" class on Friday the same week. Links to the assignment will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md#calendar) and specific instructions will be posted on Slack.
 
-## Semester Project and Presentation
+## Semester Project and Presentation | ~50% of the grade
 A major goal of this course is to prepare you for performing original research in computational biology, and for effectively presenting your ideas and research. The semester project will serve as the most practical way to do exactly that.
 
 Projects can take any one of the following flavors:
@@ -49,9 +52,9 @@ Projects can take any one of the following flavors:
 ### Expected final outcomes
 The outcomes of this semester-long project should include:
 1. Well-documented code to:
-    - download and process the data
-    - perform the computational analysis and generate all the results
-    - visualize the results as various plots
+    - Download and process the data
+    - Perform the computational analysis and generate all the results
+    - Visualize the results as multiple tables/plots
 2. Detailed final report containing the following sections:
     - Abstract
     - Introduction
@@ -69,8 +72,8 @@ There are **ten [project milestones](https://github.com/krishnanlab/teaching/blo
 Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you.
 
 #### 2. Project topics | Due: Fri, Jan 29
-Briefly describe project ideas.
-NOTE: Meet with Arjun during the week of Mar Jan 24 to discuss project ideas, potential mentors, and relevant papers.
+Briefly describe project ideas.  
+NOTE: Meet with Arjun during the week of Jan 24 to introduce yourself and discuss project ideas, potential mentors, and relevant papers.
 
 #### 3. Project pre-proposal | Due: Fri, Feb 05
 Prepare a two-page pre-proposal (Page1: text; Page2: figures & references).
@@ -104,7 +107,7 @@ Use the class time to record your presentation. Make sure to include the followi
 - As you cover each of the above elements, make sure to mention how you have modified or revised them based on the peer reviews.
 
 #### 7. Mid-course project presentation reviews | Due: Fri, Mar 12
-Use the class time to review presentations by your peers based on the review assignments and rubrics.
+Use the class time to review presentations by your peers based on the review assignments and rubrics.  
 NOTE: Meet with Arjun during the week of Mar 14 to discuss project progress, proposal reviews, and revised project plan.
 
 #### 8. Mid-course project report | Due: Fri, Mar 19
@@ -123,8 +126,8 @@ Complete milestones, finalize results, figures, write-up in conference publicati
 ## Grading Information
 Activity | Percentage
 :----- | ---------:
-Assignments | ~35%
-Class participation | ~15%
+Assignments | ~25%
+Class participation | ~25%
 Project | ~50%
 
 ### Grading Scale
