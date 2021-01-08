@@ -37,11 +37,11 @@ I will block these time from my schedule and be present in my office. Couple of 
 | 4. | Quantitative genetics | Statistical inference, Multiple testing; Regularized linear regression |
 | 5. | Regulatory genomics | Expectation-Maximization; Gibbs sampling |
 | 6. | Functional genomics | Two-sample tests; Fisher's exact test; Unsupervised learning |
-| 7. | Single-cell genomics | Missing value imputation; Dimensionality reduction; Supervised machine learning |
+| 7. | Single-cell genomics | Data imputation; Dimensionality reduction; Supervised machine learning |
 | 8. | Protein structure prediction; Molecular dynamics | Maximum entropy modeling; Molecular simulation |
 | 9. | Biological networks | Graph theory; Measuring associations; Network inference; Label propagation |
 | 10. | Modeling cellular pathways | Dynamical simulation, State Space, Bifurcation; Discrete/Boolean modeling |
-| 11. | Whole-cell models; Digital evolution | Wiring diagrams; Constraint-based modeling; Artificial life and other whole-cell models |
+| 11. | Whole-cell models; Digital evolution | Wiring diagrams; Constraint-based modeling; Artificial life |
 
 ### Primers
 In addition to covering the topics above, the course include three primers on conducting a bioinformatics and computational biology project:
