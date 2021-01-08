@@ -29,7 +29,7 @@ I will block these time from my schedule and be present in my office. Couple of 
 
 
 ## Major Topics
-| ... | Biological topics | Computaitonal & analytical topics |
+| ... | Modules | Topics |
 | :- | :- | :- |
 | 1. | Sequence alignment & pattern finding | Dynamic programming; Substitution matrices; Fast Local Alignment |
 | 2. | Genome assembly & annotation | de Bruijin graphs; Hidden Markov models |
