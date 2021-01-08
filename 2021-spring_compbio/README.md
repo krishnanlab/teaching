@@ -36,8 +36,8 @@ I will block these time from my schedule and be present in my office. Couple of 
 | 3. | Comparative genomics; Phylogenomics | Suffix trees; Tree construction |
 | 4. | Genetic variation & quantitative genetics | Statistical inference, Multiple testing; Regularized linear regression |
 | 5. | Regulatory genomics | Expectation-Maximization; Gibbs sampling |
-| 6. | Functional genomics | Two-sample tests; One-sided Fisher's exact test; Intro to unsupervised learning |
-| 7. | Single-cell genomics | Missing value imputation; Dimensionality reduction; Intro to supervised machine learning |
+| 6. | Functional genomics | Two-sample tests; Fisher's exact test; Unsupervised learning |
+| 7. | Single-cell genomics | Missing value imputation; Dimensionality reduction; Supervised machine learning |
 | 8. | Protein structure prediction; Molecular dynamics | Maximum entropy modeling; Molecular simulation |
 | 9. | Biological networks | Graph theory; Measuring associations; Network inference; Label propagation |
 | 10. | Modeling cellular pathways | Dynamical simulation, State Space, Bifurcation; Discrete/Boolean modeling |
