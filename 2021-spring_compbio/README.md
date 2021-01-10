@@ -67,8 +67,9 @@ Basically, it would be assumed that you:
 
 
 ## Instructor Contact Information
-Arjun Krishnan | ...
+Name | Arjun Krishnan
 :------------ | :------------
+Pronouns | He/him/his
 Affiliation | Dept. Computational Mathematics, Science, and Engineering</br>Dept. Biochemistry and Molecular Biology
 Office | 2507H Engineering Building
 Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com/compbiologist)</br>Website: https://thekrishnanlab.org
