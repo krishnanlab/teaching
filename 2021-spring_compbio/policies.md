@@ -12,19 +12,26 @@ I think of each class I teach as a _collaborative learning community_ where we c
 
 >** I have designed and am teaching this class to also maximize my learning, identify gaps in my knowledge, and find better ways of discussing each of the many complex/interesting ideas.
 
-In service of this goal, below are all the policies we will follow. If you have a concern about the policies and procedures of this class, please contact me.  
+In service of these goals, below are all the policies we will follow. If you have a concern about the policies and procedures of this class, please contact me.  
 
 ## Class Presence
-If you sincerely engage with the class and put in earnest effort, you will do well. Your can do so by:
-- Completing the pre-class assignments and additional readings.
+First, if you sincerely engage with the class and put in earnest effort, you will do well. Your can do so by:
+- Completing any pre-class readings.
 - Showing up to the online class on time and stay for the whole hour.
-- Responding to prompts from Arjun during the lectures.
+- Responding to prompts from Arjun that punctuate the lectures: questions, polls, etc.
 - Asking questions about computational or biological concepts (because no one will have the perfect background).
 - Working in groups during in-class discussion sessions.
 - Correcting me when I am wrong.
 
+For these activities to truly result in learning and betterment, I need everyone's contribution to ensure that this class (and all its affiliated spaces including Slack) remain a psychologically safe environment where:
+* If learners make a mistake, others (me included) will not penalize or think less of them for it, and
+* Others will not resent or humiliate them when they ask for help or information.
+
+I expect everyone to respect and trust each other so that every learner is imbued with the confidence that the group won't embarrass, reject, or punish someone for speaking up. To sustain this environment, all of us will listen, stay curious, and be honest while staying away from judgement, unsolicited advice giving, and interrupting.
+
+
 ### Attendance
-All these activities are heavily based on material presented and worked on in class. So, it is critical that you attend and participate fully every week. Consistent class presence and participation is required to do well in this course.
+Now, all the above activities are heavily based on material presented and worked on in class. So, it is critical that you attend and participate fully every week. Consistent class presence and participation is required to do well in this course.
 
 If you have a legitimate reason to miss class – such as job/grad-school/medical-school interviews, health/medical needs, or any other hard life circumstances – just let me know as soon as you can. I will always be willing to work with you to figure out how to accommodate your constraints/circumstances and how you may makeup for any lost time/points if needed. Same goes for meeting the multiple assignment and project due dates. I know that things are pretty tough now. So, just keep me posted and I will support you.
 
@@ -32,8 +39,8 @@ If there are multiple absences without _any_ notice or explaination, that will r
 
 
 ## Code of Conduct
-All conduct should serve the singular goal of sustain a friendly, respectful, supportive, and fun environment where we can do our best work and have a great time doing it.
-* Do work that you’re proud of, be it a small piece of code or the entire project.
+All conduct should serve the singular goal of sustaining a friendly, respectful, supportive, and fun environment where we can do our best work and have a great time doing it.
+* Do work that you’re proud of, anything from participating in a class activity to completing a full-blown research project.
 * Be supportive of your classmates; respect each others' strengths, weaknesses, differences, and beliefs.
 * Communicate openly & respectfully with everyone in the class. We can all begin by using the correct name and pronouns for everyone in this class.
 * When you ask for help from your fellow learners, respect and appreciate their time and effort.
