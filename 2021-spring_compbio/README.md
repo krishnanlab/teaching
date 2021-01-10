@@ -66,7 +66,7 @@ Basically, it would be assumed that you:
 [This document](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Additional-learning-resources.md) contains links to a bunch of excellent resources for brushing-up your Unix, Python/R, Statistics, and Biology.
 
 
-## Instructor Contact Information
+## Instructor
 Name | Arjun Krishnan
 :------------ | :------------
 Pronouns | He/him/his
