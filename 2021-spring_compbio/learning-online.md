@@ -78,7 +78,8 @@ We are going to use the same class Zoom meeting to do all our student hours.
 * Assigned reviewers will view the video, provide feedback, and give scores. A detailed rubric will be provided ahead of time.
 * All of us will then meet via Zoom during the Finals hour – 12:45–2:45p – on April 29 to discuss all the projects. During this time, three others who are not assigned reviewers will ask questions they have prepared.
 
-### Finally, all the physical distancing we are doing to mitigate the spread of infection can lead to a lot of stress. The isolation is not great for mental health and the confinement is not great for physical health. To help you a little in mitigating these effects, here are some additional things we will do as a class.
+>**Mental and Physical Health**  
+>Finally, all the physical distancing we are doing to mitigate the spread of infection can lead to a lot of stress. The isolation is not great for mental health and the confinement is not great for physical health. To help you a little in mitigating these effects, here are some additional things we will do as a class.
 
 ## 9. Virtual Meetings with Your Learning Group
 Take advantage of the in-class learning groups you are part of. I am asking you to meet remotely with your learning group once every week – perhaps on Thursday or before class on Friday – over a video call. You can coordinate the time works for all of you and how you will do the video call. When you meet online, you can:
@@ -87,25 +88,13 @@ Take advantage of the in-class learning groups you are part of. I am asking you 
 * Bring unresolved questions to the Friday online class and ask me those Qs.
 * Or, just say HI and continue to do your work in the company of your peers.
 
-## 10. Scrum
-I have created a #scrum channel in our class Slack. Let's use this channel to do a daily scrum to help each other keep their work – *any school/professional work*, not just what's related to this class – on-track. Include studying, preparation, reading, etc.
-* At the beginning of each day you're working, post brief but specific answers to the following three Qs in this channel:
-    1. What did you do yesterday? [“Yesterday, I …“]
-    2. What will you do today? [“Today, I'm going to …“]
-    3. Are there any impediments in your way?
-* Note that scrum is not for:
-    * Problem-solving or issue resolution.
-    * Status updates or evaluating progress.
-    * Checking on anyone.
-* All issues raised here should be discussed further elsewhere, perhaps one-on-one or in group channels and with the relevant people.
-
-## 11. Health & Workout
-I have created a #health-workout channel on our class Slack. Let's use this channel to share our ideas and post our daily plans/goals for keeping up our mental and physical health.
+## 10. Health & Workout
+I have created a `#health-workout` channel on our class Slack. Let's use this channel to share our ideas and post our daily plans/goals for keeping up our mental and physical health.
 * You can post something at the beginning of the day to motivate yourself and others, and to get help from others to hold you accountable.
 * Doesn't have to 100 pushups. Like it is for me, even stretching for 10 min and drinking 1.5L of water is a worthy goal!!
 
-## 12. Fun
-I have created a #fun channel on our class Slack. Let's use this channel to share your ideas/plans for engaging in a hobby or just disengaging with a Netflix show.
+## 11. Fun
+I have created a `#fun` channel on our class Slack. Let's use this channel to share your ideas/plans for engaging in a hobby or just disengaging with a Netflix show.
 * Keep them coming as when you find/take-on something new – yoga, online multiplayer games, new TV series, anything!
 
 
