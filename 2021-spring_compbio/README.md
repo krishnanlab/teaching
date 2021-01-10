@@ -18,7 +18,7 @@ In this course, students will also learn how to formulate problems for quantitat
 S/L | Info
 :------------ | :------------
 Schedule | Mon, Wed, and Fri</br>11:00 am - 12:10 pm
-Location | ZoomLand
+Location | ZoomLand (check the [course Slack workspace](https://compbio2021.slack.com/) for details)
 
 ### Student Hours
 TBD
