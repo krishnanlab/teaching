@@ -8,27 +8,50 @@
 
 
 # Presence, Conduct, Honesty, and Accommodations
+I think of each class I teach as a _collaborative learning community_ where we can all work together to enhance each other's learning. To foster this community, my goal is to make sure that our class is a space where all of you can join in, breathe, be seen & heard, be curious, and openly engage with the ideas. You absolutely belong here and you will be valued and respected. Your unique background, training, and life experiences are your strength, and everyone including me** will be benefit from listening to you and learning from you.
 
-## Class Attendance & Presence Policy
-This class is heavily based on material presented and worked on in class, and it is critical that you attend and participate fully every week! Therefore, class attendance is absolutely required. An unexcused absence will result in zero points for the day. Arriving late or leaving early without prior arrangement with the instructor of your session counts as an unexcused absence. Note that if you have a legitimate reason to miss class (such as job, graduate school, or medical school interviews), you must arrange this ahead of time to be excused from class. Three unexcused absences will result in the reduction of your grade by one step (e.g., from 4.0 to 3.5), with additional absences reducing your grade further at the discretion of the course instructor.
+>** I have designed and am teaching this class to also maximize my learning, identify gaps in my knowledge, and find better ways of discussing each of the many complex/interesting ideas.
 
-Your role as a learner in this class is to:
-- Do the pre-class assignments and additional readings.
-- Show up to class.
-- Work in groups during in-class discussion sessions.
-- **Ask questions** about computational or biological concepts (because no one will have the perfect background).
-- Correct me when I am wrong.
+In service of this goal, below are all the policies we will follow. If you have a concern about the policies and procedures of this class, please contact me.  
+
+## Class Presence
+If you sincerely engage with the class and put in earnest effort, you will do well. Your can do so by:
+- Completing the pre-class assignments and additional readings.
+- Showing up to the online class on time and stay for the whole hour.
+- Responding to prompts from Arjun during the lectures.
+- Asking questions about computational or biological concepts (because no one will have the perfect background).
+- Working in groups during in-class discussion sessions.
+- Correcting me when I am wrong.
+
+### Attendance
+All these activities are heavily based on material presented and worked on in class. So, it is critical that you attend and participate fully every week. Consistent class presence and participation is required to do well in this course.
+
+If you have a legitimate reason to miss class – such as job/grad-school/medical-school interviews, health/medical needs, or any other hard life circumstances – just let me know as soon as you can. I will always be willing to work with you to figure out how to accommodate your constraints/circumstances and how you may makeup for any lost time/points if needed. Same goes for meeting the multiple assignment and project due dates. I know that things are pretty tough now. So, just keep me posted and I will support you.
+
+If there are multiple absences without _any_ notice or explaination, that will result reduction in points allocated for attendance. Similarly, not completing assignment or project milestones without _any_ notice/explanation will result in reduction of points at the discretion of the instructor.
+
 
 ## Code of Conduct
-All conduct should serve the singular goal of sustain a friendly, supportive, and fun environment where we can do our best work and have a great time doing it.
-* Do work that you’re proud of, from the smallest piece of code to the entire project.
+All conduct should serve the singular goal of sustain a friendly, respectful, supportive, and fun environment where we can do our best work and have a great time doing it.
+* Do work that you’re proud of, be it a small piece of code or the entire project.
 * Be supportive of your classmates; respect each others' strengths, weaknesses, differences, and beliefs.
-* Communicate openly & respectfully with everyone in the class.
-* Ask for help; at the same time, respect and appreciate others' time and effort.
+* Communicate openly & respectfully with everyone in the class. We can all begin by using the correct name and pronouns for everyone in this class.
+* When you ask for help from your fellow learners, respect and appreciate their time and effort.
 
-Respectful and responsible behavior is expected at all times, which includes not interrupting other students, turning your cell phone off, refraining from non-course-related use of electronic devices, and not using offensive or demeaning language in our discussions. Flagrant or repeated violations of this expectation may result in ejection from the classroom, grade-related penalties, and/or involvement of the university Ombudsperson.
+Respectful and responsible behavior is expected at all times, which includes not interrupting other students, turning your cell phone off, refraining from non-course-related use of electronic devices, and not using offensive or demeaning language in our discussions. Flagrant or repeated violations of this expectation may result in ejection from the classroom/session, grade-related penalties, and/or involvement of the university Ombudsperson.
 
-I am unequivocally dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We will not tolerate harassment of colleagues in any form. Behaviors that could be considered discriminatory or harassing, or unwanted sexual attention, will not be tolerated and will be immediately reported to the appropriate MSU office (which may include the MSU Police Department).
+I am unequivocally dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). I will not tolerate harassment of colleagues in any form. Behaviors that could be considered discriminatory or harassing, or unwanted sexual attention, will not be tolerated and will be immediately reported to the appropriate MSU office (which may include the MSU Police Department).
+
+### Discussing Concerns
+If you have concerns that you would like to inform me about, I will listen while keeping your safety and wellbeing as my priority.
+
+Note that, as a member of the university community, I have the responsibility to report any instances of sexual harassment, sexual violence and/or other forms of prohibited discrimination.
+
+If you would rather share information about sexual harassment, sexual violence or discrimination to a confidential employee who does not have this reporting responsibility, you can find a list of those individuals [here](https://centerforsurvivors.msu.edu/education-resources/index.html). I especially recommend the [Office of the University Ombudsperson](https://ombud.msu.edu/) that offers students a confidential and impartial place to discuss academic and nonacademic concerns. Staff in this office will assist you to define problems, explore options, outline strategies, review policies, find resources, and manage expectations while upholding the values of respect, integrity, diversity and freedom from bias or harassment.
+
+### Chosen Name and Pronoun
+All people have the right to be addressed and referred to in accordance with their personal identity. Many people do not identify with the name on their birth certificate, school ID, or other forms of identification. At the beginning of this class, everyone indicates the name and the pronouns they use. If you would like to change your name, you can do that through StuInfo. Your gender marker can be changed by filing a request at the Office of the Registrar at the Hannah Administration Building. More information about MSU’s preferred name policy can be found at: https://lbgtrc.msu.edu/trans-msu/msu-preferred-name-policy/. Please advise me at any point if you need to update your name and/or pronouns in my records.
+
 
 ## Academic honesty
 Intellectual integrity is the foundation of the scientific enterprise. In all instances, you must do your own work and give proper credit to all sources that you use in your papers and oral presentations – any instance of submitting another person's work, ideas, or wording as your own counts as plagiarism. This includes failing to cite any direct quotations in your essays, research paper, class debate, or written presentation. The MSU College of Natural Science adheres to the policies of academic honesty as specified in the General Student Regulations 1.0, Protection of Scholarship and Grades, and in the all-University statement on Integrity of Scholarship and Grades, which are included in Spartan Life: Student Handbook and Resource Guide. Students who plagiarize will receive a 0.0 in the course. In addition, University policy requires that any cheating offense, regardless of the magnitude of the infraction or punishment decided upon by the professor, be reported immediately to the dean of the student's college.
@@ -37,7 +60,9 @@ It is important to note that **plagiarism in the context of this course includes
 
 More broadly, we ask that students adhere to the Spartan Code of Honor academic pledge, as written by the Associated Students of Michigan State University (ASMSU): "As a Spartan, I will strive to uphold values of the highest ethical standard. I will practice honesty in my work, foster honesty in my peers, and take pride in knowing that honor is worth more than grades. I will carry these values beyond my time as a student at Michigan State University, continuing the endeavor to build personal integrity in all that I do."
 
+
 ## Accomodations
-If you have a university-documented learning difficulty or require other accommodations, please provide me with your VISA as soon as possible and speak with me about how I can assist you in your learning.  If you do not have a VISA but have been documented with a learning difficulty or other problems for which you may still require accommodation, please contact MSU’s Resource Center for People with Disabilities (355-9642) in order to acquire current documentation.
+If you have a university-documented learning difficulty or require other accommodations, please provide me with your VISA as soon as possible and speak with me about how I can assist you in your learning.  If you do not have a VISA but have been documented with a learning difficulty or other problems for which you may still require accommodation, please contact MSU’s Resource Center for People with Disabilities (at 517-884-RCPD or on the [web](https://rcpd.msu.edu)) in order to acquire current documentation.
+
 
 #### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
