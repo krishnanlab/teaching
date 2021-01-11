@@ -14,7 +14,7 @@ First, congratulations on surviving 2020! I'm amazed by and grateful for the see
 
 I hope you are able to hang on and continue taking all the precautions to keep you and everyone around you safe until there is widespread testing and vaccination.
 
-In contrast to other semeters when I have taught this course, we are going completely online this time and following a slightly different Spring schedule. So, I have made a bunch of adjustments to deliver this course as effectively as possible and I will work on helping you master the course material as best I (and you) can in these circumstances, following the schedule laid out on [this page](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md).
+In contrast to other semesters when I have taught this course, we are going completely online this time and following a slightly different Spring schedule. So, I have made a bunch of adjustments to deliver this course as effectively as possible and I will work on helping you master the course material as best I (and you) can in these circumstances, following the schedule laid out on [this page](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md).
 
 However, let me make a few things clear:
 * I am aware that, during these difficult circumstances, we all need a dose of both structure and flexibility.
