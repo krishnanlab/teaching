@@ -38,7 +38,7 @@ Grade points are also allocated for meeting Arjun at least _thrice_ over the sem
 3. Any other time during the semester to discuss topics covered in any particular lecture.
 
 ## Assignments | ~25% of the grade
-For each topic, you will be given an assignment after the topic's first "Lecture" class on Monday that you are required to work on and submit before beginning of the "paper discussion" class on Friday the same week. Links to the assignment will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md#calendar) and specific instructions will be posted on Slack.
+For each topic, you will be given an assignment after the topic's first "Lecture" class on Monday that you are required to work on and submit before beginning of the "paper discussion" class on Friday the same week. Links to the assignment will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md#calendar) and specific instructions about each assignment and what/how to submit will be posted on Slack.
 
 ## Semester Project and Presentation | ~50% of the grade
 A major goal of this course is to prepare you for performing original research in computational biology, and for effectively presenting your ideas and research. The semester project will serve as the most practical way to do exactly that.
