@@ -35,7 +35,7 @@ Now, all the above activities are heavily based on material presented and worked
 
 If you have a legitimate reason to miss class – such as job/grad-school/medical-school interviews, health/medical needs, or any other hard life circumstances – just let me know as soon as you can. I will always be willing to work with you to figure out how to accommodate your constraints/circumstances and how you may makeup for any lost time/points if needed. Same goes for meeting the multiple assignment and project due dates. I know that things are pretty tough now. So, just keep me posted and I will support you.
 
-If there are multiple absences without _any_ notice or explaination, that will result reduction in points allocated for attendance. Similarly, not completing assignment or project milestones without _any_ notice/explanation will result in reduction of points at the discretion of the instructor.
+If there are multiple absences without _any_ notice or explanation, that will result reduction in points allocated for attendance. Similarly, not completing assignment or project milestones without _any_ notice/explanation will result in reduction of points at the discretion of the instructor.
 
 
 ## Code of Conduct
@@ -76,7 +76,7 @@ It is important to note that **plagiarism in the context of this course includes
 More broadly, we ask that students adhere to the Spartan Code of Honor academic pledge, as written by the Associated Students of Michigan State University (ASMSU): "As a Spartan, I will strive to uphold values of the highest ethical standard. I will practice honesty in my work, foster honesty in my peers, and take pride in knowing that honor is worth more than grades. I will carry these values beyond my time as a student at Michigan State University, continuing the endeavor to build personal integrity in all that I do."
 
 
-## Accomodations
+## Accommodations
 If you have a university-documented learning difficulty or require other accommodations, please provide me with your VISA as soon as possible and speak with me about how I can assist you in your learning.  If you do not have a VISA but have been documented with a learning difficulty or other problems for which you may still require accommodation, please contact MSU’s Resource Center for People with Disabilities (at 517-884-RCPD or on the [web](https://rcpd.msu.edu)) in order to acquire current documentation.
 
 
