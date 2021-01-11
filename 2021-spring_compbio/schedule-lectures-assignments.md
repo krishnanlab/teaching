@@ -10,7 +10,7 @@
 # Schedule, Lectures, and Assignments
 
 ## Calendar
-This calendar contains the class schedule and the links to the lecture slides and reading materials. Download the detailed schedule as a [PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/CMSE410-890_Spring-2021_Schedule.pdf).
+This calendar contains the class schedule and the links to the lecture slides and reading materials.
 
 | Date | Module | Topic | Notes |
 |:-:|:-|:-|:-|
