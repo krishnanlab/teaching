@@ -63,12 +63,12 @@ The outcomes of this semester-long project should include:
     - Limitations and Future Directions
     - References
     - Glossary
-3. A poster that describes your project - motivation, exact problem, approach, results, discussion & conclusions, limitations & future direcrtions, acknowledgements.
+3. A poster that describes your project - motivation, exact problem, approach, results, discussion & conclusions, limitations & future directions, acknowledgements.
 
 ### Project milestones throughout the semester
 There are **ten [project milestones](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md#project-milestones)** throughout the course that will help you stay on track, enabling you to complete a substantial project.
 
-#### 1. Reserach profile | Due: Fri, Jan 22
+#### 1. Research profile | Due: Fri, Jan 22
 Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you.
 
 #### 2. Project topics | Due: Fri, Jan 29
@@ -95,7 +95,7 @@ Review proposals. Detailed instructions will be provided.
 #### 6. Mid-course project presentations | Due: Wed, Mar 10
 Use the class time to record your presentation. Make sure to include the following information in your presentation:
 – Broad area, some background, and what problem the project is going to address.
-- Specific aims of the project, what achieving those aims will result in, and why do these results matter (why are they signficant and what impact might they have on future work)
+- Specific aims of the project, what achieving those aims will result in, and why do these results matter (why are they significant and what impact might they have on future work)
 - Description of your approach in the form of a clear flowchart that contains the following information as it pertains to your project:
     - Raw data → Preprocessing & quality control → Preliminary/exploratory analysis → Analysis/Model-building steps → Expected outcomes.
 - Results from a thorough exploration and sanity checks of data.
