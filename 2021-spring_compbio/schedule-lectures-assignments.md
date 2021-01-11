@@ -1,4 +1,4 @@
-# [CMSE 410/890: Bioinformatics and Computational Biology](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md)
+# [CMSE 410/890: Bioinformatics and Computational Biology](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio)
 
 >Schedule, Lectures, and Assignments  
 >[Website and Communication](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/website-communication.md)  
