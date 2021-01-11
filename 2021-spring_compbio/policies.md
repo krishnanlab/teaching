@@ -1,4 +1,4 @@
-# [CMSE 410/890: Bioinformatics and Computational Biology](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md)
+# [CMSE 410/890: Bioinformatics and Computational Biology](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio)
 
 >[Schedule, Lectures, and Assignments](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md)  
 >[Website and Communication](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/website-communication.md)  
@@ -17,7 +17,7 @@ In service of these goals, below are all the policies we will follow. If you hav
 ## Class Presence
 First, if you sincerely engage with the class and put in earnest effort, you will do well. Your can do so by:
 - Completing any pre-class readings.
-- Showing up to the online class on time and stay for the whole hour.
+- Showing up to the online class on time and staying for the whole hour.
 - Responding to prompts from Arjun that punctuate the lectures: questions, polls, etc.
 - Asking questions about computational or biological concepts (because no one will have the perfect background).
 - Working in groups during in-class discussion sessions.
