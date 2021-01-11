@@ -13,6 +13,7 @@ Welcome to the Spring 2021 edition of **Bioinformatics and Computational Biology
 
 In this course, students will also learn how to formulate problems for quantitative inquiry, design computational projects, think critically about data & methods, do reproducible research, and communicate findings.
 
+This website contains up-to-date information about everything related to this class. The [class Slack workspace](https://compbio2021.slack.com/) will be the space for all live announcements and discussions. If you're enrolled, an invitation should be in your MSU email. If not, email Arjun ASAP.
 
 ## Time and Location
 S/L | Info
