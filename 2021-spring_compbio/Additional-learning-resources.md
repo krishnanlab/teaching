@@ -42,6 +42,7 @@
 * [Think Stats](https://greenteapress.com/wp/think-stats-2e/) (book + code + solutions; for Python programmers).
 * [Points of Significance](https://www.nature.com/collections/qghhqm/pointsofsignificance) - an awesome collection of short articles on a variety of topics in statistical data analysis.
 * [OpenIntro to Probablity and Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os)
+* [A glossary of statistical terms](http://hbiostat.org/doc/glossary.pdf), intended primarily for non-statisticians.
 
 
 ## Biology
