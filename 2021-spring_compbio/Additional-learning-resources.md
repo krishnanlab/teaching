@@ -37,8 +37,9 @@
 
 
 ## Probability and Statisitcs
+* [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/) (book + code + solutions) - Introduction to Probability and Statistics (for R programmers).
+    * Another good book for R programmers: [Learning statistics with R](https://learningstatisticswithr.com/book/) - More introductory (along with how to get started in R, introduction to data manipulation and writing scripts); Covers descriptive statistics and graphing, probability theory, sampling and estimation, and null hypothesis testing. After introducing the theory, the book covers the analysis of contingency tables, t-tests, ANOVAs and regression. Bayesian statistics are covered at the end of the book.
 * [Think Stats](https://greenteapress.com/wp/think-stats-2e/) (book + code + solutions; for Python programmers).
-* [Learning statistics with R](https://learningstatisticswithr.com/book/) (book + code + solutions; for R programmers).
 * [Points of Significance](https://www.nature.com/collections/qghhqm/pointsofsignificance) - an awesome collection of short articles on a variety of topics in statistical data analysis.
 * [OpenIntro to Probablity and Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os)
 
