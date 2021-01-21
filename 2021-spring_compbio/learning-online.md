@@ -28,11 +28,13 @@ Below are more details on how we're going to work through this course online.
 The link to the permanent Zoom meeting will be posted on the [course Slack workspace](https://compbio2021.slack.com/). All of you should have invitations to join this Slack workspace in your MSU email.
 
 ### All Schedules
-A shared google sheet will contain the full schedule for:
-- Paper presentations
-- Midterm/Final project presentations
-- Office hours (appointments)
-Again, the link will be available on Slack.
+I’ve set up the shared google sheets doc that we will use to record and maintain all aspects of our course schedule. The link to this doc is shared on Slack.
+As you will see, this doc contains the following sheets:
+1. **Full Schedule**: High-level course schedule including the project milestone due dates. This is identical to the information on the class website.
+2. **Paper Presentations**: Schedule for student presentations.
+3. **Student Hours**: Student hour appointments for one-on-one chats with me. Please put your name down on the day/time of your choice. Naturally, this will be on a first-come-first-serve basis. We will use this same sheet every week. At the end of each week, I will clear this table and get it ready for the next week.
+4. **Midterm Presentation Discussion**: Schedule for discussions about midterm presentations. This is empty now. I will populate and tell you all more later.
+Final Presentation Discussion: Schedule for discussions about final presentations. This is empty now. I will populate and tell you all more later.
 
 ## 2. Zoom Best Practices
 * Please use a headphone (if you can) so that we can avoid audio feedback.
