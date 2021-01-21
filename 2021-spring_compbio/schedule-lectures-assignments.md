@@ -9,16 +9,25 @@
 
 # Schedule, Lectures, and Assignments
 
-## Calendar
-This calendar contains the class schedule and the links to the lecture slides and reading materials.
+### All Schedules
+All aspects of our course's schedule will be maintained in a living shared google sheet document (link available on Slack). This doc contains the following sheets:
+1. **Full Schedule**: High-level course schedule including the project milestone due dates. This is identical to the information on the class website.
+2. **Paper Presentations**: Schedule for student presentations.
+3. **Student Hours**: Student hour appointments for one-on-one chats with me. Please put your name down on the day/time of your choice. Naturally, this will be on a first-come-first-serve basis. We will use this same sheet every week. At the end of each week, I will clear this table and get it ready for the next week.
+4. **Midterm Presentation Discussion**: Schedule for discussions about midterm presentations. This is empty now. I will populate and tell you all more later.
+Final Presentation Discussion: Schedule for discussions about final presentations. This is empty now. I will populate and tell you all more later.
+
+
+## Class Calendar
+The calendar below contains the class schedule and the links to the lecture slides and reading materials.
 
 | Date | Module | Topic | Notes |
 |:-:|:-|:-|:-|
 | Day_-03 Mon, Jan 11 | Refreshers | Statistics and Probability | _Note:_ Review day |
 | Day_-02 Wed, Jan 13 | Refreshers | Concepts in Computing | _Note:_ Review day |
-| Day_-01 Fri, Jan 15 | Refreshers | [TBD: Other topics] | _Note:_ Review day |
+| Day_-01 Fri, Jan 15 | Refreshers | Programming | _Note:_ Review day |
 | Day_00 Mon, Jan 18 | MLK day; No class | MLK day; No class | _Note:_ MLK day; No class |
-| Day_01 Wed, Jan 20 | Introductions | Course Overview | _Note:_ Online class begins</br></br>\[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| Day_01 Wed, Jan 20 | Introductions | Course Overview | _Note:_ Online class begins</br></br>\[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/Introductions_Course-overview.pdf)] |
 | Day_02 Fri, Jan 22 | Introductions | Intro to Bioinfo & CompBio | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
 | Day_03 Mon, Jan 25 | Sequence Alignment | Dynamic programming; Substitution matrices | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
 | Day_04 Wed, Jan 27 | Sequence Alignment | Fast local alignment |  |
