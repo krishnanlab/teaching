@@ -75,8 +75,8 @@ The calendar below contains the class schedule and the links to the lecture slid
 | Milestone | Due date |
 |:--------- | :---------- |
 | Reserach profile | Fri, Jan 22 |
-| Project topic | Fri, Jan 29 |
-| Project pre-proposal | Fri, Feb 5 |
+| Project topic | ~~Fri, Jan 29~~ Wed, Feb 03 |
+| Project pre-proposal | ~~Fri, Feb 5~~ Wed, Feb 10 |
 | Project proposal | Fri, Feb 19 |
 | Proposal reviews | Fri, Feb 26 |
 | Mid-term project presentation recordings | Wed, Mar 10 |
