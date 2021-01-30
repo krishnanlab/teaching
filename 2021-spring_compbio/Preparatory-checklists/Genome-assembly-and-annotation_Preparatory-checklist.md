@@ -21,7 +21,7 @@ A checklist for self-learning ideas, topics, and definitions that will help you 
 ## Probability & statistics
 - [ ] [What does probability mean?](https://www.openintro.org/go?id=slide_stat_gdocs_defining_probability&referrer=/book/os/index.php)
 - [ ] [What is conditional probability?](https://www.openintro.org/go?id=slide_stat_gdocs_conditional_probability&referrer=/book/os/index.php)
-- [ ] [What are random variables](https://www.openintro.org/go?id=slide_stat_gdocs_random_variables&referrer=/book/os/index.php)
+- [ ] [What are random variables?](https://www.openintro.org/go?id=slide_stat_gdocs_random_variables&referrer=/book/os/index.php)
 
 ## Analytical concepts & techniques
 - [ ] What is a [graph](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics))?
