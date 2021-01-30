@@ -10,7 +10,6 @@ A checklist for self-learning ideas, topics, and definitions that will help you 
 - [ ] What is the [genome](https://en.wikipedia.org/wiki/Genome)? What are [chromosomes](https://en.wikipedia.org/wiki/Chromosome)?
 - [ ] [How do scientists read chromosomes?](https://learn.genetics.utah.edu/content/basics/readchromosomes/)
 - [ ] What is [repetitive DNA](https://en.wikipedia.org/wiki/Repeated_sequence_(DNA))?
-- [ ] What is a [gene](https://en.wikipedia.org/wiki/Gene)?
 - [ ] What is the [structure of a gene](https://en.wikipedia.org/wiki/Gene#Structure)? Read more about the [anatomy of a gene](https://learn.genetics.utah.edu/content/basics/geneanatomy/).
 
 ### Some cool talks
