@@ -69,25 +69,88 @@ The outcomes of this semester-long project should include:
 There are **ten [project milestones](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md#project-milestones)** throughout the course that will help you stay on track, enabling you to complete a substantial project.
 
 #### 1. Research profile | Due: Fri, Jan 22
-Describe your previous research, areas of research interest in bioinformatics / computational-biology, type of project that best fits your interests. Post this description in a profile that lets your classmates know you.
+Complete [this form](https://forms.gle/WaV3SBKGnH6DewBG7) with a write-up of your research profile (three short paragraphs) containing a description the following:
 
-#### 2. Project topics | Due: Fri, Jan 29
-Briefly describe project ideas.  
+1. Your previous research experience:
+    * Include topics/problems you have worked on and the computational skills/tools you have used.
+2. Areas of research interest in bioinformatics / computational biology:
+    * Check out this course's modules and topics (on the class website) for some guidance.
+3. Type of project that best fits your interests
+    * You can pick one among the following – designing new approaches, improving existing methods, comparing & benchmarking multiple methods, developing fully-reproducible documentation & codebase for an existing analysis – or something else.
+
+
+#### 2. Project topics | Due: Wed, Feb 03
+Briefly describe project ideas and submit it using [this form](https://forms.gle/YBCSma7yKR478GYU7).  
+
+You need to provide a:
+1. Project title
+2. Potential project mentor/advisor: The faculty member, graduate student, or postdoc you're going to work with who might advise you on this project.
+3. Abstract (250 words): In your abstract, make sure you include answers to the following four questions: 1) What is the problem? 2) How is it addressed currently & what are the limitations? 3) What is your approach to addressing it & why is likely to be successful?, and 4) If successful, why does it matter (what is the impact)?
+
 NOTE: Meet with Arjun during the week of Jan 24 to introduce yourself and discuss project ideas, potential mentors, and relevant papers.
 
-#### 3. Project pre-proposal | Due: Fri, Feb 05
-Prepare a two-page pre-proposal (Page1: text; Page2: figures & references).
+
+#### 3. Project pre-proposal | Due: Fri, Feb 12
+Prepare a two-page pre-proposal based on the following guidelines and submit it using [this form](https://forms.gle/QYAizbGgSRGSzBkm6).
+
+* Length, page settings:
+    * 2-pages (including figure & references; sections listed below)
+    * 1-inch margins
+* Font specifications:
+    * 1.15 line spacing
+    * Arial, Times New Roman, or Helvetica font
+    * 11pt font size for all text including figure/table titles/legends.
+* Sections:
+    * Page 1:
+        * Title, your name, and your project mentor/advisor’s name.
+        * Write short paragraphs answering the following four questions:
+            1. What is the topic/problem?
+            2. How is it addressed currently & what are the limitations?
+            3. What is your approach to addressing it & why is likely to be successful?
+            4. If successful, why does it matter (what is the impact)?
+    * Page 2:
+        * Graphical abstract:
+            - A graphical illustration that summarizes your project idea. For e.g., something like the ones in these papers: https://www.cell.com/cell-systems/fulltext/S2405-4712(18)30438-1 or https://www.cell.com/cell-systems/fulltext/S2405-4712(18)30509-X. Keep it simple but informative.
+        * References:
+            - short list of papers pertinent to your project that you have read or plan on reading).
+
 
 #### 4. Project proposal | Due: Fri, Feb 19
-Write full proposal.
-- Length: 5-pages (including figures & references; sections listed below); 1-inch margins; 1.15 line spacing; Arial, Times New Roman, or Helvetica font; 11pt font size for all text including figure/table titles/legends.
-- Sections:
-    - *Background, goals, & significance* (what is the problem you are hoping to address; what is the current approach & its limitations; what will you do & why is it likely to succeed; if successful, what is the broader impact)
-    - *Datasets* (what datasets will you use; where are they from; what exactly do they contain; how are they formatted)
-    - *Computational methods/approach* (what are the analytical methods; what are the specific software implementations you'll use; include your flowchart here)
-    - *Evaluation plan* (how will you evaluate the results that you get; think in terms of how to test if a) your approach is working correctly without errors and b) your results make quantitative/biological sense and are meaningful)
-    - *Potential challenges & alternative approaches* (what are some assumptions you are making that can fail; what are some potential limitations of your dataset or approach that might prevent you from achieving your aforementioned goals; what will you do as alternatives if you hit those limitations)
-    - *Specific milestones* (what is the list of specific results/outcomes you will work on getting)
+Write a full project proposal based on the following guidelines and submit it using [this form](https://forms.gle/qJEsxPUvdXnoFzDd9).
+
+* Length, page settings:
+    * 5-pages (including figures & references; sections listed below)
+    * 1-inch margins
+* Font specifications:
+    * 1.15 line spacing
+    * Arial, Times New Roman, or Helvetica font
+    * 11pt font size for all text including figure/table titles/legends.
+* Sections:
+    1. Background, goals, and significance:
+        * What is the problem you are hoping to address?
+        * What is the current approach & its limitations?
+        * What will you do & why is it likely to succeed?
+        * If what you propose is successful, what is the broader impact?
+    2. Datasets:
+        * What datasets will you use?
+        * Where are these data from?
+        * What exactly do these data contain?
+        * How are the data formatted?
+    3. Computational methods/approach:
+        * What are the analytical methods you will develop/use?
+        * What are the specific software implementations you'll use?
+        * Include a flowchart of your approach here.
+    4. Evaluation plan:
+        * How will you evaluate the results that you get from the method/software? Think in terms of how to test if a) your approach is working correctly without errors and b) your results make quantitative/biological sense and are meaningful.
+    5. Potential challenges & alternative approaches:
+        * What are some assumptions you are making about the problem and/or the data that may not bear true?
+        * What are some potential limitations of your dataset or approach that might prevent you from achieving the goals you've set for this project?
+        * What will you do as alternatives if your assumptions don't hold or you hit those limitations?
+    6. Specific milestones:
+        * What is the list of specific results/outcomes you will work on getting?
+    7. References:
+        * List the papers that are relevant to your project. Make sure you cite each one of them in the text.
+
 
 #### 5. Proposal reviews | Due: Fri, Feb 26
 Review proposals. Detailed instructions will be provided.
