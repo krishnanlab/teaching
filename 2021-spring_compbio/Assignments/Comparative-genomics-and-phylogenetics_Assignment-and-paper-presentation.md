@@ -1,4 +1,4 @@
-# Comparative genomics | Assignment + Paper presentation
+# Comparative genomics and Phylogenetics | Assignment + Paper presentation
 
 Like I mentioned in one of the first couple of classes, developing usable software goes hand-in-hand with developing novel computational methods. Doing this well requires a mixture of skills across biology, experimental technology, methods/algorithms, and hardware/software engineering. If pulling-off a method+software combo like this once is hard, keeping at it – improving on all these aspects and releasing newer versions across decades – is ever harder.
 
