@@ -20,7 +20,7 @@ Within each cell in this table, record the relevant list of the key advances (bu
 * Algorithmic / methodological: Newer algorithms, computational tricks, novel data structures, numerical approximations, better workflows, etc.
 * Hardware / software: Better hardware-software features such as multithreading/parallelizations, running on clusters/GPUs, memory/space requirements, newer features/functions in the software, newer/more parameters available for the user, etc.
 
-While everyone needs to individually complete this assignment, **all members of a particular group can submit the same PDF containing the completed table**, and then answer the remaining questions.
+While everyone needs to individually complete this assignment, **all members of a particular group can submit the same PDF containing the completed table** (that the whole group worked on), and then answer the remaining questions.
 
 
 ## Presenters
