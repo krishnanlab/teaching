@@ -72,18 +72,18 @@ The calendar below contains the class schedule and the links to the lecture slid
 
 
 ### Project milestones
-| Milestone | Due date |
-|:--------- | :---------- |
-| Reserach profile | Fri, Jan 22 |
-| Project topic | ~~Fri, Jan 29~~ Wed, Feb 03 |
-| Project pre-proposal | ~~Fri, Feb 5~~ Wed, Feb 10 |
-| Project proposal | Fri, Feb 19 |
-| Proposal reviews | Fri, Feb 26 |
-| Mid-term project presentation recordings | Wed, Mar 10 |
-| Mid-course Project presentation reviews | Fri, Mar 12 |
-| Mid-course project report | Fri, Mar 19 |
-| Final project report | Wed, Apr 21 |
-| Final project poster presentations | _Note:_ Diff. day/time \| Thr, Apr 29, 12:45 – 2:45p |
+| Milestone | Due date | Links/Notes |
+|:--------- | :---------- | :---------- |
+| Reserach profile | Fri, Jan 22 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities-grading.md#1-research-profile--due-fri-jan-22)] |
+| Project topic | ~~Fri, Jan 29~~ Wed, Feb 03 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities-grading.md#2-project-topics--due-wed-feb-03)] |
+| Project pre-proposal | ~~Fri, Feb 5~~ Fri, Feb 12 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities-grading.md#3-project-pre-proposal--due-fri-feb-12)] |
+| Project proposal | Fri, Feb 19 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities-grading.md#4-project-proposal--due-fri-feb-19)] |
+| Proposal reviews | Fri, Feb 26 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities-grading.md#5-proposal-reviews--due-fri-feb-26)] |
+| Mid-term project presentation recordings | Wed, Mar 10 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities-grading.md#6-mid-course-project-presentations--due-wed-mar-10)] |
+| Mid-course Project presentation reviews | Fri, Mar 12 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities-grading.md#7-mid-course-project-presentation-reviews--due-fri-mar-12)] |
+| Mid-course project report | Fri, Mar 19 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities-grading.md#8-mid-course-project-report--due-fri-mar-19)] |
+| Final project report | Wed, Apr 21 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities-grading.md#9-final-project-report--due-wed-apr-21)] |
+| Final project poster presentations | _Note:_ Diff. day/time \| Thr, Apr 29, 12:45 – 2:45p | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities-grading.md#10-final-project-poster-presentations--thr-apr-29-1245--245p)] |
 
 
 #### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
