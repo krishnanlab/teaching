@@ -20,7 +20,7 @@ A checklist for self-learning ideas, topics, and definitions that will help you 
 - [ ] [What does probability mean?](https://www.openintro.org/go?id=slide_stat_gdocs_defining_probability&referrer=/book/os/index.php)
 - [ ] [What is conditional probability?](https://www.openintro.org/go?id=slide_stat_gdocs_conditional_probability&referrer=/book/os/index.php)
 - [ ] [What are random variables?](https://www.openintro.org/go?id=slide_stat_gdocs_random_variables&referrer=/book/os/index.php)
-- [ ] What is likelihood?
+- [ ] [What is likelihood?](https://web.stanford.edu/class/bios221/book/Chap-Models.html)
 
 ## Analytical concepts & techniques
 - [ ] What is a sequence alignment and how to do you score it?
