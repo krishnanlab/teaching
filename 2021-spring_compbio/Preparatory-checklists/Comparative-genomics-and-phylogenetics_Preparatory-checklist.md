@@ -4,6 +4,7 @@ A checklist for self-learning ideas, topics, and definitions that will help you 
 
 ## Algorithms & coding
 - [ ] What is the [tree data structure](https://en.wikipedia.org/wiki/Tree_(data_structure))?
+- [ ] What is the [big O notation](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)?
 
 ## Biology
 - [ ] What is the [genome](https://en.wikipedia.org/wiki/Genome)? What are [chromosomes](https://en.wikipedia.org/wiki/Chromosome)?
@@ -19,6 +20,8 @@ A checklist for self-learning ideas, topics, and definitions that will help you 
 - [ ] [What does probability mean?](https://www.openintro.org/go?id=slide_stat_gdocs_defining_probability&referrer=/book/os/index.php)
 - [ ] [What is conditional probability?](https://www.openintro.org/go?id=slide_stat_gdocs_conditional_probability&referrer=/book/os/index.php)
 - [ ] [What are random variables?](https://www.openintro.org/go?id=slide_stat_gdocs_random_variables&referrer=/book/os/index.php)
+- [ ] What is likelihood?
 
 ## Analytical concepts & techniques
 - [ ] What is a sequence alignment and how to do you score it?
+- [ ] What is hierarchical clustering?
