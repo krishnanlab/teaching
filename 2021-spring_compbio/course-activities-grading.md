@@ -152,8 +152,33 @@ Write a full project proposal based on the following guidelines and submit it us
         * List the papers that are relevant to your project. Make sure you cite each one of them in the text.
 
 
-#### 5. Proposal reviews | Due: Fri, Feb 26
-Review proposals. Detailed instructions will be provided.
+#### 5. Proposal reviews | Due: Sat, Feb 27
+Check out the details below. I’m happy to hear any questions/thoughts you have and happy to clarify anything further.  
+Submit your reviews [using this form](https://forms.gle/WWHBiL2hCd7Ypv8B8) by **11:59pm Sat, Feb 27**.
+
+_Reviewer assignments_  
+Your peer-review assignments are in the sheet ‘Proposal Review Assignments’ under the columns ‘Reviewer 1’ & ‘Reviewer 2’ in the shared class schedule Google Sheet. I will be the 3rd reviewer for all proposals. In that same sheet, you will also find a link to the PDFs of all the proposals.
+
+_Reviewer guidelines_  
+_Before_ you dive in, carefully read these [guidelines on writing an effective peer-review](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/writing-an-effective-peer-review.md).
+
+_Review format_ (one per proposal)  
+Organize each review based on the following sections:
+1. Project title & Full name of Investigator
+2. Summary statement: _In your own words_, write a short paragraph of what the project is about (problem/goals), how does the investigator propose to achieve their goals, and what might be the broad significance/impact if those goals are achieved.
+3. Major comments and questions: In this section, write a numbered list of critical comments and questions, in the order of importance (highest to lowest). For each comment/question:
+    * Indicate the part of the proposal you’re referring to (‘Introduction, page 1, paragraph 3’, ‘Figure 2’, ‘Approach, page 3, paragraph 4’, etc.). It is also useful to briefly quote the specific text you’re talking about (within quotation marks).
+    * Justify with clear reasoning as to why this concern is being raised. Within each comment, you’re welcome have nested parts addressing different aspects of the same issue you’re raising.
+    * If your critique is based on (the existence of) another paper, don’t forget to include a citation to that paper right within your comments.
+4. Additional comments and questions: In this section, write a numbered list of comments/questions that are:
+    * Sections/paragraphs/figures that do convey the message but definitely warrant a rewrite or re-rendering for clarity.
+    * Things that would be great to include in the project but not critical.
+    * Additional thoughts on improving the project beyond the scope of the class.
+
+Notes:
+* Make sure you include all three types of comments: stuff that’s good, stuff that’s not working at all, and stuff that is valuable but needs improvement.  
+* Make sure you focus on the science and not just on the writing. You can do this by focusing just on asking yourself if the proposal contains answers to the questions laid out in the 'Project Proposal Instructions' [above](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities-grading.md#4-project-proposal--due-fri-feb-19).
+
 
 #### 6. Mid-course project presentations | Due: Wed, Mar 10
 Use the class time to record your presentation. Make sure to include the following information in your presentation:
