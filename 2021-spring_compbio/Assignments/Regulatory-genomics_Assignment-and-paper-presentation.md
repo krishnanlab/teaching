@@ -19,7 +19,7 @@ The best way to make sure your understanding & calculations are correct is to ch
 ### Part 3 | Reading and preparation for student presentation
 Read this paper on [Practical Strategies for Discovering Regulatory DNA Sequence Motifs](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020036).
 
-No need to submit anything about this in the google form. Instead, read this paper carefully, google keywords & phrases you’re not familiar with or clear about, and bring concrete questions for the in-class discussion on Friday. Contribute one well-thoughtout question/comment – along with your name – in the [this week's discussion google doc](https://docs.google.com/document/d/1d6ayj069hnvNBtVcAMpcQjXVAPakwRIhXp0DmKybfhk/edit?usp=sharing) in your group's section **before class on Friday, Feb 26**.
+No need to submit anything about this in the google form. Instead, read this paper carefully, google keywords & phrases you’re not familiar with or clear about, and bring concrete questions for the in-class discussion on Friday. Contribute one well-thoughtout question/comment – along with your name – in the this week's discussion google doc (lookout for the link on Slack) in your group's section **before class on Friday, Feb 26**.
 
 
 ## Presenters (no need to do/submit the assignment above)
