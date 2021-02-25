@@ -10,7 +10,9 @@ Watch these videos on Expectation-Maximization and see if you can follow along w
 * [How EM works (part2)](https://www.youtube.com/watch?v=iQoXFmbXRJA)
 
 ### Part 2 | Written assignment
-Read this short primer on the EM algorithm that also contains the coin-tossing example that we discussed in class – [What is the expectation maximization algorithm?](https://www.nature.com/articles/nbt1406) – submit the following using [this form](https://forms.gle/SHvRd4FX8fx7aRkg7) **before class on Friday, Feb 26**.
+Complete the exercise below and submit it using [this form](https://forms.gle/SHvRd4FX8fx7aRkg7) **before class on Friday, Feb 26**.
+
+Read this short primer on the EM algorithm that also contains the coin-tossing example that we discussed in class: [What is the expectation maximization algorithm?](https://www.nature.com/articles/nbt1406).
 
 Then, pick a different `theta_a(0)` & `theta_b(0)` (initial guesses of the biases of coins A & B) and write out all the steps for the coin-tossing example for the first _two_ iterations of the algorithm.
 
