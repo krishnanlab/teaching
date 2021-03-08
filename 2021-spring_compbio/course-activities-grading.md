@@ -181,18 +181,24 @@ Notes:
 
 
 #### 6. Mid-course project presentations | Due: Wed, Mar 10
-Use the class time to record your presentation. Make sure to include the following information in your presentation:
-– Broad area, some background, and what problem the project is going to address.
-- Specific aims of the project, what achieving those aims will result in, and why do these results matter (why are they significant and what impact might they have on future work)
-- Description of your approach in the form of a clear flowchart that contains the following information as it pertains to your project:
+Use the class time to prepare and record a video your presentation (maximum of 10 min), and submit a link to the video using [this form](https://forms.gle/cyPXzwF1QzCf6LdW9).
+
+You are encouraged to make a google slides presentation and use those slides to present your project update. You can then use zoom to record your video. Then, you can either upload the mp4 file to YouTube as an unlisted file or to a file sharing service like Google Drive or Dropbox and then provide the link to the video via this form.
+
+Make sure to include the following information in your presentation:
+
+* Broad area, some background, and what problem the project is going to address.
+* Specific aims of the project, what achieving those aims will result in, and why do these results matter (why are they significant and what impact might they have on future work)
+* Description of your approach in the form of a clear flowchart that contains the following information as it pertains to your project:
     - Raw data → Preprocessing & quality control → Preliminary/exploratory analysis → Analysis/Model-building steps → Expected outcomes.
-- Results from a thorough exploration and sanity checks of data.
+* Results from a thorough exploration and sanity checks of data.
     - Tables & plots to showcase various aspects of your datasets/problem.
-- Clear description of your methods and software.
+* Clear description of your methods and software.
     - Usage & I/O format for each.
-- Results from your preliminary analysis
+* Results from your preliminary analysis
     - With simple baselines, samples datasets, and toy examples.
-- As you cover each of the above elements, make sure to mention how you have modified or revised them based on the peer reviews.
+* As you cover each of the above elements, make sure to mention how you have modified or revised them based on the peer reviews.
+
 
 #### 7. Mid-course project presentation reviews | Due: Fri, Mar 12
 Use the class time to review presentations by your peers based on the review assignments and rubrics.  
