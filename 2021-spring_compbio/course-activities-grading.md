@@ -201,15 +201,18 @@ Make sure to include the following information in your presentation:
 
 
 #### 7. Mid-course project presentation reviews | Due: Fri, Mar 12
-Use the class time to review presentations by your peers based on the review assignments and rubrics.  
-NOTE: Meet with Arjun during the week of Mar 14 to discuss project progress, proposal reviews, and revised project plan.
+Use the class time to review presentations by your peers based on the review assignments and rubrics. You can find your review assignment in the "Midterm Presentation Reviews" in the shared class schedule google sheet and submit your reviews – once per review assignment – using [this form](https://forms.gle/83FzzBPS3RhiMujN8).
+
 
 #### 8. Mid-course project report | Due: Fri, Mar 19
-Write and submit mid-course project report.
+This milestone has been cancelled. ~~Write and submit mid-course project report.~~
+NOTE: Meet with Arjun during the week of Mar 14 or Mar 21 to discuss project progress, proposal reviews, and revised project plan.
+
 
 #### 9. Final project report | Due: Wed, Apr 21
 Continue making substantial progress on proposed milestones.  
 Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience.
+
 
 #### 10. Final project poster presentations | Thr, Apr 29, 12:45 – 2:45p
 
