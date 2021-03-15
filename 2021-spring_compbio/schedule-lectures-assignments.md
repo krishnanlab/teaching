@@ -50,7 +50,7 @@ The calendar below contains the class schedule and the links to the lecture slid
 | Day_21 Mon, Mar 08 | CompBio Primers | Presenting data and results | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/CompBio-primers_Kickstarting-a-project.pdf)] |
 | Day_22 Wed, Mar 10 | Mid-course Project Update | Recording presentations |  |
 | Day_23 Fri, Mar 12 | Mid-course Project Update | Project presentation reviews |  |
-| Day_24 Mon, Mar 15 | Functional Genomics | Distance measures; Clustering | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
+| Day_24 Mon, Mar 15 | Functional Genomics | Similarity measures; Clustering | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/Functional-genomics_Similarity-measures-Clustering.pdf)] |
 | Day_25 Wed, Mar 17 | Functional Genomics | Differential expression; Functional enrichment |  |
 | Day_26 Fri, Mar 19 | Functional Genomics | Paper discussion | A module map showing conditional activity of expression modules in cancer \[[Journal](https://www.nature.com/articles/ng1434)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Papers/Segal2004_cancer-module-map.pdf)] |
 | Day_27 Mon, Mar 22 | Single-cell Genomics | Dimensionality reduction | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/Lectures/)] |
