@@ -1,4 +1,4 @@
-# Functional genomics | Assignment + Paper presentation
+# Single cell genomics | Assignment + Paper presentation
 
 This week’s assignment and paper presentation are based on this paper:
 The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells
@@ -8,7 +8,7 @@ Links to PDFs are available on the [class calendar](https://github.com/krishnanl
 
 
 ## Students doing the assignment (aka not presenting)
-Read the main paper – paying close attention to the methods on Pages 7–9 – and submit your answers to the following questions as a single PDF using [this form](https://forms.gle/WgFm63oQqnoPHtv97) **before class on Friday, March 26**.
+Read the main paper – paying close attention to the methods on Pages 7–9 – and submit your answers to the following questions as a single PDF using [this form](https://forms.gle/2h7njkWrvUumzqjt8) **before class on Friday, March 26**.
 
 1. What is the minimum spanning tree (MST) and how is it used in Monocle?
 2. Independent Component Analysis (ICA) is used for dimensionality reduction instead of PCA. What is ICA and how is it different from PCA?
