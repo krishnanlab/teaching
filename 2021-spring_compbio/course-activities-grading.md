@@ -213,11 +213,12 @@ NOTE: Meet with Arjun during the week of Mar 14 or Mar 21 to discuss project pro
 Continue making substantial progress on proposed milestones.  
 Complete milestones, finalize results, figures, and write-up ~~in conference publication format. As part of the report, comment on your overall project experience.~~
 
-This year, instead of a full-fledged report, I am asking you to complete the following questionnaire _AS SPECIFICALLY AND DETAILED AS POSSIBLE_ based on the guidelines below and submit it using [this form](LINK).
+This year, instead of a full-fledged report, I am asking you to complete the following questionnaire _AS SPECIFICALLY AND DETAILED AS POSSIBLE_ based on the guidelines below and submit it using [this form](https://forms.gle/nfjQv2VDsbi9CrUbA).
 
 * Length, page settings:
     * 8–10 pages (including figures & references; sections listed below)
     * 1-inch margins
+    * Not included in the 10-page limit: project Glossary attached as additional pages.
 * Font specifications:
     * 1.15 line spacing
     * Arial, Times New Roman, or Helvetica font
@@ -259,7 +260,7 @@ This year, instead of a full-fledged report, I am asking you to complete the fol
     7. References:
         * List the papers that you read for this project. Make sure you cite each one of them in the text.
 
-To the end of this report, attach your project Glossary (what you were compiling throughout this semester; not included in the 10-page limit).
+To the end of this report (not included in the 10-page limit), attach your project Glossary (what you were compiling throughout this semester) as additional pages.
 
 
 #### 10. Final project poster presentations | Thr, Apr 29, 12:45 – 2:45p
