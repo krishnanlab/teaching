@@ -211,7 +211,55 @@ NOTE: Meet with Arjun during the week of Mar 14 or Mar 21 to discuss project pro
 
 #### 9. Final project report | Due: Wed, Apr 21
 Continue making substantial progress on proposed milestones.  
-Complete milestones, finalize results, figures, write-up in conference publication format. As part of the report, comment on your overall project experience.
+Complete milestones, finalize results, figures, and write-up ~~in conference publication format. As part of the report, comment on your overall project experience.~~
+
+This year, instead of a full-fledged report, I am asking you to complete the following questionnaire _AS SPECIFICALLY AND DETAILED AS POSSIBLE_ based on the guidelines below and submit it using [this form](LINK).
+
+* Length, page settings:
+    * 8–10 pages (including figures & references; sections listed below)
+    * 1-inch margins
+* Font specifications:
+    * 1.15 line spacing
+    * Arial, Times New Roman, or Helvetica font
+    * 11pt font size for all text including figure/table titles/legends.
+* Sections:
+    1. Problem and goals:
+        * What is the broad problem you set out to work on at the beginning of the project?
+        * What were the conceptual/technical motivations for choosing this problem?
+        * Did the scope of the problem or the specific goals of the project evolve over the course of the semester? If so, how and why? Describe these in terms of three time-points: the beginning of the semester, mid-term, and now close to the end.
+    2. Datasets:
+        * What datasets did you plan to use at the beginning of the project and where were they supposed to be from (i.e., data sources)?
+        * Where you able to obtain the datasets you wanted? If so, did they contain the data you wanted in the format you wanted? If not, why?
+        * Did you have to change your data plan from the time you gave the mid-term presentation (e.g., needing to find more data or different data)? Why?
+    3. Computational methods/approach:
+        * Include a flowchart of the approach you originally proposed. This could be the one you used in your proposal or mid-term presentation.
+        * Describe briefly the analysis plan you had (the one you included in your mid-term presentation)?
+        * Describe in the form of a _**series of steps**_ what you tried from mid-term until now. You can refer to each as Step 1, Step 2, etc.
+            - For each step, describe: i) what you set out to do, ii) how you went about doing it, and ii) what was the outcome and what did you learn.
+            - For each step, you are welcome to include figures, tables, etc., to illustrate your point.
+    4. Summary of one or more key findings and take homes:
+        * Present the key technical/conceptual findings from your project that you were able to obtain.
+            - A key finding is something about a particular aspect of your project – the biological problem, data, conceptual idea, computational approach, software, etc – that brought out something new and/or interesting and helped you learn something new.
+            - Remember: Key findings can and should inlcude both 'positive' and 'negative' results/outcomes.
+        * For each finding:
+            - Write a descriptive sub-heading.
+            - Include a figure, table, or something else that demonstrates the main point.
+            - Write a description of: i) what is being shown, ii) what are the major observations, and iii) what are the main take homes.
+        * As the last key findging in this section, include "Code and data availability":
+            - Here, briefly describe where your code and data are available.
+            - Provide a link to your GitHub repo that contains your well-documented code.
+            - Describe how successful you where in getting to a place where you have a full repo that you or someone else can use to reproduce your work.
+    5. Challenges:
+        * Where you able to get the specific results/outcomes you set out to get at the beginning of the semester? Comment about specific milestones.
+        * What were some key technical/conceptual challegnes you faced when working on this project?
+        * What were some practical challenges you faced when working on this project?
+    6. Reflection and future directions:
+        * If you were to start this project afresh from scratch, what would you do differently?
+        * What are some directions to extend your work in the future?
+    7. References:
+        * List the papers that you read for this project. Make sure you cite each one of them in the text.
+
+To the end of this report, attach your project Glossary (what you were compiling throughout this semester; not included in the 10-page limit).
 
 
 #### 10. Final project poster presentations | Thr, Apr 29, 12:45 – 2:45p
