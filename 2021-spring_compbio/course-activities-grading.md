@@ -224,46 +224,49 @@ This year, instead of a full-fledged report, I am asking you to complete the fol
     * Arial, Times New Roman, or Helvetica font
     * 11pt font size for all text including figure/table titles/legends.
 * Sections:
-    1. Problem and goals:
+    1. **Problem and goals**
         * What is the broad problem you set out to work on at the beginning of the project?
         * What were the conceptual/technical motivations for choosing this problem?
         * Did the scope of the problem or the specific goals of the project evolve over the course of the semester? If so, how and why? Describe these in terms of three time-points: the beginning of the semester, mid-term, and now close to the end.
-    2. Datasets:
-        * What datasets did you plan to use at the beginning of the project and where were they supposed to be from (i.e., data sources)?
+    2. **Datasets**
+        * What datasets did you plan to use at the beginning of the project and where were they supposed to be from (i.e., data sources)? Use figures and/or tables in this description to succinctly describe the content/format of the data.
         * Where you able to obtain the datasets you wanted? If so, did they contain the data you wanted in the format you wanted? If not, why?
         * Did you have to change your data plan from the time you gave the mid-term presentation (e.g., needing to find more data or different data)? Why?
-    3. Computational methods/approach:
+    3. **Computational approach**
+        * This section and the next one (Sections 3 and 4) should form the bulk of your report.
         * Include a flowchart of the approach you originally proposed. This could be the one you used in your proposal or mid-term presentation.
         * Describe briefly the analysis plan you had (the one you included in your mid-term presentation)?
         * Describe in the form of a _**series of steps**_ what you tried from mid-term until now. You can refer to each as Step 1, Step 2, etc.
-            - For each step, describe: i) what you set out to do, ii) how you went about doing it, and ii) what was the outcome and what did you learn.
+            - For each step, describe: i) what you set out to do, ii) how you went about doing it, and iii) what was the outcome, and iv) what did you learn.
             - For each step, you are welcome to include figures, tables, etc., to illustrate your point.
-    4. Summary of one or more key findings and take homes:
-        * Present the key technical/conceptual findings from your project that you were able to obtain.
+    4. **Summary of key findings and take homes**
+        * Present the key technical/scientific findings from your project that you were able to obtain.
             - A key finding is something about a particular aspect of your project – the biological problem, data, conceptual idea, computational approach, software, etc – that brought out something new and/or interesting and helped you learn something new.
-            - Remember: Key findings can and should inlcude both 'positive' and 'negative' results/outcomes.
+            - Remember: Key findings can and should inlcude both 'positive' and 'negative' results/outcomes as long as they were insightful in some way.
         * For each finding:
             - Write a descriptive sub-heading.
-            - Include a figure, table, or something else that demonstrates the main point.
+            - Include a figure or table (or something else) that demonstrates the main point.
             - Write a description of: i) what is being shown, ii) what are the major observations, and iii) what are the main take homes.
-        * As the last key findging in this section, include "Code and data availability":
+        * At the end of this section, as the last key findging, include "Code and data availability":
             - Here, briefly describe where your code and data are available.
             - Provide a link to your GitHub repo that contains your well-documented code.
             - Describe how successful you where in getting to a place where you have a full repo that you or someone else can use to reproduce your work.
-    5. Challenges:
+    5. **Challenges**
         * Where you able to get the specific results/outcomes you set out to get at the beginning of the semester? Comment about specific milestones.
-        * What were some key technical/conceptual challegnes you faced when working on this project?
+        * What were some key technical/scientific challegnes you faced when working on this project?
         * What were some practical challenges you faced when working on this project?
-    6. Reflection and future directions:
-        * If you were to start this project afresh from scratch, what would you do differently?
+    6. **Reflection and future directions**
+        * If you were to start this project afresh from scratch, what would you do differently in terms of the i) problem, ii) data, iii) approach, and iv) code?
         * What are some directions to extend your work in the future?
-    7. References:
-        * List the papers that you read for this project. Make sure you cite each one of them in the text.
+    7. **Acknowledgements**
+        * Here, mention the full names of everyone who helped with your project at different stages and describe their speicfic contribution. Include mentors, classmates, friends, colleagues, or anyone who helped you make progress in even a small way.
+    8. **References**
+        * List the papers and online resources that you read for this project. Make sure you cite each one of them in the text in appropriate locations.
 
 To the end of this report (not included in the 10-page limit), attach your project Glossary (what you were compiling throughout this semester) as additional pages.
 
 
-#### 10. Final project poster presentations | Thr, Apr 29, 12:45 – 2:45p
+#### 10. Final project ~~poster~~ presentations | Thr, Apr 29, 12:45 – 2:45p
 
 
 #### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
