@@ -267,6 +267,37 @@ To the end of this report (not included in the 10-page limit), attach your proje
 
 
 #### 10. Final project ~~poster~~ presentations | Thr, Apr 29, 12:45 – 2:45p
+You will be presenting a short talk about your project on this day.
+
+Make your presentation using Google Slides and, before **Noon Thr, Apr 29**, submit the following using [this form](https://forms.gle/HFXAot5iQDow8Zr47):
+1. A link to the slides. NOTE: Please make sure the slides can be viewed by anyone with the link.
+2. A PDF of the slides.
+
+Here's are the guidelines for preparing your presentation:
+
+**Duration**  
+You will have 10 minutes to present your slides _and_ take questions. So, you should plan to present for about 6–7 min and allow 3–4 min for Q&A. Since the duration of the finals is short and fixed, these allotted times will be followed _strictly_. Therefore, I suggest practicing your talk.
+
+**Content**  
+1. Title slide (1 slide)
+    * Include the title of your project along with your full name and affiliation (degree/program/department/etc.).
+2. Problem and goals (1 slide)
+    * What is the problem you are tackling? Why is it important? What goals did you want to achieve?
+3. Key findings (1 or more slides)
+    * One or more key technical/scientific findings.
+        - As I described before, a key finding is something about a particular aspect of your project – the biological problem, data, conceptual idea, computational approach, software, etc – that brought out something new and/or interesting and _helped you learn something new_.
+        - Remember that key finding can and should inlcude both _positive_ and _negative_ results/outcomes as long as they were insightful in some way.
+    * For each key finding (one per slide), include a figure or table (or something else) that demonstrates the main point, describe the approach you took to get this result/outcome, and what are the major observations/take-homes.
+4. Biological/computational concepts and computational skills learned through this project
+    * Include a bullet list of some new things you learned on the biology and computational side. These could be concepts, skills, etc.
+5. Reflections
+    * If you were to start this project afresh from scratch, what would you do differently in terms of the i) problem, ii) data, iii) approach, and iv) code?
+6. Acknowledgements
+    * Here, mention the full names of everyone who helped with your project at different stages and describe their speicfic contribution. Include mentors, classmates, friends, colleagues, or anyone who helped you make progress in even a small way.
+
+NOTE:
+1. Especially during your presentation – and preferably throughout the final exam hour – I would like you to have your video on if possible.
+2. All your presentations will be recorded for evaluation purposes.
 
 
 #### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
