@@ -1,5 +1,5 @@
 # [Gaps, Missteps, and Errors in Data Analysis](https://github.com/krishnanlab/teaching/edit/master/2021-fall_statgaps)
->2021 | CMSE 890-310 | BMB 961-301
+CMSE 890-310 | BMB 961-301
 
 >[Home, Schedule](https://github.com/krishnanlab/teaching/edit/master/2021-fall_statgaps/README.md)  
 >[Website and Communication](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/website-communication.md)  
@@ -66,117 +66,14 @@ Day 09 | Dec 06 (M) | Challenges in data presentation & visualization, Communica
 Day 10 | Dec 08 (W) | Data management, Code management, Reproducible research \| Roundup | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Lectures/)
 
 ### Hours for Offline Discussion
-Tue 9–10a and Fri 10–11a
+TBD
 
 I will block these times from my schedule and be present on zoom.
 
 Couple of things to note:
-1. While I'm happy to chat with you in person, many times, just sending me a message on Slack with your questions/concerns might work as well. So, if you have specific Qs in mind, just shoot me a message and let's see if we can resolve it then and there.
-2. If you would indeed like to meet in person, please try to meet me during this time. But, don't worry if you can't make it during this window for some reason. Again, just send me a message on Slack and we'll find a time that works for both of us.
+1. While I'm happy to chat with you, many times, just sending me a message on Slack with your questions/concerns might work as well. So, if you have specific Qs in mind, just shoot me a message and let's see if we can resolve it then and there.
+2. If you would indeed like to meet, please try to meet me during this time. But, don't worry if you can't make it during this window for some reason. Again, just send me a message on Slack and we'll find a time that works for both of us.
 
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/README.md#aps-missteps-and-errors-in-data-analysis) ]
-
-
-## Website and Communication
-
-### Course Website
-This [GitHub repo](https://github.com/krishnanlab/teaching/tree/master/2021-fall_statgaps) will serve as the course website.  
-
-### Communication
-The primary mode of communication in this course (including major announcements), will be the course Slack account (TBA). All of you should have invitations to join this account in your MSU email.  
-
-**Emails**  
-Although the bulk of the communication will take place via Slack, at times (rarely), we will send out important course information via email. This email is sent to your MSU email address (the one that ends in “@msu.edu”). You are responsible for all information sent out to your University email account, and for checking this account on a regular basis.
-
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/README.md#gaps-missteps-and-errors-in-data-analysis) ]
-
-
-## Course Activities
-
-### Assignments
-For each topic, you will be assigned reading materials and, occassionaly, a coding assignment. The links to these materials will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/tree/master/2021-fall_statgaps/README.md#calendar) and instructions will be provided on Slack.
-
-Each completed assignment is due _before_ the next class.
-
-### Class Participation
-In general:
-- Do the assignments and additional readings.
-- Show up to class.
-- Work in groups during in-class discussion sessions.
-- No one will have the perfect background: **Ask questions** about statistical or programming concepts.
-- Contribute to the materials in-class and on slack.
-- Correct me when I am wrong.
-
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/README.md#gaps-missteps-and-errors-in-data-analysis) ]
-
-
-## Grading Information
-Activity | Percentage
-:----- | ---------:
-Assignments | 40%
-Class participation | 60%
-
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/README.md#gaps-missteps-and-errors-in-data-analysis) ]
-
-
-## Attendance, Conduct, Honesty, and Accommodations
-
-### Class Attendance
-This class is heavily based on material presented and worked on in class, and it is critical that you attend and participate fully every week! Therefore, class attendance is absolutely required. Arriving late, leaving early, or not showing-up for a whole class without prior arrangement with the instructor counts as an unexcused absence. Note that if you have a legitimate reason to miss class (such as job, graduate school, or medical school interviews), you must arrange this ahead of time to be excused from class. More than two unexcused absences will impact your grade at the discretion of the course instructor.
-
-### Code of Conduct
-All conduct should serve the singular goal of sustaining a inclusive, supportive, and friendly environment where we can do our best work and have a great time doing it.
-* Do work that you’re proud of, from the smallest piece of writing/code to the final exams.
-* Be supportive of your classmates; respect each others' strengths, weaknesses, differences, and beliefs.
-* Communicate openly & respectfully with everyone in the class.
-* Ask for help; at the same time, respect and appreciate others' time and effort.
-
-Respectful and responsible behavior is expected at all times, which includes not interrupting other students, turning your cell phone off, refraining from non-course-related use of electronic devices, and not using offensive or demeaning language in our discussions. Flagrant or repeated violations of this expectation may result in ejection from the classroom, grade-related penalties, and/or involvement of the university Ombudsperson.
-
-I am unequivocally dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We will not tolerate harassment of colleagues in any form. Behaviors that could be considered discriminatory or harassing, or unwanted sexual attention, will not be tolerated and will be immediately reported to the appropriate MSU office (which may include the MSU Police Department).
-
-### Academic Honesty
-Intellectual integrity is the foundation of the scientific enterprise. In all instances, you must do your own work and give proper credit to all sources that you use in your papers and oral presentations – any instance of submitting another person's work, ideas, or wording as your own counts as plagiarism. This includes failing to cite any direct quotations in your essays, research paper, class debate, or written presentation. The MSU College of Natural Science adheres to the policies of academic honesty as specified in the General Student Regulations 1.0, Protection of Scholarship and Grades, and in the all-University statement on Integrity of Scholarship and Grades, which are included in Spartan Life: Student Handbook and Resource Guide. Students who plagiarize will receive a 0.0 in the course. In addition, University policy requires that any cheating offense, regardless of the magnitude of the infraction or punishment decided upon by the professor, be reported immediately to the dean of the student's college.
-
-It is important to note that **plagiarism in the context of this course includes, but is not limited to**, directly copying another student's solutions to in-class or homework problems; copying materials from online sources, textbooks, or other reference materials without citing those references in your source code or documentation, or having somebody else do your pre-class work, in-class work, or homework on your behalf. Any work that is done in collaboration with other students should state this explicitly, and have their names as well as yours listed clearly.
-
-More broadly, we ask that students adhere to the Spartan Code of Honor academic pledge, as written by the Associated Students of Michigan State University (ASMSU): "As a Spartan, I will strive to uphold values of the highest ethical standard. I will practice honesty in my work, foster honesty in my peers, and take pride in knowing that honor is worth more than grades. I will carry these values beyond my time as a student at Michigan State University, continuing the endeavor to build personal integrity in all that I do."
-
-### Accomodations
-If you have a university-documented learning difficulty or require other accommodations, please provide me with your VISA as soon as possible and speak with me about how I can assist you in your learning. If you do not have a VISA but have been documented with a learning difficulty or other problems for which you may still require accommodation, please contact MSU’s Resource Center for People with Disabilities (355-9642) in order to acquire current documentation.  
-Nevertheless, please come and talk to me. You are welcome in this class and I will do everything I can to accommodate your specific needs.
-
-\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/README.md#gaps-missteps-and-errors-in-data-analysis) ]
-
-
-## Frequently Asked Questions
-**1. Why was this course developed? Will this course teach me concepts in statistics?**  
-There are already plenty of existing courses at MSU that teach introductory, intermediate, and advanced statistics. (You can go to [Course Descriptions](https://reg.msu.edu/Courses/Search.aspx) and search using "statistics" under Keyword Search to get the full list.) You can also find a few recommended free online resources [here](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/preparatory-materials.md). Teaching statistics will be left to these courses and it will be assumed that you have taken one of these courses (or something equivalent) to learn (≥ introductory) statistics in a traditional manner (which is important without a doubt!).
-
-*StatGaps* is a non-traditional course that is aimed at discussing what happens – issues that crop-up and nuances that become germane – when the ideas from the traditional courses are applied to actual research, messy data, and real-world problems.
-
-**2. Why is coding (in languages like R or Python) a pre-requisite for this course?**  
-The goal of this course is to create opportunities for developing a strong intuition behind many concepts in statistical data analysis, which will take precendence to, motivate, and solidify the related formulae and terminologies. Now, short of starting with a question and mathematically *deriving* the concepts/formulae, whenever possible, this *StatGaps* course takes the approach of using programming to implement statistical ideas on real/simulated data and observe the results to build an intuition behind various concepts.
-
-**3. What are some specific coding skills I would need for this class?**  
-In this class, you will be writing code to read-in datasets, wrangle them into a convenient format, calling some common statistical functions from standard packages/libraries, implementing some simulations/tests (which will involve random number generation and writing for/while loops), and making plots (scatterplot, histograms, boxplots, etc.).
-This means knowing the following depending on your language of choice:  
-- **R**: tidyverse (readr, dplyr, ggplot2), calculating summary statistics (e.g. mean/median, std-deviation/variance, correlation), generating random numbers (e.g. `runif`, `rnorm`), and writing `for` & `while` loops.
-- **Python**: pandas (data wrangling), seaborne (data visualization), numpy for calculating summary statistics (e.g. mean/median, std-deviation/variance, correlation) and generating random numbers, and writing `for` & `while` loops.
-
-You can find a few recommended free online resources for learning these skills [here](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/preparatory-materials.md).
-
-**4. Can this course be taken remotely?**  
-Yes! This class will be streamed live via a Zoom link. Details will be available via the class Slack account.
-
-**5. I'm a postdoc and I would like to just attend the class to learn for myself - no need for credits or anything. Is that possible?**  
-Yes! To provide some context: this short course is part of an extensive [Bioinformatics education program](https://cmse.msu.edu/academics/bioinformatics-program/) we run out of [CMSE](https://cmse.msu.edu). Postdocs (or any MSU-affiliates who are not registered students) can audit any of these Bioinformatics modules for a small fee. With this StatGaps course, however, since I’m still experimenting with it, especially in terms of taking it to a large scale, I’m open to having postdocs, research/staff scientists, and faculty-members *audit this course for free*. The only things I ask in return is your active engagement with the class and its materials along with providing constructive feedback.  
-
-**6. Are there going to be exams?**  
-No! Just assignments.
-
-**6. Will this short course be converted into a regular semester-long course in the future?**  
-May be. There is a lot of benefit for keeping an essential course like this short and crisp. If you are interested in chatting about this and/or helping with developing this course further, do get in touch!
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/README.md#gaps-missteps-and-errors-in-data-analysis) ]
 
