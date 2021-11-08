@@ -2,10 +2,9 @@
 CMSE 890-310 | BMB 961-301
 
 >[Home, Schedule](https://github.com/krishnanlab/teaching/edit/master/2021-fall_statgaps/README.md)  
->[Website and Communication](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/website-communication.md)  
->[Course Activities and Grading](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities-grading.md)  
->[Presence, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/policies.md)  
->[Learning Online](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/learning-online.md)  
+>[Website and Communication](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/website-communication.md)  
+>[Course Activities and Grading](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/course-activities-grading.md)  
+>[Philosophy, Presence, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/policies.md)  
 >[Frequently Asked Questions](https://github.com/krishnanlab/teaching/tree/master/2021-fall_statgaps/frequently-asked-questions.md)
 
 
@@ -25,14 +24,10 @@ To get the most out of this course, it would be ideal if you have:
 1) Familiarity with introductory statistics and probability, and
 2) Basic experience with data wrangling, analysis, and visualization using R or Python.
 
-Please check out the [Frequently Asked Questions](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/frequently-asked-questions.md) to see the thinking behind these two prerequisites.
+Please check out the [Frequently Asked Questions](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/frequently-asked-questions.md) to see the thinking behind these two prerequisites, staistics course suggestions, and pointers to free online preparatory materials.
 
 Check out some [recommended online preparatory materials](https://github.com/krishnanlab/teaching/tree/master/2021-fall_statgaps/preparatory-materials.md) that you can use to refresh these concetps and skills.
 
-#### Course Suggestions
-* For introductory courses in statistics, please checkout a number of good ones offered in STT. Statistics at the level of STT 231 is strongly recommended.
-* If you would like introdocutory courses in programming (in R or Python) and in how to do statistical analysis in R or Python, please ckeckout CMSE 201-202 or CMSE 890 301-304.
-* Some background in introductory biology would also be nice, for instance LB 144 and 145 OR BS 161 and 162 OR BS 181H and 182H, or equivalent. 
 
 
 ## Instructor
