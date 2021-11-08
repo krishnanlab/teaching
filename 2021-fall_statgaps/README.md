@@ -26,9 +26,6 @@ To get the most out of this course, it would be ideal if you have:
 
 Please check out the [Frequently Asked Questions](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/frequently-asked-questions.md) to see the thinking behind these two prerequisites, staistics course suggestions, and pointers to free online preparatory materials.
 
-Check out some [recommended online preparatory materials](https://github.com/krishnanlab/teaching/tree/master/2021-fall_statgaps/preparatory-materials.md) that you can use to refresh these concetps and skills.
-
-
 
 ## Instructor
 Name | Arjun Krishnan
