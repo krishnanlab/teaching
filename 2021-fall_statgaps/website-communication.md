@@ -1,10 +1,12 @@
 # [Gaps, Missteps, and Errors in Data Analysis](https://github.com/krishnanlab/teaching/edit/master/2021-fall_statgaps)
+CMSE 890-310 | BMB 961-301
 
->[Schedule, Lectures, and Assignments](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/schedule-lectures-assignments.md)  
+>[Home, Schedule](https://github.com/krishnanlab/teaching/edit/master/2021-fall_statgaps/README.md)  
 >Website and Communication  
 >[Course Activities and Grading](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/course-activities-grading.md)  
 >[Presence, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/policies.md)  
 >[Learning Online](https://github.com/krishnanlab/teaching/blob/master/2021-spring_compbio/learning-online.md)  
+>[Frequently Asked Questions](https://github.com/krishnanlab/teaching/tree/master/2021-fall_statgaps/frequently-asked-questions.md)
 
 
 # Website and Communication
