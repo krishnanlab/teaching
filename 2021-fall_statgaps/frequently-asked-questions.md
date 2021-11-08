@@ -1,12 +1,39 @@
+# [Gaps, Missteps, and Errors in Data Analysis](https://github.com/krishnanlab/teaching/edit/master/2021-fall_statgaps)
+CMSE 890-310 | BMB 961-301
+
+>[Home, Schedule](https://github.com/krishnanlab/teaching/edit/master/2021-fall_statgaps/README.md)  
+>[Website and Communication](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/website-communication.md)  
+>[Course Activities and Grading](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/course-activities-grading.md)  
+>[Presence, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/policies.md)  
+>[Learning Online](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/learning-online.md)  
+>Frequently Asked Questions
+
+
 # Frequently Asked Questions
 
 ## Why was this course developed?
-As many parts of biological and biomedical research are becoming data-intensive, the typical graduate training in this area involves courses in coding and statistics. In these courses, students learn the array of summary statistics and hypothesis tests available and the functions in R or Python to wrangle data, make plots, calculate various statistics, and perform different tests. However, students face a significant challenge when trying to apply these learnings to novel research questions and new complex datasets. This is because such an application requires them to know: i) what the practical definitions of various concepts and their relationships are, ii) when and why they are applied in certain situations and not others, iii) what is a robust sequence of actions to take when applying them to data, iv) how to judiciously interpret the results, and, finally, v) how to clearly and transparently communicate the findings. Currently, most students learn these ideas only by piecing together a mental model of the “acceptable/standard/best practices” in their field based on bits information from their mentors, peers, and – often – published papers.
+As many parts of biological and biomedical research are becoming data-intensive, the typical graduate training in this area involves courses in coding and statistics. In these courses, students learn the array of summary statistics and hypothesis tests available and the functions in R or Python to wrangle data, make plots, calculate various statistics, and perform different tests. However, students face a significant challenge when trying to apply these learnings to novel research questions and new complex datasets.
 
-Towards addressing this challenge, we developed a short course focused on discussing common misunderstandings and typical errors in the practice of statistical data analysis, and providing a mental toolkit for critically thinking about statistical methods and results. The course covers twelve major topics: i) The scientific method, Critically reading literature, Cognitive biases; ii) Estimation of error and uncertainty; iii) P-value, P-hacking, Publication bias, Multiple hypothesis correction; iv) Statistical power, Effect size, Sample size; v) Pseudoreplication, Confounding variables; vi) Circular analysis, Regression to the mean, Sampling biases; vii) Base rates, Conditional probabilities, Bayesian reasoning, viii) Measuring associations in continuous big data; ix) Issues with high dimensional data, Evaluating predictive models; x) Challenges in data presentation and visualization, Communicating statistics; xi) Principles for effective data management, analysis, and sharing; and xii) Code management and sharing, Reproducible research. The course builds on introductory statistics and coding, and includes several hands-on exercises. We are continuing to improve the course to better train students in skills critical to the day-to-day use and consumption of data analysis.
+This is because such an application requires them to know:  
+1. What the practical definitions of various concepts and their relationships are,  
+2. When and why they are applied in certain situations and not others,  
+3. What is a robust sequence of actions to take when applying them to data,  
+4. How to judiciously interpret the results, and, finally,  
+5. How to clearly and transparently communicate the findings.  
+
+Currently, most students learn these ideas only by piecing together a mental model of the “acceptable/standard/best practices” in their field based on bits information from their mentors, peers, and – often – published papers.
+
+Towards addressing this challenge, I developed this short course focused on discussing common misunderstandings and typical errors in the practice of statistical data analysis, and providing a mental toolkit for critically thinking about statistical methods and results. The course builds on introductory statistics and coding, and includes several hands-on exercises.
+
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/frequently-asked-questions.md#frequently-asked-questions) ]
+
 
 ## Will this course teach me concepts in statistics?
-There are already plenty of existing courses at MSU that teach introductory, intermediate, and advanced statistics. (You can go to [Course Descriptions](https://reg.msu.edu/Courses/Search.aspx) and search using "statistics" under Keyword Search to get the full list.) You can also find a few recommended free online resources [here](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/preparatory-materials.md). Teaching statistics will be left to these courses and it will be assumed that you have taken one of these courses (or something equivalent) to learn (≥ introductory) statistics in a traditional manner (which is important without a doubt!).
+There are already plenty of existing courses at MSU that teach introductory, intermediate, and advanced statistics.
+* You can go to [Course Descriptions](https://reg.msu.edu/Courses/Search.aspx) and search using "statistics" under Keyword Search to get the full list. Statistics at the level of STT 231 is strongly recommended before taking this course.
+* You can find recommended free online resources [here](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/preparatory-materials.md).
+
+Teaching statistics will be left to these courses and it will be assumed that you have taken one of these courses (or something equivalent) to learn (≥ introductory) statistics in a traditional manner (which is important without a doubt!).
 
 This is a non-traditional course that is aimed at discussing what happens – issues that crop-up and nuances that become germane – when the ideas from the traditional courses are applied to actual research, messy data, and real-world problems.
 
@@ -15,6 +42,8 @@ This is a non-traditional course that is aimed at discussing what happens – is
 
 ## Why is coding (in languages like R or Python) a pre-requisite for this course?
 The goal of this course is to create opportunities for developing a strong intuition behind many concepts in statistical data analysis, which will take precendence to, motivate, and solidify the related formulae and terminologies. Now, short of starting with a question and mathematically *deriving* the concepts/formulae, whenever possible, this *StatGaps* course takes the approach of using programming to implement statistical ideas on real/simulated data and observe the results to build an intuition behind various concepts.
+
+If you would like introductory courses in programming (in R or Python) and in how to do statistical analysis in R or Python, please ckeckout CMSE 201-202 or CMSE 890 301-304.
 
 \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/frequently-asked-questions.md#frequently-asked-questions) ]
 
