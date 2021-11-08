@@ -21,5 +21,4 @@ The primary mode of communication in this course (including major announcements)
 **Emails**  
 Although the bulk of the communication will take place via Slack, at times (rarely), we will send out important course information via email. This email is sent to your MSU email address (the one that ends in “@msu.edu”). You are responsible for all information sent out to your University email account, and for checking this account on a regular basis.
 
-#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/README.md#gaps-missteps-and-errors-in-data-analysis) ]
-
+\[ [Top](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/README.md#gaps-missteps-and-errors-in-data-analysis) ]
