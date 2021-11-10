@@ -42,6 +42,7 @@ Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com
 Dates | Nov 08 – Dec 08, 2021
 :------------ | :------------
 Weekly | Mon and Wed</br>3:00-4:50 pm
+Location | Plant & Soil Science Bldg A158
 
 ### Calendar
 Day | Date | Topic | Learning Materials
