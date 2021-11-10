@@ -1,7 +1,7 @@
 # [Gaps, Missteps, and Errors in Data Analysis](https://github.com/krishnanlab/teaching/edit/master/2021-fall_statgaps)
 CMSE 890-310 | BMB 961-301
 
->[Home, Schedule](https://github.com/krishnanlab/teaching/edit/master/2021-fall_statgaps/README.md)  
+>[Home, Schedule](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/README.md)  
 >[Website and Communication](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/website-communication.md)  
 >[Course Activities and Grading](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/course-activities-grading.md)  
 >[Presence, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/policies.md)  
