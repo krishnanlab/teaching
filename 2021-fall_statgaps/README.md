@@ -48,7 +48,7 @@ Location | Plant & Soil Science Bldg A158
 Day | Date | Topic | Learning Materials
 :-------: | :-----------: | :------------------------------- | :------------------------
 Day 01 | Nov 08 (M) | Welcome \| Scientific method, Critically reading literature, Cognitive biases \| Estimation of error & uncertainty | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Lectures/Day-01_Lecture.pdf)</br>[Assignment](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Assignments/Assignment_01.md)
-Day 02 | Nov 10 (W) | P-value, P-hacking, Multiple testing, Publication bias | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Lectures/Day-02_Lecture.pdf) 
+Day 02 | Nov 10 (W) | P-value, P-hacking, Multiple testing, Publication bias | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Lectures/Day-02_Lecture.pdf)</br>[Assignment](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Assignments/Assignment_02.md)
 Day 03 | Nov 15 (M) | Types of inference errors, Statistical power | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Lectures/)</br>[Assignment](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Assignments/)
 Day 04 | Nov 17 (W) | Pseudoreplication, Confounding variables | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Lectures/)</br>[Assignment](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Assignments/)
 Day 05 | Nov 22 (M) | Circular analysis, Regression to the mean, Sampling biases | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Lectures/)
