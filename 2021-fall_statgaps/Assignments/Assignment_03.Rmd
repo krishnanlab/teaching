@@ -1,0 +1,322 @@
+---
+title: "Day03 Assignment"
+output: html_notebook
+---
+
+Submit this notebook back to me via Slack with your comments/annotations on the code and the results, along with your interpretation of the results and answers the questions at the end of each part.
+
+When you submit, make sure your notebook's filename is: `[FirstName]-[LastName]_Assignment-03.Rmd`
+
+
+# Power analysis and power curves
+
+```{r}
+library(tidyverse)
+library(RColorBrewer)
+```
+
+
+## Part 1 -- Calculating power and generating a power curve for detecting unfair coins
+
+The code below implements an experimental design to measure the bias of a given coin:  
+1. Flip the given coin `num_flips` times  
+2. Record the number of heads  
+3. Compare to the null distribution  
+4. Get a `p_value`  
+5. Reject or accept the null based on comparison to `alpha`  
+
+
+```{r}
+num_flips <- 20 # sample size
+alpha <- 0.05 # significance threshold
+```
+
+
+Add your notes here.
+
+
+```{r}
+# Add comments next to each code chunk to describe the data analysis steps
+
+# Setting up the null distribution
+num_permutations <- 10000
+
+fair_num_heads <- {}
+for(x in 1:num_permutations) {
+
+  num_heads <- 0
+  for(i in 1:num_flips) {
+    if(runif(1) <= 0.5) {
+      num_heads <- num_heads + 1
+    }
+  }
+
+  fair_num_heads <- c(fair_num_heads,
+                      num_heads)
+}
+
+hist(fair_num_heads, xlim = c(0, num_flips))
+```
+
+
+Add your notes here.
+
+
+```{r}
+# Add comments next to each code chunk to describe the data analysis steps
+
+# A new coin
+coin_bias <- 0.8 # effect size
+
+# Perform the experiment once to test if this coin is biased
+num_heads <- 0
+for(i in 1:num_flips) {
+  if(runif(1) <= coin_bias) {
+    num_heads <- num_heads + 1 } }
+
+hist(fair_num_heads, xlim = c(0, num_flips))
+abline(v = num_heads, col = "red", lwd = 2)
+cat(num_heads, "heads in", num_flips, "flips\n")
+
+p_value <- sum(abs((num_flips/2) - fair_num_heads) > abs((num_flips/2) - num_heads)) / length(fair_num_heads)
+
+if(p_value < alpha) {
+  cat("P-value is", p_value, "<", alpha, "\nReject the null hypothesis.\nThe coin is biased!")
+} else {
+  cat("P-value is", p_value, "≥", alpha, "\nAccept the null hypothesis.\nThe coin is unbiased!")
+}
+```
+
+
+Add your notes here.
+
+
+```{r}
+# Add comments next to each code chunk to describe the data analysis steps
+
+# Calculate the power of this experiment
+num_null_rejects <- 0
+for(num_experiments in 1:1000) {
+
+  num_heads <- 0
+  for(i in 1:num_flips) {
+    if(runif(1) <= coin_bias) {
+      num_heads <- num_heads + 1 } }
+
+  p_value <- sum(abs((num_flips/2) - fair_num_heads) > abs((num_flips/2) - num_heads)) / length(fair_num_heads)
+  
+  if(p_value < alpha) {
+    num_null_rejects <- num_null_rejects + 1 } }
+
+estimated_power <- (num_null_rejects / 1000)
+cat("The power is", estimated_power, "\n")
+```
+
+
+**Question 1:**  
+Define the power you just obtained in terms of this specific experiment.
+
+Write your answer here.
+
+
+```{r}
+# Add comments next to each code chunk to describe the data analysis steps
+
+# Generate a power curve for this experimental design
+biases <- seq(0, 1, 0.01)
+effectsize_estimatedpower <- {}
+
+for(coin_bias in biases) {
+  num_null_rejects <- 0
+  for(num_experiments in 1:1000) {
+    
+    num_heads <- 0
+    for(i in 1:num_flips) {
+      if(runif(1) <= coin_bias) {
+        num_heads <- num_heads + 1 } }
+    
+    p_value <- sum(abs((num_flips/2) - fair_num_heads) > abs((num_flips/2) - num_heads)) / length(fair_num_heads)
+    
+    if(p_value < alpha) {
+      num_null_rejects <- num_null_rejects + 1 } }
+  
+  estimated_power <- (num_null_rejects / 1000)
+  
+  effectsize_estimatedpower <- rbind(effectsize_estimatedpower,
+                                     c(coin_bias, estimated_power))
+}
+```
+
+
+Add your notes here.
+
+
+```{r}
+# No need to add comments to this chunk that's just making the plot.
+
+effectsize_estimatedpower_df <- tibble("effect_size" = effectsize_estimatedpower[,1],
+                                       "estimated_power" = effectsize_estimatedpower[,2])
+
+effectsize_estimatedpower_df %>%
+  ggplot(aes(x = effect_size,
+             y = estimated_power)) +
+  geom_point() +
+  geom_line() +
+  theme_bw()
+```
+
+
+**Question 2:**  
+What does this power curve tell you?
+
+Write your answer here.
+
+
+## Part 2 -- Generating a multiple power curves for detecting unfair coins
+Here you will be generating multiple power curves to establish the relationship between power, effect size, and sample size. You will notice that much of the code above will be reused to generate the curve like the one above but for various sample sizes.
+
+
+Add your notes here.
+
+
+```{r}
+# Add comments next to each code chunk to describe the data analysis steps
+
+# Setting up the null distribution
+alpha <- 0.05 # significance threshold
+
+num_permutations <- 10000
+flips <- c(5, 10, 50, 100)
+
+samplesize_fairnumheads <- {}
+
+for(num_flips in flips) {
+  
+  fair_num_heads <- {}
+  for(x in 1:num_permutations) {
+    
+    num_heads <- 0
+    for(i in 1:num_flips) {
+      if(runif(1) <= 0.5) {
+        num_heads <- num_heads + 1
+      }
+    }
+    
+    fair_num_heads <- c(fair_num_heads,
+                        num_heads)
+  }
+  
+  samplesize_fairnumheads <- bind_rows(samplesize_fairnumheads,
+                                       tibble("sample_size" = rep(sprintf(fmt = "%03d", num_flips),
+                                                                 num_permutations),
+                                              "fair_numheads" = fair_num_heads))
+}
+```
+
+
+Add your notes here.
+
+
+```{r}
+# No need to add comments to this chunk that's just making the plot.
+
+# Plotting null distributions for each sample size
+samplesize_fairnumheads %>%
+  ggplot(aes(x = fair_numheads, fill = sample_size)) +
+  geom_histogram() +
+  scale_fill_brewer(palette = "Dark2") +
+  facet_wrap(~sample_size, nrow = 1, scales = "free") +
+  theme_bw() +
+  theme(legend.position = "none")
+```
+
+
+**Question 3:**  
+What are your observations on how the null distribution changes with sample size?
+
+Write your answer here.
+
+
+```{r}
+# Add comments next to each code chunk to describe the data analysis steps
+# NOTE: This part might take quite a while to run. Please be patient.
+
+biases <- seq(0, 1, 0.01)
+samplesize_effectsize_estimatedpower <- {}
+
+for(num_flips in flips) {
+  cat(num_flips, "flips\n")
+  
+  fair_num_heads <- samplesize_fairnumheads %>%
+    filter(sample_size == rep(sprintf(fmt = "%03d", num_flips))) %>%
+    pull(fair_numheads)
+  
+  for(coin_bias in biases) {
+    
+    num_null_rejects <- 0
+    for(num_experiments in 1:1000) {
+      
+      num_heads <- 0
+      for(i in 1:num_flips) {
+        if(runif(1) <= coin_bias) {
+          num_heads <- num_heads + 1 } }
+      
+      p_value <- sum(abs((num_flips/2) - fair_num_heads) > abs((num_flips/2) - num_heads)) / length(fair_num_heads)
+      
+      if(p_value < alpha) {
+        num_null_rejects <- num_null_rejects + 1 } }
+    
+    estimated_power <- (num_null_rejects / 1000)
+    
+    samplesize_effectsize_estimatedpower <- rbind(samplesize_effectsize_estimatedpower,
+                                       c(num_flips, coin_bias, estimated_power))
+  }
+}
+```
+
+
+Add your notes here.
+
+
+```{r}
+# No need to add comments to this chunk that's just making the plot.
+
+# Plotting power curves
+tibble("sample_size" = sprintf("%03d", samplesize_effectsize_estimatedpower[,1]),
+       "effect_size" = samplesize_effectsize_estimatedpower[,2],
+       "estimated_power" = samplesize_effectsize_estimatedpower[,3]) %>%
+  ggplot(aes(x = effect_size,
+             y = estimated_power,
+             color = sample_size,
+             shape = sample_size)) +
+  scale_color_brewer(palette = "Dark2") +
+  geom_point() +
+  geom_line() +
+  theme_bw()
+```
+
+
+**Question 4:**  
+What are your interpretations of these curves? Write your thoughts in terms of the dependence of power on both effect size and sample size.
+
+Write your answer here.
+
+
+**Question 5:**  
+Say a national sport organization comes to you and says that they want to design an experiment to detect biased coins so that they can eliminate them and use only unbiased coins for pre-game tosses. How would you use the power analysis/curves above to go about helping them design the experiment? In your description, include questions you would want to know answers to before you can offer them reasonable recommendations in terms of sample size?
+
+Write your answer here.
+
+
+**Question 6:**  
+If you make a specific sample size recommendation, write down what you will convey to organization in terms of error rates (i.e. false positive rate and false negative rate).
+
+Write your answer here.
+
+
+**Question 7:**  
+Which parts of your reasoning and recommendations change if they say that they cannot tolerate more than 1 biased coin for every 100 coins they end up using?
+(Hint: This means changing alpha from 0.05 to 0.01. Makes sense?)
+
+Write your answer here.
+
