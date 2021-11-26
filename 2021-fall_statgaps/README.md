@@ -17,7 +17,6 @@ Classes will involve lectures, discussions, hands-on exercises, and homework abo
 
 **Note**  
 Open to both undergraduate and graduate students for credit. Counts toward DS Major, CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu if you need an override.  
-Postdocs, staff scientists/specialists, and faculty members are welcome to sit-in. (Please fill-out the [sign-up form](bit.ly/statgaps2021_signup).)
 
 ### Prerequisites
 To get the most out of this course, it would be ideal if you have:
