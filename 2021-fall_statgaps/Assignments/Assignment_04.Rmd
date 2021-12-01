@@ -1,0 +1,67 @@
+---
+title: "Assignment 04"
+output: html_notebook
+---
+
+# Simulating the distribution of correlation coefficients
+
+```{r}
+library(tidyverse)
+```
+
+## Correlation coefficients and "significant" correlation at sample size 10
+
+```{r}
+nsamples <- 10
+cor_coeff <- sapply(1:10000,
+                    function(i) {
+                      x <- runif(nsamples)
+                      y <- runif(nsamples)
+                      cor(x, y) } )
+```
+
+
+```{r}
+hist(cor_coeff)
+abline(v = quantile(cor_coeff, 0.95), lwd = 2)
+```
+
+
+## Correlation coefficients and "significant" correlation at various sample sizes
+
+```{r}
+null_cor_coeff <- {}
+
+for(nsamples in c(5, 10, 20, 50, 100)) {
+  cor_coeff <- sapply(1:10000,
+                      function(i) {
+                        x <- runif(nsamples)
+                        y <- runif(nsamples)
+                        cor(x, y) } )
+  null_cor_coeff <- rbind(null_cor_coeff,
+                          cbind(rep(nsamples, 10000),
+                                cor_coeff))
+}
+
+colnames(null_cor_coeff) <- c('nsamples', 'cor_coeff')
+null_cor_coeff <- as.tibble(null_cor_coeff)
+```
+
+
+```{r}
+null_cor_coeff_thresh <- null_cor_coeff %>%
+  group_by(nsamples) %>%
+  summarize(thresh = quantile(cor_coeff, 0.95))
+```
+
+
+```{r}
+null_cor_coeff %>%
+  ggplot(aes(x = cor_coeff, fill = as.factor(nsamples))) +
+  geom_histogram(color = "white") +
+  facet_wrap(~nsamples, ncol = 1, scales = "free_y") +
+  geom_vline(data = null_cor_coeff_thresh, aes(xintercept = thresh), size = 1) +
+  theme_bw() +
+  theme(legend.position = "none")
+```
+
