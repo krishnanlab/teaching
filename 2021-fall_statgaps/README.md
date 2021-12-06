@@ -54,7 +54,7 @@ Day 05 | Nov 22 (M) | Circular analysis, Regression to the mean, Sampling biases
 Day 06 | Nov 24 (W) | Base rates, Conditional probabilities, Bayesian reasoning | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Lectures/Day-06_Lecture.pdf)
 Day 07 | Nov 29 (M) | Measuring association between continuous variables | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Lectures/Day-07_Lecture.pdf)</br>[Assignment](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Assignments/Assignment_04.md)
 Day 08 | Dec 01 (W) | High dimensional data issues, Machine learning pitfalls | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Lectures/)
-Day 09 | Dec 06 (M) | Challenges in data presentation & visualization, Communicating statistics | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Lectures/)
+Day 09 | Dec 06 (M) | Challenges in data presentation & visualization, Communicating statistics | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Lectures/Day-09_Lecture.pdf)
 Day 10 | Dec 08 (W) | Data management, Code management, Reproducible research \| Roundup | [Lecture](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/Lectures/)
 
 ### Hours for Offline Discussion
