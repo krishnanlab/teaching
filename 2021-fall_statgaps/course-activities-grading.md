@@ -10,13 +10,13 @@ CMSE 890-310 | BMB 961-301
 
 # Course Activities and Grading
 
-### Assignments
+## Assignments
 For each topic, you will be assigned reading materials and, occassionaly, a coding assignment. The links to these materials will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/blob/master/2021-fall_statgaps/README.md#calendar) and instructions will be provided on Slack.
 
 Each completed assignment is due _before_ the next class.
 
 
-### Class Participation
+## Class Participation
 In general:
 - Do the assignments and additional readings.
 - Show up to class.
