@@ -93,7 +93,7 @@ Finally, I urge you to take advantage of many resources available on campus to s
 \[ [Top](https://github.com/krishnanlab/teaching/edit/master/2021-fall_statgaps/policies.md#philosophy-presence-conduct-honesty-and-accommodations) ]
 
 
-# Pandemic
+## Pandemic
 First, congratulations on surviving 2020 and 2021! I'm amazed by and grateful for the seemingly limitless courage, hard work, and sacrifice of healthcare workers, other essential workers, and the people who stood up for social justice.
 
 These two years have been incredibly tough for students, care givers (esp. parents of young children), and daily-wage workers -- difficulties that were hugely compounded due to also belonging to systematically minoritized/underrepresented/disadvantaged groups. In addition to these difficulties, my heart goes out to those who also have suffered the loss of loved ones.
@@ -108,9 +108,10 @@ However, let me make a few things clear:
 \[ [Top](https://github.com/krishnanlab/teaching/edit/master/2021-fall_statgaps/policies.md#philosophy-presence-conduct-honesty-and-accommodations) ]
 
 
-# Learning Online
+## Learning Online
 There is a permanent Zoom meeting (posted on the [course Slack workspace](https://statgaps2021.slack.com/)), which anyone can use to attend the classes remotely. All of you should have invitations to join this Slack workspace in your MSU email.
-## Zoom Best Practices
+
+### Zoom Best Practices
 * Please log-in in a timely manner.
 * Please use a headphone (if you can) so that we can avoid audio feedback.
 * I will _really_ appreciate if you can keep your video on for as many class hours as you can. Your acknowledgement, questions, and comments together is the wind beneath my wings. Having said that, I am cognizant of the fact that you may be at your residence or in a common area and each of you will have a unique circumstance in terms of convenience of working environment, other family-members/roommates, childcare/pet-care needs, spotty internet, etc. All of us will fully accommodate any of this.
