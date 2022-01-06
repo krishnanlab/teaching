@@ -15,7 +15,9 @@ Welcome to the Spring 2022 edition of **Bioinformatics and Computational Biology
 
 In this course, students will also learn how to formulate problems for quantitative inquiry, design computational projects, think critically about data & methods, do reproducible research, and communicate findings.
 
-This website contains up-to-date information about everything related to this class. The [class Slack workspace](https://compbio2022.slack.com/) will be the space for all live announcements and discussions. If you're enrolled, an invitation should be in your MSU email. If not, email Arjun ASAP.
+* **Syllabus:** The PDF of the course syllabus is [here](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/CompBio2022_Syllabus.pdf).
+* **Website:** This website contains up-to-date information about everything related to this class.
+* **Slack:** The [class Slack workspace](https://compbio2022.slack.com/) will be the space for all live announcements and discussions. If you're enrolled, an invitation should be in your MSU email. If not, email Arjun ASAP.
 
 ### Enrollment
 Open to both undergraduate and graduate students. Counts toward the CMSE minor, graduate certificates, and dual PhD. Please email Heather Johnson at john1451@msu.edu for an override.
