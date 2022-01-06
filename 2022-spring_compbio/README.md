@@ -113,22 +113,22 @@ The calendar below contains the class schedule and the links to the lecture slid
 | Day_42 Mon, Apr 25 | Final Project Submission | Work on project and report |  |
 | Day_43 Wed, Apr 27 | Final Project Submission | Work on project and report |  |
 | Day_44 Fri, Apr 29 | Final Project Submission | Work on project and report |  |
-| Day_45 Tue, May 03 | Lightning talks | Student presentations | _Note:_ Diff. day/time: Tue, 12:45 – 2:45p |
+| Day_45 Tue, May 03 | Lightning talks | Student presentations | _Note:_ Diff. day/time: Tue, May 03, 12:45 – 2:45p |
 
 #### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#home-of-compbio2022) ]
 
 ### Project Milestones
 | Milestone | Due date | Links/Notes |
 |:--------- | :---------- | :---------- |
-| 1. Reserach profile | Fri, Jan 21 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#1-research-profile)] |
-| 2. Project topic | Fri, Feb 04 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#2-project-topics)] |
+| 1. Reserach profile | Fri, Jan 22 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#1-research-profile)] |
+| 2. Project topic | Fri, Feb 03 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#2-project-topics)] |
 | 3. Project pre-proposal | Fri, Feb 11 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#3-project-pre-proposal)] |
 | 4. Project proposal | Fri, Feb 18 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#4-project-proposal)] |
 | 5. Proposal reviews | Fri, Feb 25 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#5-proposal-reviews)] |
 | 6. Mid-term project presentation recordings | Fri, Mar 18 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#6-mid-course-project-presentations)] |
 | 7. Mid-course Project presentation reviews | Fri, Mar 25 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#7-mid-course-project-presentation-reviews)] |
-| 8. Final project report | Wed, Apr 21 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#9-final-project-report)] |
-| 9. Final project poster presentations | _Note:_ Diff. day/time \| Thr, Apr 29, 12:45 – 2:45p | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#10-final-project-poster-presentations--thr-apr-29-1245--245p)] |
+| 8. Final project report | Fri, Apr 29 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#9-final-project-report)] |
+| 9. Final project poster presentations | _Note:_ Diff. day/time \| Tue, May 03, 12:45 – 2:45p | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#10-final-project-poster-presentations--thr-apr-29-1245--245p)] |
 
 #### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#home-of-compbio2022) ]
 
