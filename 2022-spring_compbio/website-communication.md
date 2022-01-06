@@ -1,7 +1,7 @@
 # [CMSE 410/890: Bioinformatics and Computational Biology](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio)
 
 >[Home, Schedule, Lectures, and Assignments](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md)  
->Website and Communication
+>Website and Communication  
 >[Course Activities and Grading](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md)  
 >[Philosophy, Presence, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/policies.md)  
 
@@ -19,5 +19,5 @@ The primary mode of communication in this course (including major announcements)
 Although the bulk of the communication will take place via Slack, at times (rarely), we will send out important course information via email. This email is sent to your MSU email address (the one that ends in “@msu.edu”). You are responsible for all information sent out to your University email account, and for checking this account on a regular basis.
 
 
-#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/website-communication.md#website-and-communication) ]
 
