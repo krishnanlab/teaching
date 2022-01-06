@@ -34,7 +34,7 @@ Your role as a learner in this class is to:
 ### Meeting Arjun
 Grade points are also allocated for meeting Arjun at least _thrice_ over the semester during the student hours to discuss the project and the lecture materials:
 1. Week of Jan 24 to introduce yourself and discuss project ideas, potential mentors, and relevant papers.
-2. Week of Mar 14 to discuss project progress, proposal reviews, and revised project plan.
+2. Week of Mar 21 to discuss project progress, proposal reviews, and revised project plan.
 3. Any other time during the semester to discuss topics covered in any particular lecture.
 
 ### Interacting with Your Learning Group
@@ -66,15 +66,18 @@ The outcomes of this semester-long project should include:
     - Download and process the data
     - Perform the computational analysis and generate all the results
     - Visualize the results as multiple tables/plots
-2. Detailed final report containing the following sections:
-    - Abstract
-    - Introduction
-    - Data and Methods
-    - Results and Discussion
-    - Limitations and Future Directions
+2. Detailed final report containing the following sections (see the `Final project report` section below):
+    - Problems and goals
+    - Datasets
+    - Computational approach
+    - Summary of key findings
+    - Challenges
+    - Reflections and future directions
+    - Acknowledgements
     - References
     - Glossary
-3. A poster that describes your project - motivation, exact problem, approach, results, discussion & conclusions, limitations & future directions, acknowledgements.
+3. A final project presentation.
+    - This may be a poster if we can do the finals in-person. If not, this shall be a lightning talk. See details below.
 
 
 ### Project milestones throughout the semester
@@ -210,7 +213,7 @@ Notes:
 
 #### 6. Mid-course project presentations
 >Due: Fri, Mar 18
-Use the class time to prepare and record a video your presentation (maximum of 10 min), and submit a link to the video using this form `<LINK>`.
+Record a video your presentation (maximum of 10 min), and submit a link to the video using this form `<LINK>`.
 
 You are encouraged to make a google slides presentation and use those slides to present your project update. You can then use Zoom or Loom to record your video. Then, you can either upload the mp4 file to YouTube as an unlisted file or to a file sharing service like Google Drive or Dropbox and then provide the link to the video via this form.
 
@@ -231,7 +234,7 @@ Make sure to include the following information in your presentation:
 
 #### 7. Mid-course project presentation reviews
 >Due: Fri, Mar 25
-Use the class time to review presentations by your peers based on the detailed rubric. You can find your review assignment in the "Midterm Presentation Reviews" in the shared class schedule google sheet and submit your reviews – once per review assignment – using this form `<LINK>`.
+Review presentations by your peers based on the detailed rubric. You can find your review assignment in the "Midterm Presentation Reviews" in the shared class schedule google sheet and submit your reviews – once per review assignment – using this form `<LINK>`.
 
 
 #### 8. Final project report
