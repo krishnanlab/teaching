@@ -1,12 +1,14 @@
 # [CMSE 410/890: Bioinformatics and Computational Biology](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio)
 
->Home, Schedule, Lectures, and Assignments
+>Home, Schedule, Lectures, and Assignments  
 >[Website and Communication](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/website-communication.md)  
 >[Course Activities and Grading](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md)  
 >[Philosophy, Presence, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/policies.md)  
 
 
 # Home of CompBio2022
+
+[Description](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#description) | [Instructor](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#instructor) | [Schedule](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#schedule) | [Class Calendar](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#class-calendar) | [Project Milestones](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#project-milestones) | [Student Hours](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#student-hours)
 
 ## Description
 Welcome to the Spring 2022 edition of **Bioinformatics and Computational Biology**, an introduction to the inner-workings of methods in bioinformatics and computational biology: analytical techniques, algorithms, and statistical/machine-learning approaches developed to address key questions in biology and medicine.
@@ -60,10 +62,10 @@ The calendar below contains the class schedule and the links to the lecture slid
 
 | Date | Module | Topic | Notes |
 |:-:|:-|:-|:-|
-| Day_-03 Mon, Jan 10 | Refreshers | Statistics and Probability | _Note:_ Review day |
-| Day_-02 Wed, Jan 12 | Refreshers | Concepts in Computing | _Note:_ Review day |
-| Day_-01 Fri, Jan 14 | Refreshers | Programming | _Note:_ Review day |
-| Day_00 Mon, Jan 17 | MLK day; No class | MLK day; No class | _Note:_ MLK day; No class |
+| Day_-03 Mon, Jan 10 | Refreshers | Probability and statistics | _Note:_ Review day |
+| Day_-02 Wed, Jan 12 | Refreshers | Computing | _Note:_ Review day |
+| Day_-01 Fri, Jan 14 | Refreshers | Building models based on data | _Note:_ Review day |
+| Day_00 Mon, Jan 17 | No class | No class | _Note:_ No class |
 | Day_01 Wed, Jan 19 | Introductions | Course Overview | _Note:_ Online class begins</br></br>\[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Introductions_Course-overview.pdf)] |
 | Day_02 Fri, Jan 21 | Introductions | Intro to Bioinfo & CompBio | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Introductions_Intro-to-Bioinfo-and-Compbio.pdf)] |
 | Day_03 Mon, Jan 24 | Sequence Alignment | Dynamic programming | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Sequence-alignment-and-search_DP-local-global-alignment.pdf)]</br></br>\[[Assignment + Paper presentation](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Assignments/Sequence-alignment-and-search_Assignment-and-paper-presentation.md)] |
@@ -82,11 +84,11 @@ The calendar below contains the class schedule and the links to the lecture slid
 | Day_16 Wed, Feb 23 | Regulatory Genomics | Expectation-Maximization; Gibbs sampling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Regulatory-genomics_Expectation-Maximixation.pdf)] |
 | Day_17 Fri, Feb 25 | Regulatory Genomics | Paper discussion | 1. What are DNA sequnence motifs? \[[Journal](https://www.nature.com/articles/nbt0406-423)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Papers/Dhaeseleer2006_what-are-dna-motifs.pdf)]</br>2. How does DNA sequence motif discovery work? \[[Journal](https://www.nature.com/articles/nbt0806-959)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Papers/Dhaeseleer2006_how-does-motif-discovery-work.pdf)]</br>3. What is the Expectation Maximization algorithm? \[[Journal](https://www.nature.com/articles/nbt1406)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Papers/Do-Batzoglou2008_what-is-EM.pdf)]</br>4. Practical Strategies for Discovering Regulatory DNA Sequence Motifs \[[Journal](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020036)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Papers/MacIsaac-Fraenkel2006_strategies-for-discovering-motifs.pdf)] |
 | Day_18 Mon, Feb 28 | CompBio Primers | Organizing and managing a project | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/CompBio-primers_Organizing-a-project-Managing-data-code.pdf)] |
-| Day_19 Wed, Mar 02 | Break day; No class | Break day; No class | _Note:_ Mid-semester feedback due on Th, Mar 04 |
-| Day_20 Fri, Mar 04 | CompBio Primers | Kickstarting a project | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/CompBio-primers_Kickstarting-a-project.pdf)] |
-| Day_21 Mon, Mar 07 | CompBio Primers | Presenting data and results | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/CompBio-primers_Kickstarting-a-project.pdf)] |
-| Day_22 Wed, Mar 09 | Mid-course Project Update | Recording presentations |  |
-| Day_23 Fri, Mar 11 | Mid-course Project Update | Project presentation reviews |  |
+| Day_19 Wed, Mar 02 | CompBio Primers | Kickstarting a project | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/CompBio-primers_Kickstarting-a-project.pdf)] |
+| Day_20 Fri, Mar 04 | CompBio Primers | Presenting data and results | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/CompBio-primers_Kickstarting-a-project.pdf)] |
+| Day_21 Mon, Mar 07 | No Class | No Class | _Note:_ Spring Break |
+| Day_22 Wed, Mar 09 | No Class | No Class | _Note:_ Spring Break |
+| Day_23 Fri, Mar 11 | No Class | No Class | _Note:_ Spring Break |
 | Day_24 Mon, Mar 14 | Functional Genomics | Similarity measures; Clustering | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Functional-genomics_Similarity-measures-Clustering.pdf)]</br></br>[[Assignment + Paper presentation](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Assignments/Functional-genomics_Assignment-and-Paper-presentation.md)] |
 | Day_25 Wed, Mar 16 | Functional Genomics | Differential expression; Functional enrichment |  |
 | Day_26 Fri, Mar 18 | Functional Genomics | Paper discussion | A module map showing conditional activity of expression modules in cancer \[[Journal](https://www.nature.com/articles/ng1434)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Papers/Segal2004_cancer-module-map.pdf)] |
@@ -102,25 +104,25 @@ The calendar below contains the class schedule and the links to the lecture slid
 | Day_36 Mon, Apr 11 | Modeling Cellular Pathways | Dynamical modeling, Simple motifs, Bifurcations | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Modeling-cellular-pathways_Dynamical-systems-Simple-motifs.pdf)]</br></br>[[Assignment + Paper presentation](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Assignments/Modeling-cellular-pathways_Assignment-and-paper-presentation.md)] |
 | Day_37 Wed, Apr 13 | Modeling Cellular Pathways | State space; Cell cycle models | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Modeling-cellular-pathways_State-space-Cell-cycle-model.pdf)] |
 | Day_38 Fri, Apr 15 | Modeling Cellular Pathways | Paper discussion | Construction of a genetic toggle switch in E. coli \[[Journal](https://www.nature.com/articles/35002131)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Papers/Gardner2000-Ecoli-genetic-toggle-switch.pdf)] |
-| Day_39 Mon, Apr 18 | Whole-cell Models; Digital Evolution | Genome-scale metabolic models; Constraint-based modeling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Whole-cell-models-Digital-evolution_Flux-balance-analysis.pdf)] |
-| Day_40 Wed, Apr 20 | Whole-cell Models; Digital Evolution | Artificial life | _Note:_ Last lecture</br></br>\[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/)]</br></br>_Papers:_</br>1. Network-based prediction of human tissue-specific metabolism \[[Journal](https://www.nature.com/articles/nbt.1487)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Papers/Shlomi2008_tissue-specific-metabolic-network.pdf)]</br>2. Integration of expression data in genome-scale metabolic network reconstructions (Mini supplementary reading to help with the main paper) \[[Journal](https://www.frontiersin.org/articles/10.3389/fphys.2012.00299/full)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Papers/Blazier2012_integrating-expression-with-metabolic-network.pdf)]</br> |
-| Day_41 Fri, Apr 22 | Break day; No class | Break day; No class | _Note:_ Break day; No class |
-| Day_42 Mon, Apr 25 | Lightning talks | Student presentations | _Note:_ Diff. day/time: Thr, 12:45 – 2:45p |
-| Day_42 Wed, Apr 27 | Lightning talks | Student presentations | _Note:_ Diff. day/time: Thr, 12:45 – 2:45p |
-| Day_42 Fri, Apr 29 | Lightning talks | Student presentations | _Note:_ Diff. day/time: Thr, 12:45 – 2:45p |
-| Day_42 Tue, May 03 | Lightning talks | Student presentations | _Note:_ Diff. day/time: Tue, 12:45 – 2:45p |
+| Day_39 Mon, Apr 18 | Whole-cell Models; Digital Evolution | Genome-scale metabolic models | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Whole-cell-models-Digital-evolution_Flux-balance-analysis.pdf)] |
+| Day_40 Wed, Apr 20 | Whole-cell Models; Digital Evolution | Constraint-based modeling | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/)]</br></br>_Papers:_</br>1. Network-based prediction of human tissue-specific metabolism \[[Journal](https://www.nature.com/articles/nbt.1487)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Papers/Shlomi2008_tissue-specific-metabolic-network.pdf)]</br>2. Integration of expression data in genome-scale metabolic network reconstructions (Mini supplementary reading to help with the main paper) \[[Journal](https://www.frontiersin.org/articles/10.3389/fphys.2012.00299/full)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Papers/Blazier2012_integrating-expression-with-metabolic-network.pdf)] |
+| Day_41 Fri, Apr 22 | Whole-cell Models; Digital Evolution | Artificial life | _Note:_ Last lecture</br></br>\[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/)]</br></br>_Paper:_</br>The evolutionary origin of complex features \[[Journal](https://www.nature.com/articles/nature01568)] \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Papers/Lenski2003_digital-evolution-complex-features.pdf)] |
+| Day_42 Mon, Apr 25 | Final Project Submission | Work on project and report |  |
+| Day_43 Wed, Apr 27 | Final Project Submission | Work on project and report |  |
+| Day_44 Fri, Apr 29 | Final Project Submission | Work on project and report |  |
+| Day_45 Tue, May 03 | Lightning talks | Student presentations | _Note:_ Diff. day/time: Tue, 12:45 – 2:45p |
 
 
-### Project milestones
+### Project Milestones
 | Milestone | Due date | Links/Notes |
 |:--------- | :---------- | :---------- |
-| 1. Reserach profile | Fri, Jan 22 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#1-research-profile)] |
-| 2. Project topic | Wed, Feb 03 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#2-project-topics)] |
-| 3. Project pre-proposal | Fri, Feb 12 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#3-project-pre-proposal)] |
-| 4. Project proposal | Fri, Feb 19 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#4-project-proposal)] |
-| 5. Proposal reviews | Sat, Feb 27 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#5-proposal-reviews)] |
-| 6. Mid-term project presentation recordings | Wed, Mar 10 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#6-mid-course-project-presentations)] |
-| 7. Mid-course Project presentation reviews | Fri, Mar 12 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#7-mid-course-project-presentation-reviews)] |
+| 1. Reserach profile | Fri, Jan 21 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#1-research-profile)] |
+| 2. Project topic | Fri, Feb 04 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#2-project-topics)] |
+| 3. Project pre-proposal | Fri, Feb 11 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#3-project-pre-proposal)] |
+| 4. Project proposal | Fri, Feb 18 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#4-project-proposal)] |
+| 5. Proposal reviews | Fri, Feb 25 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#5-proposal-reviews)] |
+| 6. Mid-term project presentation recordings | Fri, Mar 18 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#6-mid-course-project-presentations)] |
+| 7. Mid-course Project presentation reviews | Fri, Mar 25 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#7-mid-course-project-presentation-reviews)] |
 | 8. Final project report | Wed, Apr 21 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#9-final-project-report)] |
 | 9. Final project poster presentations | _Note:_ Diff. day/time \| Thr, Apr 29, 12:45 – 2:45p | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#10-final-project-poster-presentations--thr-apr-29-1245--245p)] |
 
