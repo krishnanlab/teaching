@@ -12,7 +12,6 @@
 This [GitHub repo](https://github.com/krishnanlab/teaching/tree/master/2022-spring_compbio) will serve as the course website.  
 
 ## Communication
->Slack will be the primary mode of communication
 The primary mode of communication in this course (including major announcements), will be the [course Slack account](https://compbio2022.slack.com). All of you should have invitations to join this account in your MSU email.  
 
 **Emails**  
