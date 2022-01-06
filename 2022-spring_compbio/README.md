@@ -134,4 +134,4 @@ I will block these time from my schedule and be present for you to talk to me on
 1. While I'm happy to chat with you over zoom, many times, just sending me a message on Slack with your questions/concerns might work as well. So, if you have specific Qs in mind, just shoot me a message and let's see if we can resolve it then and there.
 2. If you would indeed like to meet over zoom, please try to meet me during this time. But, don't worry if you can't make it during this window for some reason. Again, just send me a message on Slack and we'll find a time that works for both of us.
 
-#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#home-of-compbio2022) ]
