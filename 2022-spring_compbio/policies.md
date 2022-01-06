@@ -8,6 +8,9 @@
 
 # Philosophy, Presence, Conduct, Honesty, and Accommodations
 
+## Land Acknowledgement
+Let's begin by acknowledging that Michigan State University occupies the ancestral, traditional and contemporary lands of the Anishinaabeg – Three Fires Confederacy of Ojibwe, Odawa and Potawatomi peoples. The university resides on land ceded in the 1819 Treaty of Saginaw. Map: https://www.canr.msu.edu/nai/about/land-acknowledgements.
+
 ## Teaching Philosophy
 The cornerstone of my teaching philosophy is to consider each class as an inclusive collaborative learning community where we can all work together to enhance each other's learning. To foster this community, my goal is to make sure that our class is a space where all of you can join in, breathe, be seen & heard, be curious, and openly engage with the ideas.
 
