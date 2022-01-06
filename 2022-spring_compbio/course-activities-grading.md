@@ -2,7 +2,7 @@
 
 >[Home, Schedule, Lectures, and Assignments](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md)  
 >[Website and Communication](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/website-communication.md)  
->Course Activities and Grading
+>Course Activities and Grading  
 >[Philosophy, Presence, Conduct, Honesty, and Accommodations](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/policies.md)  
 
 
@@ -44,10 +44,12 @@ Take advantage of the in-class learning groups you are part of. I am asking you 
 * Bring unresolved questions to the Friday online class and ask me those Qs.
 * Or, just say HI and continue to do your work in the company of your peers.
 
+#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#course-activities-and-grading) ]
 
 ## Assignments | ~25% of the grade
 For each topic, you will be given an assignment after the topic's first "Lecture" class on Monday that you are required to work on and submit before beginning of the "paper discussion" class on Friday the same week. Links to the assignment will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/schedule-lectures-assignments.md#calendar) and specific instructions about each assignment and what/how to submit will be posted on Slack.
 
+#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#course-activities-and-grading) ]
 
 ## Semester Project and Presentation | ~50% of the grade
 A major goal of this course is to prepare you for performing original research in computational biology, and for effectively presenting your ideas and research. The semester project will serve as the most practical way to do exactly that.
@@ -73,6 +75,7 @@ The outcomes of this semester-long project should include:
     - References
     - Glossary
 3. A poster that describes your project - motivation, exact problem, approach, results, discussion & conclusions, limitations & future directions, acknowledgements.
+
 
 ### Project milestones throughout the semester
 There are **nine [project milestones](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#project-milestones)** throughout the course that will help you stay on track, enabling you to complete a substantial project.
@@ -113,7 +116,7 @@ NOTE: Meet with Arjun during the week of Jan 24 to introduce yourself and discus
 
 
 #### 3. Project pre-proposal
->Due: Fri, Feb 12
+>Due: Fri, Feb 11
 Prepare a two-page pre-proposal based on the following guidelines and submit it using this form `<LINK>`.
 
 * Length, page settings:
@@ -139,7 +142,7 @@ Prepare a two-page pre-proposal based on the following guidelines and submit it 
 
 
 #### 4. Project proposal
->Due: Fri, Feb 19
+>Due: Fri, Feb 18
 Write a full project proposal based on the following guidelines and submit it using this form `<LINK>`.
 
 * Length, page settings:
@@ -177,9 +180,9 @@ Write a full project proposal based on the following guidelines and submit it us
 
 
 #### 5. Proposal reviews
->Due: Sat, Feb 27
+>Due: Fri, Feb 25
 Check out the details below. I’m happy to hear any questions/thoughts you have and happy to clarify anything further.  
-Submit your reviews using this form `<LINK>` by **11:59pm Sat, Feb 27**.
+Submit your reviews using this form `<LINK>` by **11:59pm Fri, Feb 25**.
 
 _Reviewer assignments_  
 Your peer-review assignments are in the sheet ‘Proposal Review Assignments’ under the columns ‘Reviewer 1’ & ‘Reviewer 2’ in the shared class schedule Google Sheet. I will be the 3rd reviewer for all proposals. In that same sheet, you will also find a link to the PDFs of all the proposals.
@@ -202,11 +205,11 @@ Organize each review based on the following sections:
 
 Notes:
 * Make sure you include all three types of comments: stuff that’s good, stuff that’s not working at all, and stuff that is valuable but needs improvement.  
-* Make sure you focus on the science and not just on the writing. You can do this by focusing just on asking yourself if the proposal contains answers to the questions laid out in the 'Project Proposal Instructions' [above](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#4-project-proposal--due-fri-feb-19).
+* Make sure you focus on the science and not just on the writing. You can do this by focusing just on asking yourself if the proposal contains answers to the questions laid out in the 'Project Proposal Instructions' [above](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#4-project-proposal).
 
 
 #### 6. Mid-course project presentations
->Due: Wed, Mar 10
+>Due: Fri, Mar 18
 Use the class time to prepare and record a video your presentation (maximum of 10 min), and submit a link to the video using this form `<LINK>`.
 
 You are encouraged to make a google slides presentation and use those slides to present your project update. You can then use Zoom or Loom to record your video. Then, you can either upload the mp4 file to YouTube as an unlisted file or to a file sharing service like Google Drive or Dropbox and then provide the link to the video via this form.
@@ -227,12 +230,12 @@ Make sure to include the following information in your presentation:
 
 
 #### 7. Mid-course project presentation reviews
->Due: Fri, Mar 12
+>Due: Fri, Mar 25
 Use the class time to review presentations by your peers based on the detailed rubric. You can find your review assignment in the "Midterm Presentation Reviews" in the shared class schedule google sheet and submit your reviews – once per review assignment – using this form `<LINK>`.
 
 
 #### 8. Final project report
->Due: Wed, Apr 21
+>Due: Fri, Apr 29
 Continue making substantial progress on proposed milestones.  
 Complete milestones, finalize results, figures, and complete the following questionnaire _AS SPECIFICALLY AND DETAILED AS POSSIBLE_ based on the guidelines below and submit it using this form `<LINK>`.
 
@@ -287,11 +290,11 @@ Complete milestones, finalize results, figures, and complete the following quest
 To the end of this report (not included in the 10-page limit), attach your project Glossary (what you were compiling throughout this semester) as additional pages.
 
 
-#### 9. Final project ~~poster~~ presentations
->Tue, Apr 29, 12:45 – 2:45p
+#### 9. Final project presentations
+>Tue, May 03, 12:45 – 2:45p
 You will be presenting a short talk about your project on this day.
 
-Make your presentation using Google Slides and, before **Noon Thr, Apr 29**, submit the following using this form `<LINK>`:
+Make your presentation using Google Slides and submit the following using this form `<LINK>` before **11:59p Fri, Apr 29**:
 1. A link to the slides. NOTE: Please make sure the slides can be viewed by anyone with the link.
 2. A PDF of the slides.
 
@@ -322,7 +325,7 @@ NOTE:
 2. All your presentations will be recorded for evaluation purposes.
 
 
-#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#cmse-410-890-bioinformatics-and-computational-biology) ]
+#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#course-activities-and-grading) ]
 
 
 ## Grading Information
