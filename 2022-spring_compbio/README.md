@@ -31,6 +31,7 @@ Basically, it would be assumed that you:
 #### Recommended Materials
 [This document](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Additional-learning-resources.md) contains links to a bunch of excellent resources for brushing-up your Unix, Python/R, Statistics, and Biology.
 
+#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#home-of-compbio2022) ]
 
 ## Instructor
 Name | Arjun Krishnan
@@ -40,6 +41,7 @@ Affiliation | Dept. Computational Mathematics, Science, and Engineering</br>Dept
 Office | 2507H Engineering Building
 Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com/compbiologist)</br>Website: https://thekrishnanlab.org
 
+#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#home-of-compbio2022) ]
 
 ## Schedule, Calendar, and Student Hours
 
@@ -56,6 +58,7 @@ All aspects of our course's schedule will be maintained in a living shared googl
 4. **Midterm Presentation Discussion**: Schedule for discussions about midterm presentations. This is empty now. I will populate and tell you all more later.
 5. **Final Presentation Discussion**: Schedule for discussions about final presentations. This is empty now. I will populate and tell you all more later.
 
+#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#home-of-compbio2022) ]
 
 ## Class Calendar
 The calendar below contains the class schedule and the links to the lecture slides and reading materials.
@@ -112,6 +115,7 @@ The calendar below contains the class schedule and the links to the lecture slid
 | Day_44 Fri, Apr 29 | Final Project Submission | Work on project and report |  |
 | Day_45 Tue, May 03 | Lightning talks | Student presentations | _Note:_ Diff. day/time: Tue, 12:45 – 2:45p |
 
+#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#home-of-compbio2022) ]
 
 ### Project Milestones
 | Milestone | Due date | Links/Notes |
@@ -126,6 +130,7 @@ The calendar below contains the class schedule and the links to the lecture slid
 | 8. Final project report | Wed, Apr 21 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#9-final-project-report)] |
 | 9. Final project poster presentations | _Note:_ Diff. day/time \| Thr, Apr 29, 12:45 – 2:45p | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#10-final-project-poster-presentations--thr-apr-29-1245--245p)] |
 
+#### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#home-of-compbio2022) ]
 
 ### Student Hours
 * TBD
