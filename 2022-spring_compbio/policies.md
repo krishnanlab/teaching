@@ -116,7 +116,7 @@ There is a permanent Zoom meeting (posted on the [course Slack workspace](https:
 * Please log-in in a timely manner.
 * Please use a headphone (if you can) so that we can avoid audio feedback.
 * I will _really_ appreciate if you can keep your video on for as many class hours as you can. Your acknowledgement, questions, and comments together is the wind beneath my wings. Having said that, I am cognizant of the fact that you may be at your residence or in a common area and each of you will have a unique circumstance in terms of convenience of working environment, other family-members/roommates, childcare/pet-care needs, spotty internet, etc. All of us will fully accommodate any of this.
-* As I'm giving the lecture in-person, I will not be able to do justice to monitoring the Chat window for questions. So, please unmute yourself and speak-up to ask questions and provide your comments/answers.
+* In case we end-up in-person, I will still keep the zoom space available but I will not be able to do justice to monitoring the Chat window for questions. So, please unmute yourself and speak-up to ask questions and provide your comments/answers.
 
 #### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/policies.md#philosophy-presence-conduct-honesty-and-accommodations) ]
 
