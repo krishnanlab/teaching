@@ -117,8 +117,8 @@ The calendar below contains the class schedule and the links to the lecture slid
 ### Project Milestones
 | Milestone | Due date | Links/Notes |
 |:--------- | :---------- | :---------- |
-| 1. Reserach profile | Fri, Jan 22 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#1-research-profile)] |
-| 2. Project topic | Fri, Feb 03 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#2-project-topics)] |
+| 1. Reserach profile | Fri, Jan 21 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#1-research-profile)] |
+| 2. Project topic | Fri, Feb 04 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#2-project-topics)] |
 | 3. Project pre-proposal | Fri, Feb 11 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#3-project-pre-proposal)] |
 | 4. Project proposal | Fri, Feb 18 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#4-project-proposal)] |
 | 5. Proposal reviews | Fri, Feb 25 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#5-proposal-reviews)] |
