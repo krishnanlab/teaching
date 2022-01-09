@@ -85,7 +85,7 @@ There are **nine [project milestones](https://github.com/krishnanlab/teaching/bl
 
 
 #### 1. Research profile
->Due: Fri, Jan 22
+>Due: Fri, Jan 21
 Complete this form `<LINK>` with a write-up of your research profile (three short paragraphs) containing a description the following:
 
 1. Your previous research experience:
@@ -100,7 +100,7 @@ Complete this form `<LINK>` with a write-up of your research profile (three shor
 
 
 #### 2. Project topics
->Due: Wed, Feb 03
+>Due: Wed, Feb 04
 Briefly describe project ideas and submit it using this form `<LINK>`.  
 1. Your previous research experience:
     * Include topics/problems you have worked on and the computational skills/tools you have used.
