@@ -8,7 +8,7 @@
 
 # Course Activities and Grading
 
-## Class Participation | ~25% of the grade
+## Class Participation | ~30% of the grade
 Each week is dedicated to one module where we will discuss multiple topics. For each module, Arjun will give lectures on Monday, Wednesday, and half of Friday. Then, a small group of students (based on a schedule determined at the beginning of the semester) will lead a discussion based on a paper relevant to that module.
 
 ### Lecture
@@ -33,8 +33,8 @@ Your role as a learner in this class is to:
 
 ### Meeting Arjun
 Grade points are also allocated for meeting Arjun at least _thrice_ over the semester during the student hours to discuss the project and the lecture materials:
-1. Week of Jan 24 to introduce yourself and discuss project ideas, potential mentors, and relevant papers.
-2. Week of Mar 21 to discuss project progress, proposal reviews, and revised project plan.
+1. Week of Jan 17 to introduce yourself and discuss project ideas, potential mentors, and relevant papers.
+2. Week of Mar 28 to discuss project progress, proposal reviews, and revised project plan.
 3. Any other time during the semester to discuss topics covered in any particular lecture.
 
 ### Interacting with Your Learning Group
@@ -46,12 +46,12 @@ Take advantage of the in-class learning groups you are part of. I am asking you 
 
 #### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#course-activities-and-grading) ]
 
-## Assignments | ~25% of the grade
+## Assignments | ~35% of the grade
 For each topic, you will be given an assignment after the topic's first "Lecture" class on Monday that you are required to work on and submit before beginning of the "paper discussion" class on Friday the same week. Links to the assignment will be posted on this page next to the topic on the [Calendar](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#class-calendar) and specific instructions about each assignment and what/how to submit will be posted on Slack.
 
 #### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#course-activities-and-grading) ]
 
-## Semester Project and Presentation | ~50% of the grade
+## Semester Project and Presentation | ~35% of the grade
 A major goal of this course is to prepare you for performing original research in computational biology, and for effectively presenting your ideas and research. The semester project will serve as the most practical way to do exactly that.
 
 Projects can take any one of the following flavors:
@@ -85,41 +85,34 @@ There are **nine [project milestones](https://github.com/krishnanlab/teaching/bl
 
 
 #### 1. Research profile
->Due: Fri, Jan 21
-Complete this form `<LINK>` with a write-up of your research profile (three short paragraphs) containing a description the following:
+>Due: Fri, Jan 21  
 
+Meet with Arjun to discuss your research experience, topics of interest, and project ideas. You can either find a time during the offline hours or coordinate (via Slack) with Arjun to find another time week of Jan 17.
+
+When you meet, please prepare to discuss:
 1. Your previous research experience:
-    * Include topics/problems you have worked on and the computational skills/tools you have used.
+    * Topics/problems you have worked on and the computational skills/tools you have used.
 2. Areas of research interest in bioinformatics / computational biology:
     * Check out this course's modules and topics (on the class website) for some guidance.
 3. Type of project that best fits your interests
     * You can pick one among the following – i) designing new approaches, ii) improving existing methods, iii) comparing & benchmarking multiple methods, iv) developing fully-reproducible documentation & codebase for an existing analysis – or something else.
-    * If you are undergrad taking the 410 version of this course AND if you do
-    not have any prior research experience, I strongly recomment type iv, which
-    is to build a case study of an specific analysis in a published paper.
+    * If you are undergrad taking the 410 version of this course AND if you do not have any prior research experience, I strongly recomment type IV, which is to build a case study of an specific analysis in a published paper.
 
 
 #### 2. Project topics
 >Due: Wed, Feb 04
-Briefly describe project ideas and submit it using this form `<LINK>`.  
-1. Your previous research experience:
-    * Include topics/problems you have worked on and the computational skills/tools you have used.
-2. Areas of research interest in bioinformatics / computational biology:
-    * Check out this course's modules and topics (on the class website) for some guidance.
-3. Type of project that best fits your interests
-    * You can pick one among the following – designing new approaches, improving existing methods, comparing & benchmarking multiple methods, developing fully-reproducible documentation & codebase for an existing analysis – or something else.
 
+Briefly describe project ideas and submit it using this form `<LINK>`.  
 
 You need to provide a:
 1. Project title
 2. Potential project mentor/advisor: The faculty member, graduate student, or postdoc you're going to work with who might advise you on this project.
-3. Abstract (250 words): In your abstract, make sure you include answers to the following four questions: 1) What is the problem? 2) How is it addressed currently & what are the limitations? 3) What is your approach to addressing it & why is likely to be successful?, and 4) If successful, why does it matter (what is the impact)?
-
-NOTE: Meet with Arjun during the week of Jan 24 to introduce yourself and discuss project ideas, potential mentors, and relevant papers.
+3. Abstract (250 words): In your abstract, make sure you include answers to the following four questions: 1) What is the broader problem? 2) What do you specifically want to address? 3) What is your approach to addressing it & why is likely to be successful?, and 4) If successful, why does it matter (what is the impact)?
 
 
 #### 3. Project pre-proposal
 >Due: Fri, Feb 11
+
 Prepare a two-page pre-proposal based on the following guidelines and submit it using this form `<LINK>`.
 
 * Length, page settings:
@@ -146,8 +139,8 @@ Prepare a two-page pre-proposal based on the following guidelines and submit it 
 
 #### 4. Project proposal
 >Due: Fri, Feb 18
-Write a full project proposal based on the following guidelines and submit it using this form `<LINK>`.
 
+Write a full project proposal based on the following guidelines and submit it using this form `<LINK>`.
 * Length, page settings:
     * 5-pages (including figures & references; sections listed below)
     * 1-inch margins
@@ -184,8 +177,9 @@ Write a full project proposal based on the following guidelines and submit it us
 
 #### 5. Proposal reviews
 >Due: Fri, Feb 25
+
 Check out the details below. I’m happy to hear any questions/thoughts you have and happy to clarify anything further.  
-Submit your reviews using this form `<LINK>` by **11:59pm Fri, Feb 25**.
+Submit your reviews using this form `<LINK>`.
 
 _Reviewer assignments_  
 Your peer-review assignments are in the sheet ‘Proposal Review Assignments’ under the columns ‘Reviewer 1’ & ‘Reviewer 2’ in the shared class schedule Google Sheet. I will be the 3rd reviewer for all proposals. In that same sheet, you will also find a link to the PDFs of all the proposals.
@@ -213,6 +207,7 @@ Notes:
 
 #### 6. Mid-course project presentations
 >Due: Fri, Mar 18
+
 Record a video your presentation (maximum of 10 min), and submit a link to the video using this form `<LINK>`.
 
 You are encouraged to make a google slides presentation and use those slides to present your project update. You can then use Zoom or Loom to record your video. Then, you can either upload the mp4 file to YouTube as an unlisted file or to a file sharing service like Google Drive or Dropbox and then provide the link to the video via this form.
@@ -234,11 +229,15 @@ Make sure to include the following information in your presentation:
 
 #### 7. Mid-course project presentation reviews
 >Due: Fri, Mar 25
+
 Review presentations by your peers based on the detailed rubric. You can find your review assignment in the "Midterm Presentation Reviews" in the shared class schedule google sheet and submit your reviews – once per review assignment – using this form `<LINK>`.
+
+Then, meet with Arjun during the week of Mar 28 to discuss your project progress, proposal reviews, and revised project plan.
 
 
 #### 8. Final project report
 >Due: Fri, Apr 29
+
 Continue making substantial progress on proposed milestones.  
 Complete milestones, finalize results, figures, and complete the following questionnaire _AS SPECIFICALLY AND DETAILED AS POSSIBLE_ based on the guidelines below and submit it using this form `<LINK>`.
 
@@ -295,6 +294,7 @@ To the end of this report (not included in the 10-page limit), attach your proje
 
 #### 9. Final project presentations
 >Tue, May 03, 12:45 – 2:45p
+
 You will be presenting a short talk about your project on this day.
 
 Make your presentation using Google Slides and submit the following using this form `<LINK>` before **11:59p Fri, Apr 29**:
