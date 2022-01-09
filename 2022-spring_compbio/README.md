@@ -62,12 +62,12 @@ The calendar below contains the class schedule and the links to the lecture slid
 
 | Date | Module | Topic | Notes |
 |:-:|:-|:-|:-|
-| Day_01 Wed, Jan 19 | Introductions | Course Overview | _Note:_ Online class begins</br></br>\[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Introductions_Course-overview.pdf)] |
-| Day_02 Fri, Jan 21 | Introductions | Intro to Bioinfo & CompBio | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Introductions_Intro-to-Bioinfo-and-Compbio.pdf)] |
-| Day_03 Mon, Jan 10 | Refreshers | Probability and statistics | _Note:_ Review day |
+| Day_01 Wed, Jan 10 | Course Overview | Course Overview | _Note:_ Online class begins</br></br>\[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Introductions_Course-overview.pdf)] |
+| Day_03 Mon, Jan 12 | Refreshers | Probability and statistics | _Note:_ Review day |
+| Day_05 Wed, Jan 14 | Refreshers | Computing | _Note:_ Review day |
 | Day_04 Mon, Jan 17 | No class | No class | _Note:_ No class |
-| Day_05 Wed, Jan 12 | Refreshers | Computing | _Note:_ Review day |
-| Day_06 Fri, Jan 14 | Refreshers | Building models based on data | _Note:_ Review day |
+| Day_06 Fri, Jan 19 | Refreshers | Building models based on data | _Note:_ Review day |
+| Day_02 Fri, Jan 21 | Intro to Bioinfo & CompBio | Topical Overview | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Introductions_Intro-to-Bioinfo-and-Compbio.pdf)] |
 | Day_07 Mon, Jan 24 | Sequence Alignment | Dynamic programming | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Sequence-alignment-and-search_DP-local-global-alignment.pdf)]</br></br>\[[Assignment + Paper presentation](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Assignments/)] |
 | Day_08 Wed, Jan 26 | Sequence Alignment | Substitution matrices | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Sequence-alignment-and-search_Substitution-matrix-BLAST.pdf)] |
 | Day_09 Fri, Jan 28 | Sequence Alignment | Fast local alignment; Paper discussion | 1. Basic local alignment search tool \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Papers/Altschul1990_BLAST.pdf)]</br>2. Steps used by the BLAST algorithm \[[PDF](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Papers/Mount2007_steps-used-by-blast.pdf)]</br></br>\[[Student presentation](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Sequence-alignment-and-search_Student-presentation_BLAST.pdf)] |
