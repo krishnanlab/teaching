@@ -334,9 +334,9 @@ NOTE:
 ## Grading Information
 Activity | Percentage
 :----- | ---------:
-Assignments | ~25%
-Class participation | ~25%
-Project | ~50%
+Assignments | ~35%
+Class participation | ~30%
+Project | ~35%
 
 ### Grading Scale
 Point | Percentage
