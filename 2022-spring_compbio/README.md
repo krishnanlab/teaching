@@ -62,9 +62,9 @@ The calendar below contains the class schedule and the links to the lecture slid
 
 | Date | Module | Topic | Notes |
 |:-:|:-|:-|:-|
-| Day_01 Mon, Jan 10 | Course Overview | Course Overview | _Note:_ Online class begins</br></br>\[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Introductions_Course-overview.pdf)] |
-| Day_02 Wed, Jan 12 | Refreshers | Probability and statistics | _Note:_ Review day |
-| Day_03 Fri, Jan 14 | Refreshers | Computing | _Note:_ Review day |
+| Day_01 Mon, Jan 10 | Course Overview | Course Overview – Part 1 | _Note:_ Online class begins</br></br>\[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Introductions_Course-overview.pdf)] |
+| Day_02 Wed, Jan 12 | Course Overview | Course Overview – Part 2 | _Note:_ Review day |
+| Day_03 Fri, Jan 14 | Refreshers | Probability and statistics | _Note:_ Review day |
 | Day_04 Mon, Jan 17 | No class | No class | _Note:_ No class |
 | Day_05 Wed, Jan 19 | Refreshers | Building models based on data | _Note:_ Review day |
 | Day_06 Fri, Jan 21 | Intro to Bioinfo & CompBio | Topical Overview | \[[Lecture](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/Lectures/Introductions_Intro-to-Bioinfo-and-Compbio.pdf)] |
