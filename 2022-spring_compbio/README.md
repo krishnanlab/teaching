@@ -130,7 +130,7 @@ The calendar below contains the class schedule and the links to the lecture slid
 #### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#home-of-compbio2022) ]
 
 ### Student Hours
-* TBD
+**Thursdays 5–6pm**
 
 I will block these time from my schedule and be present for you to talk to me one-on-one. Couple of things to note:
 1. While I'm happy to chat with you over zoom, many times, just sending me a message on Slack with your questions/concerns might work as well. So, if you have specific Qs in mind, just shoot me a message and let's see if we can resolve it then and there.
