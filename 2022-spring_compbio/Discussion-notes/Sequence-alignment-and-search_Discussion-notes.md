@@ -9,12 +9,12 @@ Unfortunately, the [1990 paper](https://github.com/krishnanlab/teaching/blob/mas
 The PDF of this article (`Pertsemlidis2022_Having-a-BLAST.pdf`) along with PDF of all papers assigned in this class are available in the [Paper directory](https://github.com/krishnanlab/teaching/blob/4bfcb0985c5792f52ee9cf60bcbc6643667618c9/2022-spring_compbio/Papers/).
 
 Three other resources that will be useful for looking up terminology are:
-1. BLAST Glossary https://en.wikipedia.org/wiki/BLAST
-2. BLAST Handbook: https://www.ncbi.nlm.nih.gov/books/NBK153387/
-3. BLAST Practical details https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp
+1. [BLAST Wikipedia page](https://en.wikipedia.org/wiki/BLAST)
+2. [BLAST Handbook](https://www.ncbi.nlm.nih.gov/books/NBK153387/)
+3. [BLAST Practical details](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp)
 
 ## Discussion content and structure
-Your paper discussion should cover the following parts and be lead by one member from each learning group mentioned beside the title. Use this [shared google slide document](https://docs.google.com/presentation/d/1SkIQo38DYiXYdK7XQ8nrAQvoh4iXRGqCpMmWxk83Cyo/edit?usp=sharing) to prepare your presentation. You will be using these slides on Friday for the discussion. 
+Your paper discussion should cover the following parts and be lead by one member from each learning group mentioned beside the title. Use this **[shared google slide document](https://docs.google.com/presentation/d/1SkIQo38DYiXYdK7XQ8nrAQvoh4iXRGqCpMmWxk83Cyo/edit?usp=sharing)** to prepare your presentation. You will be using these slides on Friday for the discussion. 
 
 ### Part 1 | _Group 1_
 1. How does BLAST work?
