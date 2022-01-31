@@ -13,7 +13,7 @@ Your paper discussion should cover the following parts and be led by one member 
 > Explain based on `Figure 1` and related text.
 
 ### Part 2 | _Group 2_
-2. At a high level, explain how _Tour Bus_ algorithm work to remove bubbles and how the _Breadcrumb_ algorithm works to resolve repeats?
+2. At a high level, explain how the _Tour Bus_ algorithm works to remove bubbles and how the _Breadcrumb_ algorithm works to resolve repeats?
 > Explain based on `Figure 2` and `Figure 5`, and related text in the paper.
 
 ### Part 3 | _Group 3_
