@@ -102,18 +102,18 @@ When you meet, please prepare to discuss:
 #### 2. Project topics
 >Due: Wed, Feb 04
 
-Briefly describe project ideas and submit it using this form `<LINK>`.  
+Briefly describe project ideas and submit it [using this form](https://forms.gle/1KfauCXS5TaBYrDx6).  
 
 You need to provide a:
 1. Project title
 2. Potential project mentor/advisor: The faculty member, graduate student, or postdoc you're going to work with who might advise you on this project.
-3. Abstract (250 words): In your abstract, make sure you include answers to the following four questions: 1) What is the broader problem? 2) What do you specifically want to address? 3) What is your approach to addressing it & why is likely to be successful?, and 4) If successful, why does it matter (what is the impact)?
+3. Abstract (250 words): In your abstract, make sure you include answers to the following four questions: 1) What is the problem? 2) How are planning to address it & why is your approach required (i.e., why are you doing what you're doing)?, and 3) If successful, why do the results of your project matter (what is the impact)?
 
 
 #### 3. Project pre-proposal
 >Due: Fri, Feb 11
 
-Prepare a two-page pre-proposal based on the following guidelines and submit it using this form `<LINK>`.
+Prepare a two-page pre-proposal based on the following guidelines and submit it [using this form].
 
 * Length, page settings:
     * 2-pages (including figure & references; sections listed below)
@@ -126,10 +126,9 @@ Prepare a two-page pre-proposal based on the following guidelines and submit it 
     * Page 1:
         * Title, your name, and your project mentor/advisor’s name.
         * Write short paragraphs answering the following four questions:
-            1. What is the topic/problem?
-            2. How is it addressed currently & what are the limitations?
-            3. What is your approach to addressing it & why is likely to be successful?
-            4. If successful, why does it matter (what is the impact)?
+            1. What is the broad topic and the specific problem you are working on?
+            2. How are planning to address the problem and why is your approach required (i.e., why are you doing what you're doing)?
+            3. If successful, why do the results of your project matter (what is the impact)?
     * Page 2:
         * Graphical abstract:
             - A graphical illustration that summarizes your project idea. For e.g., something like the ones in these papers: https://www.cell.com/cell-systems/fulltext/S2405-4712(18)30438-1 or https://www.cell.com/cell-systems/fulltext/S2405-4712(18)30509-X. Keep it simple but informative.
@@ -140,7 +139,7 @@ Prepare a two-page pre-proposal based on the following guidelines and submit it 
 #### 4. Project proposal
 >Due: Fri, Feb 18
 
-Write a full project proposal based on the following guidelines and submit it using this form `<LINK>`.
+Write a full project proposal based on the following guidelines and submit it [using this form](https://forms.gle/AWqew1ayN2NWZCuf6).
 * Length, page settings:
     * 5-pages (including figures & references; sections listed below)
     * 1-inch margins
@@ -150,10 +149,9 @@ Write a full project proposal based on the following guidelines and submit it us
     * 11pt font size for all text including figure/table titles/legends.
 * Sections:
     1. Background, goals, and significance:
-        * What is the problem you are hoping to address?
-        * What is the current approach & its limitations?
-        * What will you do & why is it likely to succeed?
-        * If what you propose is successful, what is the broader impact?
+        * What is the broad topic and the specific problem you are working on?
+        * How are planning to address the problem and why is your approach required (i.e., why are you doing what you're doing)?
+        * If successful, why do the results of your project matter (what is the impact)?
     2. Datasets:
         * What datasets will you use?
         * Where are these data from?
