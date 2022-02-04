@@ -118,7 +118,7 @@ The calendar below contains the class schedule and the links to the lecture slid
 | Milestone | Due date | Links/Notes |
 |:--------- | :---------- | :---------- |
 | 1. Reserach profile | Fri, Jan 21 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#1-research-profile)] |
-| 2. Project topic | Fri, Feb 04 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#2-project-topics)]</br>\[[Submission link](https://forms.gle/1KfauCXS5TaBYrDx6)] |
+| 2. Project topic | ~~Fri, Feb 04~~</br>_Cancelled; Directly submit pre-proposal on Feb 11_ | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#2-project-topics)]</br>\[[Submission link](https://forms.gle/1KfauCXS5TaBYrDx6)] |
 | 3. Project pre-proposal | Fri, Feb 11 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#3-project-pre-proposal)]</br>\[[Submission link](https://forms.gle/iomkqgweRNjDt7Cd8)] |
 | 4. Project proposal | Fri, Feb 18 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#4-project-proposal)]</br>\[[Submission link](https://forms.gle/AWqew1ayN2NWZCuf6)] |
 | 5. Proposal reviews | Fri, Feb 25 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#5-proposal-reviews)]</br>\[[Submission link](https://forms.gle/qmPurB7QDMXDsn95A)] |
