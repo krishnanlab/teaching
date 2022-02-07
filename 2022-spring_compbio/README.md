@@ -50,7 +50,7 @@ Contact | Email: arjun@msu.edu</br>Twitter: [@compbiologist](https://twitter.com
 Dates | Jan 10 – May 01, 2022
 :------------ | :------------
 Weekly | Mon, Wed, and Fri</br>09:10 am - 10:00 am
-Location | 1220 Engineering</br>Check the [course Slack workspace](https://compbio2022.slack.com/) for zoom details)
+Location | In-perons: 1220 Engineering building</br>Zoom: check the [course Slack workspace](https://compbio2022.slack.com/) for details
 
 ### Note on all schedules
 All aspects of our course's schedule will be maintained in a living shared google sheet document (link available on Slack). This doc contains the i) Full course calendar, ii) Paper presentation schedule, iii) Student hour appointments, iv) Midterm presentation schedule, and v) Final presentation schedule.
