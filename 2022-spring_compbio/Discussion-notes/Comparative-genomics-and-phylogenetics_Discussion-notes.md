@@ -19,7 +19,7 @@ Read the four papers and parse them in terms of the following aspects to fill up
 
 
 ## Discussion content and structure
-Your paper discussion should cover the following parts and be led by one member from each learning group mentioned beside the title. Use this **[shared google slide document](https://docs.google.com/presentation/d/18PRNV7UCWOEsMZI23EqcSHY5o2LQuy_xsmWp0rXiE1o/edit?usp=sharing)** to prepare your presentation. You will be using these slides on Friday, Feb 11 for the discussion. 
+Your paper discussion should cover the following parts and be led by one member from each learning group mentioned beside the title. Use this **[shared google slide document](https://docs.google.com/presentation/d/1sBBmN0gX7gplc5ZsJNHrUORTyFxlBVECFOqcg7Rtc4o/edit?usp=sharing)** to prepare your presentation. You will be using these slides on Friday, Feb 11 for the discussion. 
 
 Each group takes one MUMer paper (MUMmer v1 to v4) and should plan to present the key advances in that version compared to the previous on in terms of each of the four aspects: i) Biology/conceptual, ii) Technological/experimental, iii) Algorithmic/methodological, and iv) Hardware/software. See the notes above for more details.
 
