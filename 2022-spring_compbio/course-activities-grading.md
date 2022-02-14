@@ -113,7 +113,7 @@ You need to provide a:
 #### 3. Project pre-proposal
 >Due: Fri, Feb 11
 
-Prepare a two-page pre-proposal based on the following guidelines and submit it [using this form].
+Prepare a two-page pre-proposal based on the following guidelines and submit it [using this form](https://forms.gle/iomkqgweRNjDt7Cd8).
 
 * Length, page settings:
     * 2-pages (including figure & references; sections listed below)
