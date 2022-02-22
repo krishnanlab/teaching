@@ -177,7 +177,7 @@ Write a full project proposal based on the following guidelines and submit it [u
 >Due: Fri, Feb 25
 
 Check out the details below. I’m happy to hear any questions/thoughts you have and happy to clarify anything further.  
-Submit your reviews using this form `<LINK>`.
+Submit your reviews [using this form](https://forms.gle/qmPurB7QDMXDsn95A).
 
 _Reviewer assignments_  
 Your peer-review assignments are in the sheet ‘Proposal Review Assignments’ under the columns ‘Reviewer 1’ & ‘Reviewer 2’ in the shared class schedule Google Sheet. I will be the 3rd reviewer for all proposals. In that same sheet, you will also find a link to the PDFs of all the proposals.
