@@ -8,7 +8,7 @@ The PDF of this article (`Segal2004_cancer-module-map.pdf`) is available in the 
 
 
 ## Discussion content and structure
-Your paper discussion should cover the following parts, led by one member from each learning group mentioned beside the title. Use this **[shared google slide document](https://docs.google.com/presentation/d/1pc7r9PhcTCm18d5CiCrIdIT7ehbWEP0NC0Jolr34fEU/edit?usp=sharing)** to prepare your presentation. You will be using these slides on Friday, Mar 16 for the discussion.
+Your paper discussion should cover the following parts, led by one member from each learning group mentioned beside the title. Use this **[shared google slide document](https://docs.google.com/presentation/d/1pc7r9PhcTCm18d5CiCrIdIT7ehbWEP0NC0Jolr34fEU/edit?usp=sharing)** to prepare your presentation. You will be using these slides on Friday, Mar 18 for the discussion.
 
 ### Two important notes
 * Absolutely no need to repeat anything I have covered in the lectures. Your discussion should build off of what I've covered. You're welcome to say things like 'Arjun covered this in class' and then talk about the additional things from this paper.
