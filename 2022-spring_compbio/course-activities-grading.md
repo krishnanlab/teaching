@@ -206,7 +206,7 @@ Notes:
 #### 6. Mid-course project presentations
 >Due: Fri, Mar 18
 
-Record a video your presentation (maximum of 10 min), and submit a link to the video using this form `<LINK>`.
+Record a video your presentation (maximum of 10 min), and submit a link to the video using in the _"Midterm Presentation Review Assignments"_ sheet in the shared class schedule google sheet document.
 
 You are encouraged to make a google slides presentation and use those slides to present your project update. You can then use Zoom or Loom to record your video. Then, you can either upload the mp4 file to YouTube as an unlisted file or to a file sharing service like Google Drive or Dropbox and then provide the link to the video via this form.
 
