@@ -19,7 +19,7 @@ Your paper discussion should cover the following parts, led by one member from e
 What is the problem of pseudotime inference trajectory with single cell gene expression data?
 
 ### Part 2 | _Group 2_
-Independent Component Analysis (ICA) is used for dimensionality reduction instead of PCA. What is ICA and how is it different from PCA?
+What is Independent Component Analysis (ICA), how is it different from PCA, and how is it used in Monocle?
 
 ### Part 3 | _Group 3_
 What is the minimum spanning tree (MST) and how is it used in Monocle?
