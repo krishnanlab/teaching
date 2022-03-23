@@ -228,7 +228,7 @@ Make sure to include the following information in your presentation:
 #### 7. Mid-course project presentation reviews
 >Due: Fri, Mar 25
 
-Review presentations by your peers based on the detailed rubric. You can find your review assignment in the "Midterm Presentation Reviews" in the shared class schedule google sheet and submit your reviews – once per review assignment – using this form `<LINK>`.
+Review presentations by your peers based on the detailed rubric. You can find your review assignment in the "Midterm Presentation Reviews" in the shared class schedule google sheet and submit your reviews – once per review assignment – [using this form](https://forms.gle/HB74nTqyYt7gvEib7).
 
 Then, meet with Arjun during the week of Mar 28 to discuss your project progress, proposal reviews, and revised project plan.
 
