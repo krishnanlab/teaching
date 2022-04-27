@@ -124,8 +124,8 @@ The calendar below contains the class schedule and the links to the lecture slid
 | 5. Proposal reviews | Fri, Feb 25 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#5-proposal-reviews)]</br>\[[Submission link](https://forms.gle/qmPurB7QDMXDsn95A)] |
 | 6. Mid-term project presentation recordings | Fri, Mar 18 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#6-mid-course-project-presentations)]</br>\[[Submit link in the class schedule google doc]] |
 | 7. Mid-course Project presentation reviews | Fri, Mar 25 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#7-mid-course-project-presentation-reviews)]</br>\[[Submission link](https://forms.gle/HB74nTqyYt7gvEib7)] |
-| 8. Final project report | Fri, Apr 29 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#8-final-project-report)]</br>\[[Submission link](https://forms.gle/)] |
-| 9. Final project poster presentations | _Note:_ Diff. day/time \| Tue, May 03, 12:45 – 2:45p | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#9-final-project-presentations-poster-and-slide-presentation)]</br>\[[Submission link](https://forms.gle/)] |
+| 8. Final project report | Sun, May 01 | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#8-final-project-report)]</br>\[[Submission link](https://forms.gle/)] |
+| 9. Final project presentations | _Note:_ Diff. day/time \| Tue, May 03, 12:45 – 2:45p | \[[More info](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#9-final-project-presentations-poster-and-slide-presentation)]</br>\[[Submission link](https://forms.gle/)] |
 
 #### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/README.md#home-of-compbio2022) ]
 
