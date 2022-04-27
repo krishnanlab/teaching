@@ -237,7 +237,7 @@ Then, meet with Arjun during the week of Mar 28 to discuss your project progress
 >Due: Sun, May 01
 
 Continue making substantial progress on proposed milestones.  
-Complete milestones, finalize results, figures, and complete the following questionnaire _AS SPECIFICALLY AND DETAILED AS POSSIBLE_ based on the guidelines below and submit it using this form `<LINK>`.
+Complete milestones, finalize results, figures, and complete the following questionnaire _AS SPECIFICALLY AND DETAILED AS POSSIBLE_ based on the guidelines below and submit it using [this form](https://forms.gle/s9dZSDHicdGXcLN86).
 
 * Length, page settings:
     * 8–10 pages (including figures & references; sections listed below)
