@@ -234,7 +234,7 @@ Then, meet with Arjun during the week of Mar 28 to discuss your project progress
 
 
 #### 8. Final project report
->Due: Fri, Apr 29
+>Due: Sun, May 01
 
 Continue making substantial progress on proposed milestones.  
 Complete milestones, finalize results, figures, and complete the following questionnaire _AS SPECIFICALLY AND DETAILED AS POSSIBLE_ based on the guidelines below and submit it using this form `<LINK>`.
@@ -290,40 +290,51 @@ Complete milestones, finalize results, figures, and complete the following quest
 To the end of this report (not included in the 10-page limit), attach your project Glossary (what you were compiling throughout this semester) as additional pages.
 
 
-#### 9. Final project presentations
+#### 9. Final project presentations – poster and slide presentation
 >Tue, May 03, 12:45 – 2:45p
 
-You will be presenting a short talk about your project on this day.
+**Poster**  
+_**Rubric**_  
+All posters will be evaluated by your peers using [this rubric](https://drive.google.com/file/d/1hMtksx5bSCVRjEUIFdxglwNATUYSbv8x/view?usp=sharing). Take a look this before you make your poster and record your presentation.
 
-Make your presentation using Google Slides and submit the following using this form `<LINK>` before **11:59p Fri, Apr 29**:
-1. A link to the slides. NOTE: Please make sure the slides can be viewed by anyone with the link.
-2. A PDF of the slides.
+_**Preparation**_  
+The goal is to clearly and consicely explain what you have done in terms of the 4 questions:
+1. What is the broad topic and the specific problem you are working on?
+2. How did you go about addressing the problem? Make sure to include why your approach is required (i.e., _why_ did you do what you did)?
+3. What are the results and what are the take-homes?
+4. What are the next steps and, in general, who cares?
 
-Here's are the guidelines for preparing your presentation:
+[Here is a poster template](https://docs.google.com/presentation/d/1tgnqmTyVyOojJyGLLDXlECvk9TUDidxwK9ieA7Y0jM4/copy) that you are welcome to use (you should be able to sign into any google account and make a copy). If you do use this template, you are welcome to make any modifications you like to suit your project/results. If you’re not using this template, your poster should be 40" wide x 32" tall (or its transpose).
+You can refer to https://guides.nyu.edu/posters for more information and some excellent suggestions on making good posters.
 
-**Duration**  
-You will have 10 minutes to present your slides _and_ take questions. So, you should plan to present for about 6–7 min and allow 3–4 min for Q&A. Since the duration of the finals is short and fixed, these allotted times will be followed _strictly_. Therefore, I suggest practicing your talk.
+_**Submission**_  
+Submit a link to your poster PDF by 11:59 pm Mon, May 02 in the _"Final Presentation"_ sheet in the shared class schedule google sheet document.
 
-**Content**  
+**Slide presentation**  
+You will be presenting a short talk about your project on the exam day.
+
+_**Duration**_  
+You will have 6 minutes to present your slides _and_ take questions. So, you should plan to present for about 5 min and allow 1 min for Q&A. Since the duration of the finals is short and fixed, these allotted times will be followed _strictly_. Therefore, I suggest practicing your talk.
+
+_**Content**_  
 1. Title slide (1 slide)
     * Include the title of your project along with your full name and affiliation (degree/program/department/etc.).
 2. Problem and goals (1 slide)
     * What is the problem you are tackling? Why is it important? What goals did you want to achieve?
-3. Key findings (1 or more slides)
-    * One or more key technical/scientific findings.
-        - As I described before, a key finding is something about a particular aspect of your project – the biological problem, data, conceptual idea, computational approach, software, etc – that brought out something new and/or interesting and _helped you learn something new_.
-        - Remember that key finding can and should inlcude both _positive_ and _negative_ results/outcomes as long as they were insightful in some way.
-    * For each key finding (one per slide), include a figure or table (or something else) that demonstrates the main point, describe the approach you took to get this result/outcome, and what are the major observations/take-homes.
-4. Biological/computational concepts and computational skills learned through this project
+3. One key finding (1 slide)
+    * One key technical/scientific findings.
+        - A key finding is something about a particular aspect of your project – the biological problem, data, conceptual idea, computational approach, software, etc – that brought out something new and/or interesting and _helped you learn something new_.
+        - Remember that key finding can be either a _positive_ or a _negative_ result/outcome as long as they were insightful in some way.
+    * Illustrate the key finding using a figure or a table (or something else) that demonstrates the main point, describe the approach you took to get this result/outcome, and what are the major observations/take-homes.
+4. Biological/computational concepts and computational skills learned through this project (1 slide)
     * Include a bullet list of some new things you learned on the biology and computational side. These could be concepts, skills, etc.
-5. Reflections
+5. Reflections (1 slide)
     * If you were to start this project afresh from scratch, what would you do differently in terms of the i) problem, ii) data, iii) approach, and iv) code?
-6. Acknowledgements
+6. Acknowledgements (1 slide)
     * Here, mention the full names of everyone who helped with your project at different stages and describe their speicfic contribution. Include mentors, classmates, friends, colleagues, or anyone who helped you make progress in even a small way.
 
-NOTE:
-1. Especially during your presentation – and preferably throughout the final exam hour – I would like you to have your video on if possible.
-2. All your presentations will be recorded for evaluation purposes.
+_**Submission**_  
+Submit a link to your Google slides presentation by 11:59 pm Mon, May 02 in the _"Final Presentation"_ sheet in the shared class schedule google sheet document.
 
 
 #### \[ [Top](https://github.com/krishnanlab/teaching/blob/master/2022-spring_compbio/course-activities-grading.md#course-activities-and-grading) ]
